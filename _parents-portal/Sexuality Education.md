@@ -26,3 +26,10 @@ description: ""
 <p>7. The Primary 5 &amp; 6 Growing Years (GY) package, &ldquo;Curious Minds (2<sup>nd</sup>&nbsp;Edition)&rdquo;, aims to meet students&rsquo; developmental needs, give emphasis to the teaching of skills and values, and focus on helping&nbsp;students navigate&nbsp;<em>changes</em>, build healthy&nbsp;<em>relationships</em>, especially online relationships, and exercise&nbsp;<em>safety</em>.</p>
 <p><strong>At CHIJ (Kellock), the following lessons from the Growing Years Programme will be taught in 2022:</strong></p>
 <p style="text-align: center;"><strong>PRIMARY 5</strong></p>
+<img src="/images/se1.jpg">
+<p style="text-align: center;"><strong>PRIMARY 6</strong></p>
+<img src="/images/se2.jpg">
+<p><strong>Information for Parents</strong></p>
+<p>8. Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.</p>
+<p>9. Parents who wish to opt their children out of the&nbsp;<strong>Growing Years (GY) programme</strong>&nbsp;need to complete an opt-out form. This form is included in the letter to parents. Alternatively, it is also downloadable&nbsp;<u>here</u>&nbsp;(https://form.gov.sg/61da98762efd780012e5c1b0). All opt-out forms must reach your child&rsquo;s form teacher by Wednesday, 24 January 2022.</p>
+<p>10. Parents can contact Mrs Hannah Yuen at 6273 9674 or email her at&nbsp;<a href="mailto:ong_choon_wee@moe.edu.sg">ong_choon_wee@moe.edu.sg</a>&nbsp;for a discussion or to seek clarification about the school&rsquo;s sexuality education programme.</p>
