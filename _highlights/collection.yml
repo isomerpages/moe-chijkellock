@@ -2,6 +2,7 @@ collections:
   highlights:
     output: true
     order:
+      - Achievements/.keep
       - CHIJ 165th Anniversary/CHIJ 165th Anniversary Celebrations.md
       - CHIJ 165th Anniversary/CHIJ 165th Anniversary Forum.md
       - CHIJ 165th Anniversary/Reflections on CHIJ 165th Anniversary by
