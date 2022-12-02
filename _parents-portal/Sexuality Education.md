@@ -31,5 +31,5 @@ description: ""
 <img src="/images/se2.jpg">
 <p><strong>Information for Parents</strong></p>
 <p>8. Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.</p>
-<p>9. Parents who wish to opt their children out of the&nbsp;<strong>Growing Years (GY) programme</strong>&nbsp;need to complete an opt-out form. This form is included in the letter to parents. Alternatively, it is also downloadable&nbsp;<u>here</u>&nbsp;(https://form.gov.sg/61da98762efd780012e5c1b0). All opt-out forms must reach your child&rsquo;s form teacher by Wednesday, 24 January 2022.</p>
+<p>9. Parents who wish to opt their children out of the&nbsp;<strong>Growing Years (GY) programme</strong>&nbsp;need to complete an opt-out form. This form is included in the letter to parents. Alternatively, it is also downloadable <a href="https://form.gov.sg/61da98762efd780012e5c1b0"><u>here</u></a>. All opt-out forms must reach your child&rsquo;s form teacher by Wednesday, 24 January 2022.</p>
 <p>10. Parents can contact Mrs Hannah Yuen at 6273 9674 or email her at&nbsp;<a href="mailto:ong_choon_wee@moe.edu.sg">ong_choon_wee@moe.edu.sg</a>&nbsp;for a discussion or to seek clarification about the school&rsquo;s sexuality education programme.</p>
