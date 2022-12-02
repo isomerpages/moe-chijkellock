@@ -2,6 +2,7 @@ collections:
   the-k-experience:
     output: true
     order:
+      - Creative Arts.md
       - Holistic Health Education.md
       - Character and Citizenship Education.md
       - Information Communication Technology.md
