@@ -2,5 +2,6 @@ collections:
   the-k-experience:
     output: true
     order:
+      - Information Communication Technology.md
       - Distinctive Programmes/Distinctive Programmes.md
       - Distinctive Programmes/.keep
