@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - IJ Board.md
+      - School Information/.keep
       - School Information/School History.md
       - School Information/Our Founder – Blessed Father Barre.md
       - School Information/School Crest & Motto.md
@@ -13,5 +13,5 @@ collections:
       - School Information/School Rules & Regulations.md
       - School Information/Safety Matters and Road Safety & Traffic Management.md
       - School Information/School Service Providers.md
-      - School Information/.keep
+      - IJ Board.md
       - Contact Us.md
