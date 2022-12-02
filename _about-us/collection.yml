@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - IJ Board.md
       - School Information/School History.md
       - School Information/Our Founder – Blessed Father Barre.md
       - School Information/School Crest & Motto.md
