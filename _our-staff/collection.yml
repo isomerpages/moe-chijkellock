@@ -2,8 +2,8 @@ collections:
   our-staff:
     output: true
     order:
-      - Teaching Staff/Teaching Staff.md
-      - Teaching Staff/.keep
       - Our Staff.md
       - Executive Committee.md
+      - Teaching Staff/.keep
+      - Teaching Staff/Teaching Staff.md
       - Support Staff.md
