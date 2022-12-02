@@ -65,3 +65,122 @@ description: ""
 </tr>
 </tbody>
 </table>
+<h4><strong>2021</strong></h4>
+<p><strong>Newsletter</strong></p>
+<p><strong>K-Bites</strong></p>
+<table>
+<tbody>
+<tr>
+<td>Term 1</td>
+<td><a href="https://chijkellock.moe.edu.sg/qql/slot/u520/Parents%20Portal/Communication%20to%20Parents/2021/Kbites%20Jan%202021.pdf">January</a>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td><a href="https://chijkellock.moe.edu.sg/qql/slot/u520/Parents%20Portal/2021/Kbites%20Feb%202021_updated%20on%2028Jan_Final.pdf" target="">February</a></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td><a href="https://chijkellock.moe.edu.sg/qql/slot/u520/Ravathy/March.pdf" target="">March</a></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td><a href="https://chijkellock.moe.edu.sg/qql/slot/u520/Ravathy/April.pdf" target="">April</a></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td><a href="https://chijkellock.moe.edu.sg/qql/slot/u520/Parents%20Portal/2021/Kbites%20May-June2021_Final.pdf" target="">May-June</a></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td><a href="https://chijkellock.moe.edu.sg/qql/slot/u520/Parents%20Portal/2021/Kbites%20July.pdf" target="">July</a></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td><a href="https://chijkellock.moe.edu.sg/qql/slot/u520/Parents%20Portal/2021/Kbites%20August%202021_updated%20on%2030July.pdf" target="">August&nbsp;<strong>(Revised)</strong></a></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td><a href="https://chijkellock.moe.edu.sg/qql/slot/u520/Parents%20Portal/2021/Kbites%20September%202021_edited%20on%2031%20Aug.pdf" target="">September</a></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td><a href="https://chijkellock.moe.edu.sg/qql/slot/u520/Parents%20Portal/Communication%20to%20Parents/2021/Kbites%20October%202021_updated_29Sep.pdf" target="">October</a></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td><a href="https://chijkellock.moe.edu.sg/qql/slot/u520/Parents%20Portal/2021/Kbites%20NovDec%202021%201.pdf" target="">November-December</a></td>
+</tr>
+</tbody>
+</table>
+<h4><strong>2020</strong></h4>
+<div>
+<p><strong>Newsletter</strong></p>
+</div>
+<div>
+<p><strong>K - Bites</strong></p>
+</div>
+<table>
+<tbody>
+<tr>
+<th>Term 1</th>
+<th><a href="https://chijkellock.moe.edu.sg/qql/slot/u520/Parents%20Portal/2020/Kbites%20January%202020.pdf">January</a>&nbsp;</th>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td><a href="https://chijkellock.moe.edu.sg/qql/slot/u520/Parents%20Portal/2020/Updated_Kbites%20February%202020.pdf">February&nbsp;<strong>(Updated)</strong></a>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td><a href="https://chijkellock.moe.edu.sg/qql/slot/u520/Parents%20Portal/2020/Kbites%20March%202020.pdf">March</a></td>
+</tr>
+<tr>
+<td>Term 2</td>
+<td><a href="https://chijkellock.moe.edu.sg/qql/slot/u520/Parents%20Portal/2020/Kbites%20April%202020.pdf">April</a></td>
+</tr>
+<tr>
+<td>Term 3</td>
+<td><a href="https://chijkellock.moe.edu.sg/qql/slot/u520/Parents%20Portal/2020/Kbites%20June%202020.pdf">June&nbsp;</a></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td><a href="https://chijkellock.moe.edu.sg/qql/slot/u520/Parents%20Portal/2020/Kbites%20July%202020.pdf">July</a></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td><a href="https://chijkellock.moe.edu.sg/qql/slot/u520/Parents%20Portal/2020/Kbites%20August%202020.pdf">August</a></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td><a href="https://chijkellock.moe.edu.sg/qql/slot/u520/Parents%20Portal/2020/Kbites%20September%202020_31%20Aug_Final.pdf">September</a></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td><a href="https://chijkellock.moe.edu.sg/qql/slot/u520/Parents%20Portal/2020/Kbites%20October%202020.pdf">October</a></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td><a href="https://chijkellock.moe.edu.sg/qql/slot/u520/Parents%20Portal/2020/Kbites%20November%20&amp;%20December%202020%20(1).pdf">November &amp; December&nbsp;</a></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Kellock Connects</strong></p>
+<table>
+<tbody>
+<tr>
+<th>Term 1</th>
+<th><a href="https://chijkellock.moe.edu.sg/qql/slot/u520/Parents%20Portal/2020/K-Connects%20Draft%207.pdf">Kellock Connects&nbsp;</a>&nbsp;</th>
+</tr>
+<tr>
+<td><strong>Term 2</strong></td>
+<td><a href="https://chijkellock.moe.edu.sg/qql/slot/u520/Parents%20Portal/2020/K-Connects%20Issue%202.pdf"><strong>Kellock Connects</strong></a></td>
+</tr>
+<tr>
+<td><strong>Term 3</strong></td>
+<td><a href="https://chijkellock.moe.edu.sg/qql/slot/u520/Parents%20Portal/2020/K-Connects%20Issue%203%20Final.pdf"><strong>Kellock Connects</strong></a></td>
+</tr>
+<tr>
+<td><strong>Term 4</strong></td>
+<td><a href="https://chijkellock.moe.edu.sg/qql/slot/u520/Parents%20Portal/2020/K-Connects%20Issue%204-compressed.pdf"><strong>Kellock Connects</strong></a></td>
+</tr>
+</tbody>
+</table>
