@@ -2,5 +2,6 @@ collections:
   distinctive-programmes:
     output: true
     order:
+      - Kellock Awareness Week.md
       - STEAM Week.md
       - Learning for Life Programme (LLP).md
