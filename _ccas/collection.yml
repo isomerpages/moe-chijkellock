@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - CCAs.md
       - CCA@Kellock.md
       - CCA Schedule.md
       - Clubs/Media Broadcasting and Photography Club.md
