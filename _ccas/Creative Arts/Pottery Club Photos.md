@@ -4,6 +4,7 @@ permalink: /ccas/creative-arts/pottery-club/pottery-club-photos/
 description: ""
 third_nav_title: Creative Arts
 ---
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTLcK3T1hyqMsn7yFt3L793THOE33qQ4GorbGlUeee-zi_B6ycJyWWf9QOgFlxE3062BsUJmxBbIvqW/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <p style="text-align: center;"><strong>2017 Pottery Girls in Action-1</strong></p>
 <p style="text-align: center;"><strong>2017 Pottery Girls in Action-2</strong></p>
 <p style="text-align: center;"><strong>SYF Art Lab 2016</strong></p>
