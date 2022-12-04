@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Sports/Rhythmic Gymnastics.md
       - Sports/Tennis.md
       - Sports/Swimming.md
       - Sports/Badminton.md
