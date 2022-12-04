@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Clubs/Cookery Club.md
       - Clubs/Cookery Club Photos.md
       - Clubs/Board Games Club.md
       - Clubs/Sewing Club.md
