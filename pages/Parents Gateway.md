@@ -10,7 +10,7 @@ description: ""
 <tr>
 <td style="width: 50%;">
 <p><strong>For assistance to download the Parents Gateway Mobile Application, you may</strong></p>
-<p>1. View the <a href="https://chijkellock.moe.edu.sg/qql/slot/u520/PG/Parents-Gateway-Video.mp4" target="_blank" rel="noopener">Step-by-Step Video Guide</a><br />2. Refer to the&nbsp; <a href="https://chijkellock.moe.edu.sg/qql/slot/u520/PG/Parents-User-Guide.pdf" target="_blank" rel="noopener">Parents User Guide.pdf</a><br />3. Refer to <a href="https://pg.moe.edu.sg/faq" target="_blank" rel="noopener">Parents FAQs</a></p>
+<p>1. View the <a href="https://chijkellock.moe.edu.sg/qql/slot/u520/PG/Parents-Gateway-Video.mp4" target="_blank" rel="noopener">Step-by-Step Video Guide</a><br />2. Refer to the&nbsp; <a href="/files/Parents-User-Guide.pdf" target="_blank" rel="noopener">Parents User Guide.pdf</a><br />3. Refer to <a href="https://pg.moe.edu.sg/faq" target="_blank" rel="noopener">Parents FAQs</a></p>
 </td>
 <td style="width: 50%;"><img style="width: 50%;" src="/images/pg.png" /></td>
 </tr>
