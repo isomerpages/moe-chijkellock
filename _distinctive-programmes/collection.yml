@@ -2,4 +2,5 @@ collections:
   distinctive-programmes:
     output: true
     order:
+      - STEAM Week.md
       - Learning for Life Programme (LLP).md
