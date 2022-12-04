@@ -17,3 +17,4 @@ third_nav_title: Creative Arts
 <p><strong>Teacher-in-charge<br /></strong>Mdm Tunisha, Mrs Widjaja and Ms Khatijah</p>
 <p><strong>Day<br /></strong>Friday</p>
 <p><strong>Time<br /></strong>7.45am - 9.25am</p>
+<img style="width: 80%;" src="/images/cho.png" />
