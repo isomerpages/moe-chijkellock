@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Creative Arts/Art Club.md
       - Creative Arts/Art Club Photos.md
       - Creative Arts/Choir.md
       - Creative Arts/Choir Photos.md
