@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Creative Arts/String Ensemble Photos.md
       - Creative Arts/String Ensemble Videos.md
       - Creative Arts/Dance Ensemble.md
       - Creative Arts/Dance Ensemble Photos.md
