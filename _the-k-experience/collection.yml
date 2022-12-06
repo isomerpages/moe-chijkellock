@@ -2,6 +2,7 @@ collections:
   the-k-experience:
     output: true
     order:
+      - Mathematics/Mathematics.md
       - Mathematics/.keep
       - The K–Experience.md
       - English/.keep
