@@ -2,11 +2,11 @@ collections:
   achievements:
     output: true
     order:
-      - Organisational Excellence/Singapore Quality Class.md
       - Organisational Excellence/.keep
       - Organisational Excellence/Organisational Excellence.md
       - Organisational Excellence/School Distinction Award.md
       - Organisational Excellence/Best Practice Award.md
+      - Organisational Excellence/Singapore Quality Class.md
       - Organisational Excellence/People Developer Standard.md
       - Organisational Excellence/National Arts Education Award–Blaze Award.md
       - Organisational Excellence/School Green Awards.md
