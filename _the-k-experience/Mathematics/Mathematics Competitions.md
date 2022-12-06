@@ -340,6 +340,6 @@ third_nav_title: Mathematics
 <h4><strong>National Olympiad Singapore</strong></h4>
 <p>The National Mathematical Olympiad of Singapore (NMOS) is organised by NUS High School of Math and Science. The objective of this competition is to stimulate interest in Mathematics among primary school students. It also aims to cultivate enthusiasm and instil a love for Mathematics. NMOS provides an avenue to challenge and stretch our students&rsquo; mathematical potential. Our Primary 5 students have been taking part in the competition over the years.</p>
 <p>The top scorers of the Preliminary Round will be invited to sit for a written paper in the Special Round. We hope to nurture mathematical talents in our girls through such competition.</p>
-<div>2017 -&nbsp;6 Honourable Mention</div>
+<p>2017 -&nbsp;6 Honourable Mention</p>
 <p>2016 - 1 Bronze, 4 Honourable Mention</p>
 <p>2015 - 2 Bronze, 7 Honourable Mention</p>
