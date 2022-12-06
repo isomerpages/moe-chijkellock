@@ -2,14 +2,14 @@ collections:
   the-k-experience:
     output: true
     order:
-      - Mathematics/Mathematics.md
-      - Mathematics/.keep
       - The K–Experience.md
       - English/.keep
       - English/English.md
       - English/English Curriculum.md
       - English/Publications.md
       - English/Reading Excellence Award.md
+      - Mathematics/.keep
+      - Mathematics/Mathematics.md
       - Mother Tongue.md
       - Science.md
       - Creative Arts.md
