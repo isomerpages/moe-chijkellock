@@ -2,4 +2,5 @@ collections:
   english-curriculum:
     output: true
     order:
+      - Ignite the Love of Learning/.keep
       - English Curriculum.md
