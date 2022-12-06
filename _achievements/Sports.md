@@ -90,3 +90,88 @@ description: ""
 </tbody>
 </table>
 <p>Click&nbsp;<a href="/highlights/achievements/sports/2019-photos">here</a>&nbsp;for photos.</p>
+<h4><strong>2018</strong></h4>
+<table>
+<tbody>
+<tr>
+<th style="text-align: center;">COMPETITION&nbsp;</th>
+<th style="text-align: center;">ACHIEVEMENTS</th>
+</tr>
+<tr>
+<td style="text-align: center;">South Zone Primary Schools Netball Championships 2018</td>
+<td>
+<div>Juniors &ndash; 3rd</div>
+<div>Seniors &ndash; 2nd</div>
+<div>&nbsp;</div>
+<div>
+<div><strong><u>Sportsmanship Award</u></strong></div>
+<div>Junior: Reggina Tay &ndash; 5 Cerise</div>
+<div>Senior: Kimberly-Jeon Goh &ndash; 6 Earth</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">National Tennis Championships 2018&nbsp;</td>
+<td>
+<p><strong>Sportsmanship Award</strong></p>
+<p>Junior: Shirleen Ho Yiting &ndash; 5 Cerise Senior: Asia Ng Shu Han - 6 Earth</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">National Inter- School Rhythmic Gymnastics Championships 2018</td>
+<td>
+<p><strong>Sportsmanship Award</strong></p>
+<p>Junior: Ang Yun Yi, Shyann &ndash; 5 Cerise</p>
+<div>Senior: Chan Chien Yin, Elysha &ndash; 6 Earth</div>
+&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">10th&nbsp;Singapore Gymnastics National Championships 2018</td>
+<td>
+<p><strong>Junior Division (Level 1) Team 1 Group Freehand &ndash; 2</strong><strong>nd</strong></p>
+<p>Yeh Xuan Rou &ndash; 2 Daisy Ng Xin Yi, Isabelle &ndash; 2&nbsp;Ixora</p>
+<p>Passion Hsu Le Ting &ndash; 2 Ixora Tng Zi Xin &ndash; 2 Ixora</p>
+<p>Hannah Tang Jie En &ndash; 2 Lily</p>
+<p><strong>Junior Division (Level 1) Team 2 Group Freehand &ndash; 3</strong><strong>rd</strong></p>
+<p>Charlotte Soo Wan Ning &ndash; 2 Daisy Lim Le Yi, Laurene &ndash; 2 Hibiscus Ang Xin Yi Natasha &ndash; 2 Ixora</p>
+<p>Yeh Xuan Ni &ndash; 2 Ixora Glenda Lim Rui&nbsp;Min&nbsp;&ndash; 2&nbsp;Rose</p>
+<p>&nbsp;<strong>Junior Division (Level 2) 9 Years Group Freehand &ndash; 2</strong><strong>nd</strong></p>
+<p>Athena Clare Tham Yun Kay (Tan Wanqi) &ndash; 3 Acacia</p>
+<p>Huang You Jie &ndash; 3 Acacia</p>
+<p>Natalie Loewe Chung Shi Rui &ndash; 3 Acacia Genevieve Lim Ci Hiu &ndash; 3 Casuarina</p>
+<div>Yi Tan (Chen Yi) &ndash; 3 Jacaranda</div>
+<div>
+<div>
+<p><strong>Junior Division (Level 2) 10 - 11 Years Group Freehand &ndash; 6</strong><strong>th</strong></p>
+<p>Koh Yun Jia Daysia &ndash; 4 Diamond Laeticia Lim Jia En &ndash; 4 Diamond Rio Onishi &ndash; 4 Diamond</p>
+<p>Tang Wei Sing Alyse &ndash; 4 Ruby Lim Le Qing Lucia &ndash; 5 Cerise</p>
+<p>&nbsp;<strong>Senior Division (Level 3) Group Freehand &ndash; 2</strong><strong>nd&nbsp;</strong>Chan Chien Yin &ndash; 6 Earth Chong Suet Yun &ndash; 6 Earth</p>
+<p>Goldia Chin Xin Ling &ndash; 6 Earth Michelle Lin Jin &ndash; 6 Earth</p>
+<p>Tiffany Chloe Chung Shi Yun &ndash; 6 Earth</p>
+<p>&nbsp;<strong>Junior Division (Level 2) Individual Ball &ndash; 4</strong><strong>th</strong></p>
+<p>Koh Yun Jia Daysia &ndash; 4 Diamond</p>
+<p><strong>Senior Division (Level 3) Individual Clubs &ndash; 2</strong><strong>nd</strong></p>
+<p><strong>Hoop &ndash; 6</strong><strong>th</strong></p>
+<p><strong>Individual All-Around &ndash; 5</strong><strong>th</strong></p>
+Goldia Chin Xin Ling &ndash; 6 Earth</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">National Sailing Championships 2018</td>
+<td>
+<div>Green Fleet (Junior Girls) &ndash; 1st&nbsp;</div>
+<div>Ezann Sephira Tan &ndash; 5 Magenta</div>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">National Taekwondo Championships 2018</td>
+<td>
+<p><strong>Kyorugi &ndash; Under 32kg (Junior Girls) &ndash; 2</strong><strong>nd</strong></p>
+<p>Chaykun Zlata &ndash; 2 Daisy</p>
+<p><strong><u>Sportsmanship Award</u></strong></p>
+<div>Junior: Chaykun Zlata &ndash; 2 Daisy&nbsp;</div>
+</td>
+</tr>
+</tbody>
+</table>
