@@ -2,6 +2,7 @@ collections:
   english-curriculum:
     output: true
     order:
+      - Strengthen/Project Write Right.md
       - Strengthen/.keep
       - English Curriculum.md
       - Ignite the Love of Learning/.keep
