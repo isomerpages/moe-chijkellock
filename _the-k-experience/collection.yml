@@ -2,9 +2,9 @@ collections:
   the-k-experience:
     output: true
     order:
-      - English/English.md
-      - English/.keep
       - The K–Experience.md
+      - English/.keep
+      - English/English.md
       - Mathematics.md
       - Mother Tongue.md
       - Science.md
@@ -12,8 +12,8 @@ collections:
       - Holistic Health Education.md
       - Character and Citizenship Education.md
       - Information Communication Technology.md
+      - Distinctive Programmes/.keep
       - Distinctive Programmes/Applied Learning Programme (ALP).md
       - Distinctive Programmes/Kellock Awareness Week.md
       - Distinctive Programmes/STEAM Week.md
       - Distinctive Programmes/Learning for Life Programme (LLP).md
-      - Distinctive Programmes/.keep
