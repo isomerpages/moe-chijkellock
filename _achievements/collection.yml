@@ -2,5 +2,6 @@ collections:
   achievements:
     output: true
     order:
+      - Staff Achievements/Academy Awards for Professional Development.md
       - Staff Achievements/Staff Achievements.md
       - Staff Achievements/.keep
