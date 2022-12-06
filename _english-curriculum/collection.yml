@@ -2,6 +2,7 @@ collections:
   english-curriculum:
     output: true
     order:
+      - Strengthen/.keep
       - English Curriculum.md
       - Ignite the Love of Learning/.keep
       - Ignite the Love of Learning/EL Week 2019.md
