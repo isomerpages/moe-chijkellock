@@ -2,7 +2,6 @@ collections:
   the-k-experience:
     output: true
     order:
-      - Science/.keep
       - The K–Experience.md
       - English/.keep
       - English/English.md
@@ -15,6 +14,7 @@ collections:
       - Mathematics/Mathematics Competitions.md
       - Mother Tongue.md
       - Science.md
+      - Science/.keep
       - Creative Arts/.keep
       - Creative Arts/Creative Arts.md
       - Creative Arts/Music.md
@@ -27,9 +27,9 @@ collections:
       - Holistic Health Education/Sports Exposure Programmes (SEP) at CHIJ
         Kellock.md
       - Holistic Health Education/Learn–to–Play Programme.md
+      - CCE/.keep
       - CCE/Careers Day.md
       - CCE/Character and Citizenship Education.md
-      - CCE/.keep
       - Information Communication Technology.md
       - Distinctive Programmes/.keep
       - Distinctive Programmes/Applied Learning Programme (ALP).md
