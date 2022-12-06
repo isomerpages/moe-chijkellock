@@ -2,6 +2,7 @@ collections:
   english-curriculum:
     output: true
     order:
+      - Stretch/I Love Lit.md
       - Stretch/Junior Journalism.md
       - Stretch/.keep
       - Strengthen/STELLAR.md
