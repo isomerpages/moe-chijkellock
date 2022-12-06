@@ -2,6 +2,7 @@ collections:
   school-based-curriculum:
     output: true
     order:
+      - Mental Sums and Speed Challenge.md
       - Math Alive.md
       - P1 and P2 White Space Programme.md
       - P2 Supermarket Trail.md
