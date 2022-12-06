@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - Staff Achievements/Caring Teacher Award.md
       - Staff Achievements/LEAP Award.md
       - Staff Achievements/Academy Awards for Professional Development.md
       - Staff Achievements/Staff Achievements.md
