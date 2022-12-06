@@ -2,6 +2,7 @@ collections:
   english-curriculum:
     output: true
     order:
+      - Ignite the Love of Learning/EL Week 2017.md
       - Ignite the Love of Learning/EL Week 2016.md
       - Ignite the Love of Learning/EL Week 2015.md
       - Ignite the Love of Learning/English Week.md
