@@ -2,5 +2,6 @@ collections:
   school-based-curriculum:
     output: true
     order:
+      - Primary 6 Financial Literacy Bazaar.md
       - STEAM Week.md
       - School–Based Curriculum.md
