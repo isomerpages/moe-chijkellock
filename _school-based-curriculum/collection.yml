@@ -2,6 +2,7 @@ collections:
   school-based-curriculum:
     output: true
     order:
+      - P2 Supermarket Trail.md
       - P3 and P4 Mathematics Challenge.md
       - P4 – P6 EXCELLENCE 2000 (E2K).md
       - Primary 6 Financial Literacy Bazaar.md
