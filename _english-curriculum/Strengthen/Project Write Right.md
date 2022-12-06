@@ -34,3 +34,22 @@ third_nav_title: Strengthen
 </tr>
 </tbody>
 </table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 15%;"><img src="/images/pwr6.png"></td>
+<td style="width: 85%;"><p>The first pillar, &lsquo;Generation and Selection of Ideas&rsquo;, is an important pillar. Without this, students will find it challenging to generate and select story ideas and the pieces of writing can morph into run-of-the-mill stories that bore readers.</p></td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/pwr7.jpg"></td>
+<td style="width: 50%;"><img src="/images/pwr8.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;" colspan = "2"><img style="width: 50%;" src="/images/pwr9.jpg"></td>
+</tr>
+</tbody>
+</table>
