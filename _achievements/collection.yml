@@ -2,4 +2,5 @@ collections:
   achievements:
     output: true
     order:
+      - Staff Achievements/Staff Achievements.md
       - Staff Achievements/.keep
