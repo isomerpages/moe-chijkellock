@@ -2,7 +2,6 @@ collections:
   the-k-experience:
     output: true
     order:
-      - CCE/.keep
       - The K–Experience.md
       - English/.keep
       - English/English.md
@@ -27,6 +26,7 @@ collections:
       - Holistic Health Education/Sports Exposure Programmes (SEP) at CHIJ
         Kellock.md
       - Holistic Health Education/Learn–to–Play Programme.md
+      - CCE/.keep
       - Character and Citizenship Education.md
       - Information Communication Technology.md
       - Distinctive Programmes/.keep
