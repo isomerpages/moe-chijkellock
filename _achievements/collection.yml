@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - Organisational Excellence/School Distinction Award.md
       - Organisational Excellence/Best Practice Award.md
       - Organisational Excellence/People Developer Standard.md
       - Organisational Excellence/National Arts Education Award–Blaze Award.md
