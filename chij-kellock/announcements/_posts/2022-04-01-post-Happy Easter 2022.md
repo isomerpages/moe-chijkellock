@@ -6,3 +6,5 @@ layout: post
 description: ""
 image: ""
 ---
+<p>Wishing everyone a blessed and happy Easter!</p>
+<img src="/images/easter.jpg">
