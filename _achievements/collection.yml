@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - Organisational Excellence/Organisational Excellence.md
       - Organisational Excellence/.keep
       - Staff Achievements/.keep
       - Staff Achievements/Staff Achievements.md
