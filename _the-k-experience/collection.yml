@@ -2,6 +2,7 @@ collections:
   the-k-experience:
     output: true
     order:
+      - Holistic Health Education/Holistic Health Education.md
       - Holistic Health Education/.keep
       - The K–Experience.md
       - English/.keep
