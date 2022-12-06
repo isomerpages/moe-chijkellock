@@ -2,6 +2,7 @@ collections:
   english-curriculum:
     output: true
     order:
+      - Stretch/.keep
       - Strengthen/STELLAR.md
       - Strengthen/Project Write Right.md
       - Strengthen/.keep
