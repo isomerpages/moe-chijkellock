@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - The K–Experience.md
+      - English/.keep
+      - English/English.md
       - English/English Curriculum.md
       - English/Publications.md
       - English/Reading Excellence Award.md
-      - English/.keep
-      - English/English.md
       - Mathematics.md
       - Mother Tongue.md
       - Science.md
