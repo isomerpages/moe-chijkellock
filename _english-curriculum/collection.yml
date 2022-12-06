@@ -1,4 +1,5 @@
 collections:
   english-curriculum:
     output: true
-    order: []
+    order:
+      - English Curriculum.md
