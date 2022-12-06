@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - Staff Achievements/PS21 Star Service Award.md
       - Staff Achievements/MOE Excellence Awards.md
       - Staff Achievements/Teacher Awards for Subjects.md
       - Staff Achievements/SPEA Outstanding Teacher–Coach Award.md
