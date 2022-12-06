@@ -1,4 +1,5 @@
 collections:
   school-based-curriculum:
     output: true
-    order: []
+    order:
+      - School–Based Curriculum.md
