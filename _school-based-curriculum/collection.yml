@@ -2,6 +2,7 @@ collections:
   school-based-curriculum:
     output: true
     order:
+      - School–Based Curriculum.md
       - Problem Solving Package (PSP).md
       - Mental Sums and Speed Challenge.md
       - Math Alive.md
@@ -11,4 +12,3 @@ collections:
       - P4 – P6 EXCELLENCE 2000 (E2K).md
       - Primary 6 Financial Literacy Bazaar.md
       - STEAM Week.md
-      - School–Based Curriculum.md
