@@ -25,7 +25,7 @@ third_nav_title: Creative Arts
 </td>
 </tr>
 <tr>
-<td colspan="2">&nbsp;</td>
+<td colspan="2"><img src="/images/ca1.png"></td>
 </tr>
 <tr>
 <td>
@@ -69,7 +69,7 @@ third_nav_title: Creative Arts
 </td>
 </tr>
 <tr>
-<td colspan="2">&nbsp; &nbsp;</td>
+<td colspan="2"><img src="/images/ca2.png"></td>
 </tr>
 <tr>
 <td>
@@ -103,7 +103,15 @@ third_nav_title: Creative Arts
 </td>
 </tr>
 <tr>
-<td colspan="2">&nbsp;</td>
+<td colspan="2"><img src="/images/ca3.png"></td>
 </tr>
 </tbody>
 </table>
+<p><strong>Description:<br /></strong>The design of Kellock&rsquo;s Creative Arts Programme is based on the ArtsONE Framework where students, regardless of their backgrounds and abilities, are provided with broad-based, quality creative arts education through the curriculum and co-curriculum programmes. These programmes actively engage pupils at different levels, depending on needs, interests and talents. Through the 6-years Arts Education, apart from skills learnt, our pupils will experience and learn the importance of graciousness, humility, perseverance and teamwork.</p>
+<h4><strong>Working hand in hand</strong></h4>
+<p><strong>Parents can help:</strong></p>
+<ul>
+<li>Encourage and support your child to participate in the Arts related activities organised for pupils.&nbsp;</li>
+<li>Encourage your child to practise on the instrument which she is learning for the year.&nbsp;</li>
+<li>Encourage your child to keep an open-mind to the learning opportunities that are presented to them.</li>
+</ul>
