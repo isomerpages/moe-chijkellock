@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - Creative Arts.md
       - Organisational Excellence/.keep
       - Organisational Excellence/Organisational Excellence.md
       - Organisational Excellence/School Distinction Award.md
