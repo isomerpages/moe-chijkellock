@@ -2,6 +2,7 @@ collections:
   school-based-curriculum:
     output: true
     order:
+      - P1 and P2 White Space Programme.md
       - P2 Supermarket Trail.md
       - P3 and P4 Mathematics Challenge.md
       - P4 – P6 EXCELLENCE 2000 (E2K).md
