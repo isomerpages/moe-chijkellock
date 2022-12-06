@@ -175,3 +175,80 @@ Goldia Chin Xin Ling &ndash; 6 Earth</div>
 </tr>
 </tbody>
 </table>
+<h4><strong>2017</strong></h4>
+<table>
+<tbody>
+<tr>
+<th style="text-align: center;">COMPETITION&nbsp;</th>
+<th style="text-align: center;">ACHIEVEMENTS</th>
+</tr>
+<tr>
+<td style="text-align: center;">National Primary Schools Netball Championships 2017</td>
+<td><strong><br />Juniors &ndash; 1st<br />Seniors &ndash; 1st&nbsp;</strong><br /><br /></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;<br />South Zone Primary Schools Netball Championships 2017</td>
+<td>
+<p><strong>Juniors &ndash; 3rd<br />Seniors &ndash; 2nd</strong></p>
+<p><strong>Sportsmanship Award</strong><br />Junior: Xaylin Kwek &ndash; 5 Earth<br />Senior: Cheong Jing Yan - 6 Allamanda</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">National Tennis Championships 2017&nbsp;</td>
+<td>
+<p><strong>Seniors &ndash; 3rd</strong></p>
+<p><strong><u>Sportsmanship Award</u></strong><br />Senior: Joelle Toon Jingyi - 6 Allamanda<br />Olivia Ho Yijing &ndash; 6 Allamanda<br />Ng Shi Jie &ndash; 6 Allamanda</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">National Inter- School Rhythmic Gymnastics Championships 2017</td>
+<td>
+<p><strong>Junior Division (Level 2) Group Freehand &ndash; 3rd</strong><br />Koh Yun Jia Daysia &ndash; 3 Diamond<br />Rio Onishi &ndash; 3 Diamond<br />Ang Yun Yi, Shyann &ndash; 4 Indigo<br />Emma Lim Yan Min &ndash; 4 Lilac<br />Michelle Lin Jin &ndash; 5 Earth<br />Chong Suet Yun &ndash; 5 Earth<br />Chan Chien Yin, Elysha &ndash; 5 Earth</p>
+<p><strong><u>Sportsmanship Award<br /></u></strong>Junior: Chan Chien Yin, Elysha &ndash; 5 Earth<br />Senior: Tan Li Ann &ndash; 6 Allamanda</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">9th Singapore Gymnastics National Championships 2017</td>
+<td>
+<p><strong>Senior Division (Level 3) Group Freehand &ndash; 2nd <br /></strong>Chung Weng Yee Nadine &ndash; 6 Allamanda<br />Kang Ling Hui &ndash; 6 Allamanda<br />Tiffany Chloe Chung Shi Yun &ndash; 6 Allamanda<br />Maisie Fan &ndash; 6 Allamanda<br />Yolande Ang &ndash; 6 Allamanda<strong><br /><br />Senior Division&nbsp;Hope&nbsp;(Level 3) Individual Hope-5th<br /></strong>Chung Weng Yee Nadine &ndash; 6 Allamanda<strong><br /><br />Junior Division (Level 2) Group Freehand &ndash; 2nd<br /></strong>Ang Yun Yi, Shyann &ndash; 4 Indigo<br />Emma Lim Yan Min &ndash; 4 Lilac<br />Michelle Lin Jin &ndash; 5 Earth<br />Chong Suet Yun &ndash; 5 Earth<br />Chan Chien Yin, Elysha &ndash; 5 Earth<br /><strong><br />Junior Division (Level 2) Individual Freehand &ndash; 1st</strong><br />Ball &ndash; 6th<br />Koh Yun Jia Daysia &ndash; 3 Diamond<br /><br /><strong>All Around &ndash; 5th</strong><br />Chong Suet Yun &ndash; 5 Earth<br /><br /><strong>All Around &ndash; 6th</strong><br />Ang Yun Yi, Shyann &ndash; 4 Indigo</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Click <a href="/highlights/achievements/sports/2017-photos">here</a> for photos.</strong></p>
+<h4><strong>2016</strong></h4>
+<table>
+<tbody>
+<tr>
+<th style="text-align: center;">COMPETITION&nbsp;</th>
+<th style="text-align: center;">ACHIEVEMENTS</th>
+</tr>
+<tr>
+<td style="text-align: center;"><br />National Primary Schools Netball Championships 2016<br /><br /></td>
+<td>
+<p><strong>Juniors &ndash; 3rd<br />Seniors &ndash; 4th</strong></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;<br />South Zone Primary Schools Netball Championships 2016</td>
+<td>
+<p><strong>Juniors &ndash; 2nd<br />Seniors &ndash; 3rd</strong></p>
+<p><strong><u>Sportsmanship Award</u></strong><br />Juniors: Emily Francisca Pramana - 5 Allamanda<br />Seniors: Cheyenne Goh - 6 Daisy</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">National Inter- School Rhythmic Gymnastics Championships 2016</td>
+<td>
+<p><strong>&lsquo;C&rsquo; Division (Level 1) Group </strong><strong>Freehand &ndash; 1st<br /></strong>Koh YunJia Daysia &ndash; 2 Diamond<br />Rio Onishi &ndash; 2 Jade<br />Kyra Terese Lim &ndash; 2 Sapphire<br />Laeticia Lim Jia En &ndash; 2 Topaz<br />Li ShiCan &ndash; 2 Topaz<br />Tang Wei Sing Alyse &ndash; 2 Ruby</p>
+<p><strong><u>Sportsmanship Award</u></strong><br />Chuang Weng Yee Nadine &ndash; 5 Allamanda</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">8<sup>th</sup>&nbsp;Singapore Gymnastics National Championships 2016</td>
+<td>
+<p><strong>&lsquo;C&rsquo; Division (Level 1) Group</strong><strong> Freehand &ndash; 1st&nbsp;</strong><br />&nbsp;Koh YunJia Daysia &ndash; 2 Diamond<br />Rio Onishi &ndash; 2 Jade<br />Kyra Terese Lim &ndash; 2 Sapphire<br />Laeticia Lim Jia En &ndash; 2 Topaz<br />Li ShiCan &ndash; 2 Topaz<br /><br />&lsquo;C&rsquo; Division (Level 2) Group Freehand &ndash; 3rd <br />Chong Suet Yun &ndash; 4 Mercury<br />Goldia Chin Xin Ling &ndash; 4 Mars<br />Michelle Lin Jin &ndash; 4 Earth<br />Megan Ong &ndash; 4 Earth<br />Chuang Weng Yee Nadine &ndash; 5 Allamanda<br /><br /><strong>Individual (Level 2)<br />Rope &ndash; 4th<br />Ball &ndash; 6th<br />Individual All-Around &ndash; 6th&nbsp;</strong><br />Chuang Weng Yee Nadine &ndash; 5 Allamanda</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Click <a href="/highlights/achievements/sports/2016-photos">here</a>&nbsp;for photos.</strong></p>
