@@ -8,15 +8,9 @@ notification: CHIJ Kellock Primary School Virtual Open House 2022 at
   https://sites.google.com/moe.edu.sg/chijkellockvirtualtour2020/home
 sections:
   - hero:
-      background: /images/hero-banner.png
+      background: /images/banner.gif
       key_highlights:
         - title: Quick Links
           description: ""
-          url: ""
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+          url: /moe-chijkellock/quick-links/
 ---
