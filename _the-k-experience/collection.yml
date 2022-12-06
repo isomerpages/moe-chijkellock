@@ -2,12 +2,6 @@ collections:
   the-k-experience:
     output: true
     order:
-      - Creative Arts/.keep
-      - Creative Arts/Creative Arts.md
-      - Creative Arts/Music.md
-      - Creative Arts/Art.md
-      - Creative Arts/PAL.md
-      - Creative Arts/Achievements in the Arts.md
       - The K–Experience.md
       - English/.keep
       - English/English.md
@@ -20,6 +14,12 @@ collections:
       - Mathematics/Mathematics Competitions.md
       - Mother Tongue.md
       - Science.md
+      - Creative Arts/.keep
+      - Creative Arts/Creative Arts.md
+      - Creative Arts/Music.md
+      - Creative Arts/Art.md
+      - Creative Arts/PAL.md
+      - Creative Arts/Achievements in the Arts.md
       - Holistic Health Education.md
       - Character and Citizenship Education.md
       - Information Communication Technology.md
