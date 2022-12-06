@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - Staff Achievements/SPEA Outstanding Teacher–Coach Award.md
       - Staff Achievements/NIE Caring Teacher Award.md
       - Staff Achievements/Caring Teacher Award.md
       - Staff Achievements/LEAP Award.md
