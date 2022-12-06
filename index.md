@@ -4,7 +4,8 @@ title: Convent of the Holy Infant Jesus (Kellock)
 description: Brief site description here
 image: /images/logo.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: CHIJ Kellock Primary School Virtual Open House 2022 at
+  https://sites.google.com/moe.edu.sg/chijkellockvirtualtour2020/home
 sections:
   - hero:
       title: Hero title
@@ -29,5 +30,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
-
