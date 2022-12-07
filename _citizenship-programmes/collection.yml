@@ -1,0 +1,4 @@
+collections:
+  citizenship-programmes:
+    output: true
+    order: []
