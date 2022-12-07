@@ -2,6 +2,7 @@ collections:
   character-programmes:
     output: true
     order:
+      - Character and Citizenship Education (Curriculum).md
       - FTGP 1–1 Interaction Time.md
       - Values Education.md
       - Keep Singapore Clean Movement.md
