@@ -2,6 +2,7 @@ collections:
   social-studies:
     output: true
     order:
+      - 2018 SS Learning Journeys/2018 P1 Social Studies Learning Journey.md
       - 2018 SS Learning Journeys/2018 P2 Social Studies Learning Journey.md
       - 2018 SS Learning Journeys/2018 P3 Social Studies Learning Journey.md
       - 2018 SS Learning Journeys/2018 P4 Social Studies Learning Journey.md
