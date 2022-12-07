@@ -2,4 +2,5 @@ collections:
   character-programmes:
     output: true
     order:
+      - Kellock Volunteerism.md
       - Clean Plate Campaign.md
