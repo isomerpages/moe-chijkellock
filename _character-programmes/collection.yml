@@ -2,5 +2,6 @@ collections:
   character-programmes:
     output: true
     order:
+      - Keep Singapore Clean Movement.md
       - Kellock Volunteerism.md
       - Clean Plate Campaign.md
