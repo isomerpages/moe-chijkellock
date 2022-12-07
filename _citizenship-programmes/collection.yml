@@ -2,6 +2,7 @@ collections:
   citizenship-programmes:
     output: true
     order:
+      - NE Ambassadors/.keep
       - Social Studies/.keep
       - Social Studies/Social Studies.md
       - Social Studies/2019 Social Studies Learning Journeys.md
