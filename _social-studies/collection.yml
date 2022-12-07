@@ -1,4 +1,5 @@
 collections:
   social-studies:
     output: true
-    order: []
+    order:
+      - 2018 SS Learning Journeys/.keep
