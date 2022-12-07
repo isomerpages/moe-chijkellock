@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - NE Commemorative Events.md
+      - NE Ambassadors/NE Ambassadors.md
       - NE Ambassadors/.keep
       - Social Studies/.keep
       - Social Studies/Social Studies.md
