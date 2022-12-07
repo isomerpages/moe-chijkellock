@@ -1,4 +1,5 @@
 collections:
   citizenship-programmes:
     output: true
-    order: []
+    order:
+      - NE Commemorative Events.md
