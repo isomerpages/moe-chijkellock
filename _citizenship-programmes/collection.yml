@@ -2,4 +2,5 @@ collections:
   citizenship-programmes:
     output: true
     order:
+      - Rooted in Citizenship.md
       - NE Commemorative Events.md
