@@ -2,5 +2,6 @@ collections:
   citizenship-programmes:
     output: true
     order:
+      - Social Studies/.keep
       - Rooted in Citizenship.md
       - NE Commemorative Events.md
