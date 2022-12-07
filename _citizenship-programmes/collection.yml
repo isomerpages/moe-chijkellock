@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - NE Commemorative Events.md
+      - NE Ambassadors/2019.md
       - NE Ambassadors/2018.md
       - NE Ambassadors/NE Ambassadors.md
       - NE Ambassadors/.keep
