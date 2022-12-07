@@ -2,6 +2,7 @@ collections:
   citizenship-programmes:
     output: true
     order:
+      - Social Studies/2018 Social Studies Learning Journeys.md
       - Social Studies/2019 Social Studies Learning Journeys.md
       - Social Studies/Social Studies.md
       - Social Studies/.keep
