@@ -13,3 +13,11 @@ third_nav_title: Social Studies
 <img style="width: 80%;" src="/images/2018p1.jpg" />
 <img style="width: 80%;" src="/images/2018p11.jpg" />
 <p>By encouraging discussion, it allows our students to be exposed to different viewpoints and perspectives. This helps to promote the full educative growth of our students as individuals and social beings. Reflection of experiences and learning also helps to grow our students into a self-reflective inquirer who thinks about her doings and actions. We look forward to a brand new school trail at our new campus at Bukit Teresa Road in 2019!</p>
+<ul>
+<li><strong><a href="/2018-social-studies-learning-journeys/2018-p1-social-studies-learning-journey" target="">2018 P1 Social Studies Learning Journey</a></strong></li>
+<li><strong><a href="/2018-social-studies-learning-journeys/2018-p2-social-studies-learning-journey" target="">2018 P2 Social Studies Learning Journey</a><br /></strong></li>
+<li><strong><a href="/2018-social-studies-learning-journeys/2018-p3-social-studies-learning-journey" target="">2018 P3 Social Studies Learning Journey</a><br /></strong></li>
+<li><strong><a href="/2018-social-studies-learning-journeys/2018-p4-social-studies-learning-journey" target="">2018 P4 Social Studies Learning Journey</a></strong></li>
+<li><strong><a href="/2018-social-studies-learning-journeys/2018-p5-social-studies-learning-journey" target="">2018 P5 Social Studies Learning Journey</a></strong></li>
+<li><strong><a href="/2018-social-studies-learning-journeys/2018-p6-social-studies-learning-journey" target="">2018 P6 Social Studies Learning Journey</a></strong></li>
+</ul>
