@@ -57,6 +57,7 @@ third_nav_title: Malay Language
 <img style="width: 60%;" src="/images/ml19.jpg" /><br>
 <img style="width: 60%;" src="/images/ml20.jpg" />
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRlrRk-0xIdrgngOZjqOQUvbwyZ9XQlnsOO5mq9GMcTlbPLQYyZRIWXO8RPXllIO-cBzWCVNUA6ntn-/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<p style="text-align: center;"><strong>Mother Tongue Fortnight</strong></p>
 <h4><strong>Let&rsquo;s Read@Kellock</strong></h4>
 <p>Our Malay girls had an enriching and exciting time reading and doing reading related activities during the last week of Term 1. Students were brought to the library and teachers read out stories to them. After that, students actively participated in doing and completing the reading challenges and tasks allocated for them. Look at the fun they were having!</p>
 <p><strong><u>P1 &amp; P2</u></strong></p>
