@@ -2,6 +2,7 @@ collections:
   mother-tongue:
     output: true
     order:
+      - Tamil Language.md
       - Malay Language/Malay Language.md
       - Malay Language/Customise Programmes for Malay Language.md
       - Malay Language/.keep
