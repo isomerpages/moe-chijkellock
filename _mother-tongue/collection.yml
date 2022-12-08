@@ -2,4 +2,5 @@ collections:
   mother-tongue:
     output: true
     order:
+      - Malay Language/Customise Programmes for Malay Language.md
       - Malay Language/.keep
