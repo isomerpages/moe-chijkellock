@@ -13,4 +13,7 @@ sections:
         - title: Quick Links
           description: ""
           url: /moe-chijkellock/quick-links/
+  - resources:
+      title: Announcements
+      button: More Announcements
 ---
