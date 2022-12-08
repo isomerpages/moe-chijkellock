@@ -2,6 +2,7 @@ collections:
   mother-tongue:
     output: true
     order:
+      - Chinese Language/Customised Programmes for Chinese Language.md
       - Chinese Language/Cultural Immersion Programmes to China.md
       - Chinese Language/Other Activities.md
       - Chinese Language/.keep
