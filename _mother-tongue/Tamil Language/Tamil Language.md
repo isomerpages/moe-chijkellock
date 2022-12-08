@@ -80,6 +80,7 @@ third_nav_title: Tamil Language
 <img style="width: 80%;" src="/images/tl20.jpg" />
 <p>During MT Fortnight 2020,Tamil Language department aims to provide platforms and opportunities for students to develop a love for the language through reading. Therefore, this year we invited Miss Manju Balakrishnan, who is from MediaCorp. She is one of the highly regarded media personnel in both the local and international media fraternity. Our girls were interactive and participated during the story telling.</p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRlrRk-0xIdrgngOZjqOQUvbwyZ9XQlnsOO5mq9GMcTlbPLQYyZRIWXO8RPXllIO-cBzWCVNUA6ntn-/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<p style="text-align: center;"><strong>Mother Tongue Fortnight</strong></p>
 <h4><strong>Let&rsquo;s Read @ Kellock</strong></h4>
 <p>Our Tamil girls had an enriching and exciting time reading and doing reading related activities during the last week of Term 1. Students were brought to the library and teachers read out stories to them. After that, students took part actively in doing and completing the reading challenges and tasks allocated for them. Reading is Fun!</p>
 <p style="text-align: center;"><span style="text-decoration: underline;"><strong>P1</strong></span></p>
