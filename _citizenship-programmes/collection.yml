@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - NE Commemorative Events.md
+      - NE Ambassadors/.keep
+      - NE Ambassadors/NE Ambassadors.md
       - NE Ambassadors/2019.md
       - NE Ambassadors/2018.md
-      - NE Ambassadors/NE Ambassadors.md
-      - NE Ambassadors/.keep
       - Social Studies/.keep
       - Social Studies/Social Studies.md
       - Social Studies/2019 Social Studies Learning Journeys.md
