@@ -1,6 +1,58 @@
 logo: /images/logo.png
 links:
   - title: About Us
-    collection: about-us
+    url: /about-us
+    sublinks:
+      - title: Principal's Message
+        url: /about-us/principals-message
+      - title: School Information
+        url: /about-us/school-information/school-history
+      - title: IJ Board
+        url: /about-us/ij-board
+      - title: Contact Us
+        url: /about-us/contact-us
   - title: Our Staff
-    collection: our-staff
+    url: /our-staff
+    sublinks:
+      - title: Executive Committee
+        url: /our-staff/executive-committee
+      - title: Teaching Staff
+        url: /our-staff/teaching-staff/primary-1
+      - title: Support Staff
+        url: /our-staff/support-staff
+  - title: The K-Experience
+    url: /the-k-experience
+    sublinks:
+      - title: English
+        url: /the-k-experience/english
+      - title: Mathematics
+        url: /the-k-experience/mathematics
+      - title: Mother Tongue
+        url: /the-k-experience/mother-tongue
+      - title: Science
+        url: /the-k-experience/science
+      - title: Creative Arts
+        url: /the-k-experience/creative-arts
+      - title: Holistic Health Education
+        url: /the-k-experience/holistic-health-education
+      - title: CCE
+        url: /the-k-experience/character-and-citizenship-education
+      - title: ICT
+        url: /the-k-experience/information-communication-technology
+      - title: Distinctive Programmes
+        url: /the-k-experience/distinctive-programmes/applied-learning-programme-alp
+  - title: CCAs
+    url: /ccas
+    sublinks:
+      - title: CCA@Kellock
+        url: /ccas/cca-at-kellock
+      - title: CCA Schedule
+        url: /ccas/cca-schedule
+      - title: Clubs
+        url: /ccas/clubs/media-broadcasting-and-photography-club
+      - title: Creative Arts
+        url: /ccas/creative-arts/art-club
+      - title: Sports
+        url: /ccas/sports/netball
+      - title: Uniformed Group
+        url: /ccas/uniformed-group/brownies
