@@ -25,6 +25,7 @@ third_nav_title: Chinese Language
 <p style="text-align: center;"><strong>Chinese New Year Celebration 2020</strong></p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRK4Ulvw-cVUsgjp7JQQ_z0VPY4kNzbqyfj1GYtpV5y5Xt-yxxAl22T9idkuqLb7E8D57kJnfwKnFwY/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <p style="text-align: center;"><strong>Mother Tongue Fortnight 2020</strong></p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQj-zKNZ9vHReVTQqYcLfhqulUo0wiqBqlMGfZas_Kh6ETIa0rnhtRBSP1mMW8AWXDMc2MKrETeayDw/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <p style="text-align: center;"><strong>Chinese New Year Celebration 2021</strong></p>
 <p style="text-align: center;"><strong>Mother Tongue Fortnight 2021</strong></p>
 <p style="text-align: center;"><strong>Chinese New Year 2022</strong></p>
