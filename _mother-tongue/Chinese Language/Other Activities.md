@@ -23,6 +23,7 @@ third_nav_title: Chinese Language
 <p>Please click on the albums below to view the photos.</p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQMxrKiWbcJZ99162QBoys86eY-IBS6cNke3oPPMlv7iK6gZWkYlpdBjmFZ9kou2_fveQ4Ku9M5E3Wt/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <p style="text-align: center;"><strong>Chinese New Year Celebration 2020</strong></p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRK4Ulvw-cVUsgjp7JQQ_z0VPY4kNzbqyfj1GYtpV5y5Xt-yxxAl22T9idkuqLb7E8D57kJnfwKnFwY/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <p style="text-align: center;"><strong>Mother Tongue Fortnight 2020</strong></p>
 <p style="text-align: center;"><strong>Chinese New Year Celebration 2021</strong></p>
 <p style="text-align: center;"><strong>Mother Tongue Fortnight 2021</strong></p>
