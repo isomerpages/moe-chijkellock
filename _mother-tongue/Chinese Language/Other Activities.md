@@ -29,6 +29,7 @@ third_nav_title: Chinese Language
 <p style="text-align: center;"><strong>Chinese New Year Celebration 2021</strong></p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTRnudkO2tAYUnb9ysmBCC8ozFqQW-wRNWkkbFeuVYGN02kcKIWtcnSCgqGqkO0S0geJiIHxek-iU7p/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <p style="text-align: center;"><strong>Mother Tongue Fortnight 2021</strong></p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ6Avqt4HC08euj02dyacptIEucSUjM3vHnZa0iWosK0Wl2vIMDMlsp17DclE8C9nTeYtJxbUEfXqa9/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true" ></iframe>
 <p style="text-align: center;"><strong>Chinese New Year 2022</strong></p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRgxgsQTkobf1tCBylpB9G9Z1CIiky0YuL88Tr_SQkbkfbRwKuXEslxn02ZMZ_GXy0Ks_ugUXJSJCPt/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <p style="text-align: center;"><strong>Mother Tongue Fortnight 2022</strong></p>
