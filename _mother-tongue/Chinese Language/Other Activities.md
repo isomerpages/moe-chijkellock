@@ -21,3 +21,10 @@ third_nav_title: Chinese Language
 <p>Another interesting programme was &ldquo;Crouching Tiger, Hidden Dragon&rdquo; (卧虎藏龙) which required the girls to guess who the teacher voice-over actress was for various movie characters such as &lsquo;Flash&rsquo;, &lsquo;Po&rsquo;, &lsquo;Mushu&rsquo;, &lsquo;Patrick Star&rsquo;, &lsquo;Shoyo Hinata&rsquo;, &lsquo;Howler&rsquo; as well as the narrator for a BBC documentary. This programme brought the celebration to another climax when answers to the teacher voice-over actresses were revealed. The excitement exhibited by the girls were followed by another &ldquo;off-screen&rdquo; time, where students got to play a game with their own group members. Towards the end of the celebration, all the girls participated in a dance along session with CNY music videos playing in the background. Although they were not able to sing along due to the safe management measures that were put in place, they still enjoyed themselves with this little treat from the teachers.</p>
 <p>Hopefully, we can hold another live concert in the school hall again next year!</p>
 <p>Please click on the albums below to view the photos.</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQMxrKiWbcJZ99162QBoys86eY-IBS6cNke3oPPMlv7iK6gZWkYlpdBjmFZ9kou2_fveQ4Ku9M5E3Wt/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<p style="text-align: center;"><strong>Chinese New Year Celebration 2020</strong></p>
+<p style="text-align: center;"><strong>Mother Tongue Fortnight 2020</strong></p>
+<p style="text-align: center;"><strong>Chinese New Year Celebration 2021</strong></p>
+<p style="text-align: center;"><strong>Mother Tongue Fortnight 2021</strong></p>
+<p style="text-align: center;"><strong>Chinese New Year 2022</strong></p>
+<p style="text-align: center;"><strong>Mother Tongue Fortnight 2022</strong></p>
