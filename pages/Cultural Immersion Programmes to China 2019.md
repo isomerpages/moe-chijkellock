@@ -26,4 +26,5 @@ description: ""
 <p style="text-align: center;"><strong>Suzhou Industrial Park</strong></p>
 <p style="text-align: center;"><strong>The Bund and Shanghai Oriental Pearl TV Tower</strong></p>
 <p style="text-align: center;"><strong>Tiger Hill</strong></p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTTqUx6tAkJa3fCEDBL4JaceQCDkFEFRYZC6Ln0fCK74LrneltgtRTNi4JWNu5elvWkSNeDQJqVVd8Q/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <p style="text-align: center;"><strong>Urban Planning Exhibition Centre</strong></p>
