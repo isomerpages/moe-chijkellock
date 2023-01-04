@@ -23,6 +23,7 @@ description: ""
 <p style="text-align: center;"><strong>School Immersion Part 3</strong></p>
 <p style="text-align: center;"><strong>School Immersion Part 4</strong></p>
 <p style="text-align: center;"><strong>Silk Factory</strong></p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTuzz539wIeQms-jssdtU8ooKjsw7vNKw8LBLPMMND7BR4kOi8IWEhOR2P1Zqy7gZnTqHFoIzJ0d5TJ/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <p style="text-align: center;"><strong>Suzhou Industrial Park</strong></p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSSzF-qNWvouyTnlRLX_PB0NieVW1NWMNLMARfdlnjQoNoTe6W4Bb01_nry8byjqvHiAFQW7eww7rrJ/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <p style="text-align: center;"><strong>The Bund and Shanghai Oriental Pearl TV Tower</strong></p>
