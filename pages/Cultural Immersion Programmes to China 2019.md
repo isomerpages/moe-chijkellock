@@ -7,6 +7,7 @@ description: ""
 <p style="text-align: center;"><strong>Chenghuangmiao Commercial Area</strong></p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQqRllu9a2n9SM8uy9cV37t5zOXwKmbHRJG0zpTchNN3zt4G_YxQzkczGeSr1VRCUc0H-Cmx6XrnxIe/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <p style="text-align: center;"><strong>Fresh Hema</strong></p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQSFTEuwGZwT3LoUEWHpYfux4UVeA3U2s46ok4HdacolvD47hLhixm5JV066l85RkQro1EKAqZlCK6d/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <p style="text-align: center;"><strong>Luzhi Water Town</strong></p>
 <p style="text-align: center;"><strong>Master of the Nets Garden</strong></p>
 <p style="text-align: center;"><strong>Others</strong></p>
