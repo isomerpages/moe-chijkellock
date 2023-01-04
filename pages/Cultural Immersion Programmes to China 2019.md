@@ -15,6 +15,7 @@ description: ""
 <p style="text-align: center;"><strong>Others</strong></p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR4ENJEN-twYTkccGYUwYiZxP2YIMlf4vdiSBcKBpK95Rjewa2xSNGcuBBcZHZsKQcHPt5sli5pqg0f/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <p style="text-align: center;"><strong>Panmen</strong></p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT48Dt5Aj0cOBLj746-9V4hJWvc_k_ZA4EFegMkyWksiVkxAgpkAMWnmZ-l3yKceaPspVHt2RPSxbwP/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <p style="text-align: center;"><strong>Santang Cultural Visit</strong></p>
 <p style="text-align: center;"><strong>School Immersion Part 1</strong></p>
 <p style="text-align: center;"><strong>School Immersion Part 2</strong></p>
