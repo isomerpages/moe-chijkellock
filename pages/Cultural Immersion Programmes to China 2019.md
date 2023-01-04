@@ -11,7 +11,9 @@ description: ""
 <p style="text-align: center;"><strong>Luzhi Water Town</strong></p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS_pVFU7EJ9EEOQp7gFYo4eVoSbfhVNin-Fz3R_GATISXbltUrhypraJJltEIJFP11qrnfXY97LznaL/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <p style="text-align: center;"><strong>Master of the Nets Garden</strong></p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSpo2SJTF-qsTNnbdOCwnPV_RRjhW7wnpdJndEbJM0fqRgvsa1Ph8g9MoSe-gwQQo0T7rZ1xLHJ3fPa/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <p style="text-align: center;"><strong>Others</strong></p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR4ENJEN-twYTkccGYUwYiZxP2YIMlf4vdiSBcKBpK95Rjewa2xSNGcuBBcZHZsKQcHPt5sli5pqg0f/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <p style="text-align: center;"><strong>Panmen</strong></p>
 <p style="text-align: center;"><strong>Santang Cultural Visit</strong></p>
 <p style="text-align: center;"><strong>School Immersion Part 1</strong></p>
