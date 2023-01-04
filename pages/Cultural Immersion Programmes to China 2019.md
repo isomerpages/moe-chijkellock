@@ -9,6 +9,7 @@ description: ""
 <p style="text-align: center;"><strong>Fresh Hema</strong></p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQSFTEuwGZwT3LoUEWHpYfux4UVeA3U2s46ok4HdacolvD47hLhixm5JV066l85RkQro1EKAqZlCK6d/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <p style="text-align: center;"><strong>Luzhi Water Town</strong></p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS_pVFU7EJ9EEOQp7gFYo4eVoSbfhVNin-Fz3R_GATISXbltUrhypraJJltEIJFP11qrnfXY97LznaL/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <p style="text-align: center;"><strong>Master of the Nets Garden</strong></p>
 <p style="text-align: center;"><strong>Others</strong></p>
 <p style="text-align: center;"><strong>Panmen</strong></p>
