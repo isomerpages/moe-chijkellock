@@ -19,6 +19,7 @@ description: ""
 <p style="text-align: center;"><strong>Santang Cultural Visit</strong></p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTUilhftlf1haUkGv_CBNjM62L-rqao-lI50CnBxyuAAiUNTEIPU8ttmnky5G8NZD5RJ63KA0D2QC5X/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <p style="text-align: center;"><strong>School Immersion Part 1</strong></p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ5rfiO3AiCkEkiGy1EuxE4sJkojVmuZpnuCd5eLV5BZJkkZwizr-KNbSIqI2r5nDQfK_ia5oDtHsOM/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <p style="text-align: center;"><strong>School Immersion Part 2</strong></p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ38BE9nQqbQrRbH_goW45WMk4wnoA1iaRflHzst-XZ1fCPk6forRpw2tiCjdEjIkPNk2avaaejF48v/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <p style="text-align: center;"><strong>School Immersion Part 3</strong></p>
