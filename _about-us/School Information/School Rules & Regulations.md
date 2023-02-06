@@ -28,7 +28,7 @@ Intervention measures, depending on the severity of the actions, can be facilita
 
 The student-centric approach to discipline that the school takes in handling a discipline case can be seen as follows: 
 
-I AM (Self Awareness)
+<b><u>I AM (Self Awareness)</u></b>
 
 When a student commits an offence, it is important that she reflects on her own actions, deriving at an awareness of her personal traits and emotions. Questions for reflection include: 
 •	What happened?
@@ -36,13 +36,13 @@ When a student commits an offence, it is important that she reflects on her own 
 •	Who do I think have been affected by what I have done?
 •	What exactly am I sorry for?
 
-I CAN (Self-Management)
+<b><u>I CAN (Self-Management)</u></b>
 
 Upon reflecting further, it is important that the student develops an understanding of her responses and choices to the situations and devises steps she can do to make amendments. Questions for reflection include:
 •	What do I need to do to make things right?
 •	How can I make sure that this does not happen again?
 
-I CARE (Social Awareness)
+<b><u>I CARE (Social Awareness)</u></b>
 
 It is important that the student develops an understanding of the emotions of others and takes on the perspective of others. Questions for reflection include:
 •	How has my action affected others?
