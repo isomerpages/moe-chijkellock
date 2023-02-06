@@ -7,7 +7,12 @@ third_nav_title: School Information
 <table>  
   <tr>  
     <th>Pinafore<th>  
-    <td>Tobias<td>  
+    <td><ul> 
+			<li>School badge neatly sewn on the left.
+<li> Length of the pinafore should reach the knee cap.
+<li> Should be worn in the proper manner, without excessive folds at the belt line.
+<li> School belt should be fastened at the waist.
+<li>Leadership badges should be worn above the school badge.<ul><td>  
   <tr>  
 	<tr>  
     <th>Blouse<th>  
