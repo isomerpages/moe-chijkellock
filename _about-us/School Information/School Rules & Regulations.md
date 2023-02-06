@@ -10,7 +10,7 @@ Train up a child in the way she should go,
 <br/>And when she is old she will not depart from it.</i></p>
 
 
-DISCIPLINE PHILOSOPHY
+<b><u>DISCIPLINE PHILOSOPHY</u></b>
 
 CHIJ Kellock believes that a safe and orderly environment, marked by a culture of graciousness, respect and love for self, peers and teachers, is necessary for learning to take place. Every child has the right to a safe school environment and an environment that is conducive to learning. Therefore, it is the responsibility of every student to contribute to the building of a caring and loving learning environment through self-management and the modelling of school values in everyday life in and out of school. 
 
