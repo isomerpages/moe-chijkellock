@@ -3,7 +3,6 @@ title: Principal's Message
 permalink: /about-us/principals-message/
 description: ""
 ---
-  
 Dear Parents and My Dear Girls
 
   
