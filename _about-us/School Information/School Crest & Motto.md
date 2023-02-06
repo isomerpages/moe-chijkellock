@@ -4,7 +4,7 @@ permalink: /about-us/school-information/school-crest-n-motto/
 description: ""
 third_nav_title: School Information
 ---
-![](/images/logo.png)
+<img style="width: 60%;" src="/images/logo.png" align = "center" /><br >
 Our school badge is the insignia of every Convent of the Holy Infant Jesus pupil. It is the badge of all CHIJ schools the world over. The red shield has a silver band edged in gold. On the right side is the Book of the Gospels with a silver Rosary, on the left is a golden Distaff and Spindle. The Shield, surmounted by a Gold Cross is encircled by a garland of Marguerites. 
 
 The Motto on the badge is as follows: “**Simple in Virtue, Steadfast in Duty”** 
