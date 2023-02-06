@@ -14,12 +14,12 @@ Train up a child in the way she should go,
 
 CHIJ Kellock believes that a safe and orderly environment, marked by a culture of graciousness, respect and love for self, peers and teachers, is necessary for learning to take place. Every child has the right to a safe school environment and an environment that is conducive to learning. Therefore, it is the responsibility of every student to contribute to the building of a caring and loving learning environment through self-management and the modelling of school values in everyday life in and out of school. 
 
-Discipline Approach
+<b><u>Discipline Approach</u></b>
 
-CHIJ Kellock’s approach to discipline is student-centric, cultivating in and teaching every child:
-•	An awareness of her personal traits and her emotions: I AM (self-awareness)
-•	An understanding of her responses and choices to situations: I CAN (self-management)
-•	An awareness and understanding of others’ emotions and perspectives: I CARE (social awareness)
+CHIJ Kellock’s approach to discipline is student-centric, cultivating in and teaching every child: <br />
+•	An awareness of her personal traits and her emotions: I AM (self-awareness)<br />
+•	An understanding of her responses and choices to situations: I CAN (self-management)<br />
+•	An awareness and understanding of others’ emotions and perspectives: I CARE (social awareness)<br />
 •	How best to express herself in socially acceptable ways to build healthy relationships and manage conflicts: I WILL (self-management)
 
 When a student misbehaves, the process of discipline starts with helping her to be aware of her emotions and her actions, the effect her actions and behaviour have on others, followed by intervention measures and support structures for her to be back on track. The intervention measures are guided by the school’s rules and regulations while the support structures help the child move forward with empathy and with new learning. 
