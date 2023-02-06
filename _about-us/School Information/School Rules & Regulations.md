@@ -4,7 +4,7 @@ permalink: /about-us/school-information/school-rules-n-regulations/
 description: ""
 third_nav_title: School Information
 ---
-<table >  
+<table>  
   <tr>  
     <th>Pinafore</th>  
     <td>
