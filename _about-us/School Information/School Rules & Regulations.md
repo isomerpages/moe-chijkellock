@@ -30,36 +30,36 @@ The student-centric approach to discipline that the school takes in handling a d
 
 <b><u>I AM (Self Awareness)</u></b>
 
-When a student commits an offence, it is important that she reflects on her own actions, deriving at an awareness of her personal traits and emotions. Questions for reflection include: 
-•	What happened?
-•	What was I thinking at that time?
-•	Who do I think have been affected by what I have done?
-•	What exactly am I sorry for?
+When a student commits an offence, it is important that she reflects on her own actions, deriving at an awareness of her personal traits and emotions. Questions for reflection include: <br>
+•	What happened?<br>
+•	What was I thinking at that time?<br>
+•	Who do I think have been affected by what I have done?<br>
+•	What exactly am I sorry for?<br>
 
 <b><u>I CAN (Self-Management)</u></b>
 
-Upon reflecting further, it is important that the student develops an understanding of her responses and choices to the situations and devises steps she can do to make amendments. Questions for reflection include:
-•	What do I need to do to make things right?
-•	How can I make sure that this does not happen again?
+Upon reflecting further, it is important that the student develops an understanding of her responses and choices to the situations and devises steps she can do to make amendments. Questions for reflection include:<br>
+•	What do I need to do to make things right?<br>
+•	How can I make sure that this does not happen again?<br>
 
 <b><u>I CARE (Social Awareness)</u></b>
 
-It is important that the student develops an understanding of the emotions of others and takes on the perspective of others. Questions for reflection include:
-•	How has my action affected others?
-•	In what way was the victim affected?
+It is important that the student develops an understanding of the emotions of others and takes on the perspective of others. Questions for reflection include:<br>
+•	How has my action affected others?<br>
+•	In what way was the victim affected?<br>
 
-I WILL (Responsible Decision-Making)
+<b><u>I WILL (Responsible Decision-Making)</u></b>
 
-At this stage, the student will come to a realisation that she needs to express herself in socially acceptable ways to build healthy relationships and manage conflicts. She will then express the actions that she needs to take to show her desire to turn over a new leaf. Some I WILL statements include:
-•	I will resolve to treat my friends with respect.
-•	I will learn to work with others and I will surface issues to my teacher and not insist on my own ways.
+At this stage, the student will come to a realisation that she needs to express herself in socially acceptable ways to build healthy relationships and manage conflicts. She will then express the actions that she needs to take to show her desire to turn over a new leaf. Some I WILL statements include: <br>
+•	I will resolve to treat my friends with respect.<br>
+•	I will learn to work with others and I will surface issues to my teacher and not insist on my own ways.<br>
 
-SCHOOL RULES & REGULATIONS
+<b><u>SCHOOL RULES & REGULATIONS</u></b>
 
-ATTIRE AND APPEARANCE 
+<b>ATTIRE AND APPEARANCE</b> 
 
-●	Students are to wear the prescribed school uniform at all times. Modifications to the uniform are not allowed.
-●	The full uniform should be worn when students come to the school, represent the school for activities, during examination period, weekends and school holidays, unless otherwise specified.
+●	Students are to wear the prescribed school uniform at all times. Modifications to the uniform are not allowed.<br>
+●	The full uniform should be worn when students come to the school, represent the school for activities, during examination period, weekends and school holidays, unless otherwise specified.<br>
 <table>  
   <tr>  
     <th>Pinafore</th>  
