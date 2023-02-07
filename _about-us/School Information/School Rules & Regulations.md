@@ -217,38 +217,27 @@ Keep our school safe for all<p style="padding-left: 15px; display=inline-block">
 • It is against the law for students to use or possess tobacco product(s). Tobacco usage leads to addiction and long term health consequences.
 </p>
 
-
-CONDUCT DURING EXAMINATION
-
+<b><u>CONDUCT DURING EXAMINATION</u></b><br>
 Observe and follow all examination procedures
-
-• Be punctual for all examination papers. No extra time will be given to complete the examination if students are late. 
-
-• Place all bags, books/notes outside the classroom as instructed by the invigilator.
-
-• Raise your hand if help is needed and wait to be attended to by the invigilator.
-
-• Avoid any contact with classmates during examinations.
-
-• Students are not allowed to bring into examination rooms any unauthorised notes or any electronic devices capable of capturing, storing, displaying and/or transmitting visual, audio or verbal information. Examples of prohibited items include mobile phones, cameras, tablets, power banks, wired and wireless ear-pieces/earphones, smart wrist watches, fitness trackers, smart glasses, and pens with image capturing capabilities.
-
-• Cheating is a serious offence. Disciplinary action will be taken against students found cheating or attempting to cheat or helping others cheat in an examination.
+<p style="padding-left: 15px; display=inline-block">
+• Be punctual for all examination papers. No extra time will be given to complete the examination if students are late. <br>
+• Place all bags, books/notes outside the classroom as instructed by the invigilator.<br>
+• Raise your hand if help is needed and wait to be attended to by the invigilator.<br>
+• Avoid any contact with classmates during examinations.<br>
+• Students are not allowed to bring into examination rooms any unauthorised notes or any electronic devices capable of capturing, storing, displaying and/or transmitting visual, audio or verbal information. Examples of prohibited items include mobile phones, cameras, tablets, power banks, wired and wireless ear-pieces/earphones, smart wrist watches, fitness trackers, smart glasses, and pens with image capturing capabilities.<br>
+• Cheating is a serious offence. Disciplinary action will be taken against students found cheating or attempting to cheat or helping others cheat in an examination.<br>
+</p>
 
 
-
-ELECTRONIC DEVICES             
-
+<b><u>ELECTRONIC DEVICES</u></b>             
 Be responsible users of electronic devices
-
-• Students are not allowed to bring to school any electronic devices capable of capturing, storing, displaying and/or transmitting visual, audio or verbal information. Examples of prohibited items include cameras, tablets, smart wrist watches, fitness trackers, smart glasses, and pens with image capturing capabilities. Exceptions will be made for e-books or electronic devices that are used as learning materials. (E.g.: kindle or electronic dictionaries).
-
-• Students who need to bring a mobile phone to school for the purpose of keeping in touch with family members are responsible for the safety of their mobile phones and they must adhere to the following conditions:
-
-- The use of the mobile phone is only allowed outside the General Office and the school gates after curriculum hours (after 1.30 pm).
-
-- The use of the mobile phone is only for communication. Apart from the approved usage as stated, devices should be kept out of sight and switched off at all times. 
-
-- Disciplinary measures will be taken against students found abusing the use of the mobile phones or breaking the rule.
-
-• The school will not bear responsibility for the loss of, damage to or theft of mobile phones. 
-
+<p style="padding-left: 15px; display=inline-block">
+• Students are not allowed to bring to school any electronic devices capable of capturing, storing, displaying and/or transmitting visual, audio or verbal information. Examples of prohibited items include cameras, tablets, smart wrist watches, fitness trackers, smart glasses, and pens with image capturing capabilities. Exceptions will be made for e-books or electronic devices that are used as learning materials. (E.g.: kindle or electronic dictionaries).<br>
+• Students who need to bring a mobile phone to school for the purpose of keeping in touch with family members are responsible for the safety of their mobile phones and they must adhere to the following conditions:<br>
+<p style="padding-left: 45px; display=inline-block">
+- The use of the mobile phone is only allowed outside the General Office and the school gates after curriculum hours (after 1.30 pm).<br>
+- The use of the mobile phone is only for communication. Apart from the approved usage as stated, devices should be kept out of sight and switched off at all times. <br>
+- Disciplinary measures will be taken against students found abusing the use of the mobile phones or breaking the rule.<br>
+</p>
+• The school will not bear responsibility for the loss of, damage to or theft of mobile phones.
+</p>
