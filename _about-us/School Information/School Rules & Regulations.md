@@ -16,7 +16,8 @@ CHIJ Kellock believes that a safe and orderly environment, marked by a culture o
 
 <b><u>Discipline Approach</u></b>
 
-CHIJ Kellock’s approach to discipline is student-centric, cultivating in and teaching every child: <p style="padding-left: 15px; display=inline-block">
+CHIJ Kellock’s approach to discipline is student-centric, cultivating in and teaching every child: 
+<p style="padding-left: 15px; display=inline-block">
 •	An awareness of her personal traits and her emotions: I AM (self-awareness)<br />
 •	An understanding of her responses and choices to situations: I CAN (self-management)<br />
 •	An awareness and understanding of others’ emotions and perspectives: I CARE (social awareness)<br />
