@@ -14,4 +14,4 @@ third_nav_title: School Information
 <br >Progress
 <br >And Prosperity
 <br >May God bless and guide us,
-<br >As our best is yet to be.
+<br >As our best is yet to be.</p>
