@@ -8,4 +8,4 @@ third_nav_title: School Information
 
 ![ValuesAndOutcomes](/images/Values%20and%20Outcomes.png)
 	
-	</p>
+	
