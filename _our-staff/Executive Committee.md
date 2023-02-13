@@ -69,7 +69,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="160">
-<p><strong>English and Curriculum Matters</strong></p>
+<p><strong>Curriculum Matters and English</strong></p>
 </td>
 <td style="text-align: center;" width="208">
 <p>Mrs Dallas Gopal</p>
@@ -149,10 +149,21 @@ description: ""
 <p><strong>Ed Tech</strong></p>
 </td>
 <td style="text-align: center;" width="208">
-<p>Ms Abirami</p>
+<p>Ms Adeline Goh</p>
 </td>
 <td style="text-align: center;" width="350">
-<p>&nbsp;<a href="https://chijkellock-moe-edu-sg-admin.cwp.sg/">abirami_archunan@moe.edu.sg</a></p>
+<p>&nbsp;<a href="mailto:goh_tung_li_adeline@moe.edu.sg" target="">goh_tung_li_adeline@moe.edu.sg</a></p>
+</td>
+</tr>
+	<tr>
+<td style="text-align: center;" width="160">
+<p><strong>Student Management</strong></p>
+</td>
+<td style="text-align: center;" width="208">
+<p>Ms Lynette Seet</p>
+</td>
+<td style="text-align: center;" width="350">
+<p>&nbsp;<a href="mailto:seet_tze_lin_lynette@moe.edu.sg" target="">seet_tze_lin_lynette@moe.edu.sg</a></p>
 </td>
 </tr>
 </tbody>
