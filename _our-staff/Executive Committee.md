@@ -45,10 +45,10 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="208">
-<p>Mrs Chan-Tiong Le Chin</p>
+<p>Mrs Sharon Tobias</p>
 </td>
 <td style="text-align: center;" width="359">
-<p><a href="mailto:tiong_le_chin@moe.edu.sg" target="">tiong_le_chin@moe.edu.sg</a></p>
+<p><a href="mailto:sharon_tobias@moe.edu.sg" target="">sharon_tobias@moe.edu.sg</a></p>
 </td>
 </tr>
 </tbody>
