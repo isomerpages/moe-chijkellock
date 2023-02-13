@@ -232,6 +232,39 @@ description: ""
 </td>
 </tr>
 <tr>
+<td style="text-align: center;" width="160">
+<p><strong>CCE (Covering)</strong></p>
+</td>
+<td style="text-align: center;" width="208">
+<p>Ms Koh Wee Mong</p>
+</td>
+<td style="text-align: center;" width="340">
+<p><a href="mailto:koh_wee_mong@moe.edu.sg" target="">koh_wee_mong@moe.edu.sg&nbsp;</a></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p><strong>Ed Tech (Covering)&nbsp;</strong></p>
+</td>
+<td style="text-align: center;">
+<p> Ms Ami&nbsp;</p>
+</td>
+<td style="text-align: center;">
+<p><a href="mailto:amirinazeb_aurangzeb@moe.edu.sg" target="">amirinazeb_aurangzeb@moe.edu.sg&nbsp;</a></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p><strong>Educational Needs&nbsp;</strong></p>
+</td>
+<td style="text-align: center;">
+<p> Ms Yee Kwan Nah&nbsp;</p>
+</td>
+<td style="text-align: center;">
+<p><a href="mailto:yee_kwan_ngah@moe.edu.sg" target="">yee_kwan_ngah@moe.edu.sg&nbsp;</a></p>
+</td>
+</tr>
+<tr>
 <td style="text-align: center;">
 <p><strong>Mathematics (Covering)</strong></p>
 </td>
@@ -244,17 +277,6 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="160">
-<p><strong>CCE (Covering)</strong></p>
-</td>
-<td style="text-align: center;" width="208">
-<p>Ms Audrey Oh</p>
-</td>
-<td style="text-align: center;" width="340">
-<p><a href="mailto:oh_chu_mei@moe.edu.sg" target="">oh_chu_mei@moe.edu.sg&nbsp;</a></p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="160">
 <p><strong>Malay and Tamil</strong></p>
 </td>
 <td style="text-align: center;" width="208">
@@ -262,17 +284,6 @@ description: ""
 </td>
 <td style="text-align: center;" width="340">
 <p><a href="mailto:tauled_tunisha_mohd_paser@moe.edu.sg" target="">tauled_tunisha_mohd_paser@moe.edu.sg</a></p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="160">
-<p><strong>PE &amp; CCA</strong></p>
-</td>
-<td style="text-align: center;" width="208">
-<p>Ms Christina Tan</p>
-</td>
-<td style="text-align: center;" width="340">
-<p><a href="mailto:tan_siew_chin_christina@moe.edu.sg" target="">tan_siew_chin_christina@moe.edu.sg</a></p>
 </td>
 </tr>
 <tr>
@@ -288,13 +299,13 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">
-<p><strong>IPW (Covering)&nbsp;</strong></p>
+<p><strong>Student Management (Covering)&nbsp;</strong></p>
 </td>
 <td style="text-align: center;">
-<p>Ms Kavitha&nbsp;</p>
+<p>Mrs Gladys Phua&nbsp;</p>
 </td>
 <td style="text-align: center;">
-<p><a href="mailto:kavitha_r_rajendran@moe.edu.sg" target="">kavitha_r_rajendran@moe.edu.sg&nbsp;</a></p>
+<p><a href="mailto:gladys_sin_zhenlin@moe.edu.sg" target="">gladys_sin_zhenlin@moe.edu.sg&nbsp;</a></p>
 </td>
 </tr>
 </tbody>
