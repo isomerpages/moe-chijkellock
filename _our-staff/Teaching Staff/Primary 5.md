@@ -28,7 +28,7 @@ third_nav_title: Teaching Staff
 </td>
 
 <td style="text-align: center;">Ms Claire Lee</td>
-<td><a href="mailto:lee_wei_min_claire@moe.edu.sg" target="">lee_wei_min_claire@moe.edu.sg</a><br>
+<td style="text-align: center;"><a href="mailto:lee_wei_min_claire@moe.edu.sg" target="">lee_wei_min_claire@moe.edu.sg</a><br>
 </td>
 </tr>
 <tr>
