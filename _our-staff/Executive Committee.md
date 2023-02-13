@@ -325,39 +325,6 @@ description: ""
 </td>
 </tr>
 <tr>
-<td style="text-align: center;" width="160">
-<p><strong>English </strong></p>
-</td>
-<td style="text-align: center;" width="208">
-<p>Ms Sri Darmavijaya</p>
-</td>
-<td style="text-align: center;" width="350">
-<p><a href="mailto:sri_darmavijaya_govindaraj@moe.edu.sg" target="">sri_darmavijaya_govindaraj@moe.edu.sg</a></p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="160">
-<p><strong>Science</strong></p>
-</td>
-<td style="text-align: center;" width="208">
-<p>Ms Yee Kwan Ngah</p>
-</td>
-<td style="text-align: center;" width="350">
-<p><a href="mailto:yee_kwan_ngah@moe.edu.sg" target="">yee_kwan_ngah@moe.edu.sg</a></p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;">
-<p><strong>Science (Covering)</strong></p>
-</td>
-<td style="text-align: center;">
-<p>Ms Mishal Lim</p>
-</td>
-<td style="text-align: center;">
-<p><a href="mailto:lim_ern-_ai_mishal@moe.edu.sg" target="">lim_ern-_ai_mishal@moe.edu.sg</a></p>
-</td>
-</tr>
-<tr>
 <td style="text-align: center;">
 <p><strong>Chinese Language (Covering)</strong></p>
 </td>
@@ -366,6 +333,28 @@ description: ""
 </td>
 <td style="text-align: center;">
 <p><a href="mailto:zhang_linyue@moe.edu.sg" target="">zhang_linyue@moe.edu.sg</a></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="160">
+<p><strong>English </strong></p>
+</td>
+<td style="text-align: center;" width="208">
+<p>Ms Tan Shuxin</p>
+</td>
+<td style="text-align: center;" width="350">
+<p><a href="mailto:tan_shuxin@moe.edu.sg" target="">tan_shuxin@moe.edu.sg</a></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p><strong>Science</strong></p>
+</td>
+<td style="text-align: center;">
+<p>Ms Mishal Lim</p>
+</td>
+<td style="text-align: center;">
+<p><a href="mailto:lim_ern-_ai_mishal@moe.edu.sg" target="">lim_ern-_ai_mishal@moe.edu.sg</a></p>
 </td>
 </tr>
 </tbody>
