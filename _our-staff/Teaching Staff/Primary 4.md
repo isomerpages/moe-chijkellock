@@ -6,176 +6,117 @@ third_nav_title: Teaching Staff
 ---
 <table>
 <tbody>
+
 <tr>
-<td style="text-align: center;">
-<p><strong>Class </strong></p>
+<td style="text-align: center;"><b>Class&nbsp;&nbsp;</b><br></td>
+<td style="text-align: center;"><b>Form Teacher</b></td>
+<td style="text-align: center;"><b>Email</b></td>
+</tr> 
+
+<tr>
+<td style="text-align: center;"><br>P4 Cerise<br><br>
 </td>
-<td style="text-align: center;">
-<p><strong>Form Teacher/ Co-Form Teacher</strong></p>
-</td>
-<td style="text-align: center;">
-<p><strong>Name</strong></p>
-</td>
-<td style="text-align: center;">
-<p><strong>Email</strong></p>
+
+<td style="text-align: center;">Ms Grace Tan</td>
+<td style="text-align: center;"><a href="mailto:tan_weisi_grace@moe.edu.sg" target="">tan_weisi_grace@moe.edu.sg</a>&nbsp;<br>
 </td>
 </tr>
 <tr>
-<td style="text-align: center;">
-<p>P4 Earth</p>
+<td>&nbsp;
 </td>
-<td style="text-align: center;">
-<p>Form Teacher</p>
+
+<td>Mrs Cindy Tang</td>
+<td><a href="mailto:cindy_quake@moe.edu.sg" target="">cindy_quake@moe.edu.sg</a><br>
 </td>
-<td style="text-align: center;">
-<p>Mr Thomas Gan</p>
-</td>
-<td style="text-align: center;">
-<p><a href="mailto:gan_kok_sim_thomas@moe.edu.sg" target="">gan_kok_sim_thomas@moe.edu.sg</a>&nbsp;</p>
+</tr>
+
+<tr>
+<td colspan="3">&nbsp;&nbsp;</td>
+</tr>
+
+<tr>
+<td>P4 Indigo</td>
+
+<td style="text-align: center;">Mrs Gladys Puah</td>
+<td style="text-align: center;"><a href="mailto:gladys_sin_zhenlin@moe.edu.sg" target="">gladys_sin_zhenlin@moe.edu.sg</a><br></td>
+</tr>
+
+<tr>
+<td>&nbsp;</td>
+<td style="text-align: center;">Ms Chng Choon Pheow</td>
+<td style="text-align: center;"><a href="mailto:chng_choon_pheow@moe.edu.sg" target="">chng_choon_pheow@moe.edu.sg</a><br></td>
+</tr>
+
+<tr>
+<td colspan="3">&nbsp; &nbsp; &nbsp; &nbsp;</td>
+</tr>
+
+<tr>
+<td style="text-align: center;">P4 Lavender</td>
+<td style="text-align: center;">Ms Ng Yee Peng</td>
+<td style="text-align: center;"><a href="mailto:ng_yee_peng@moe.edu.sg" target="">ng_yee_peng@moe.edu.sg</a><br></td>
+</tr>
+
+<tr>
+<td></td>
+
+<td style="text-align: center;">Ms Gao Hewei</td>
+<td style="text-align: center;"><a href="mailto:gao_hewei@moe.edu.sg" target="">gao_hewei@moe.edu.sg&nbsp;</a><br></td>
+</tr>
+
+<tr>
+<td>&nbsp;</td>
+<td style="text-align: center;">Mr Ibrahim Frego</td>
+<td style="text-align: center;"><a href="mailto:ibrahim_fergo_junaidi@moe.edu.sg" target="">ibrahim_fergo_junaidi@moe.edu.sg</a>&nbsp;</td></tr>
+<tr>
+<td colspan="3">&nbsp; &nbsp; &nbsp; &nbsp;
 </td>
 </tr>
 <tr>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">
-<p>Co-Form Teacher</p>
+<td style="text-align: center;">P4 Lilac<br>
 </td>
-<td style="text-align: center;">
-<p>Ms Mary Soh</p>
+
+<td style="text-align: center;">Ms Zhang Linyue<span style="background-color: initial;"></span>
 </td>
-<td style="text-align: center;">
-<p><a href="mailto:soh_chee_suan_mary@moe.edu.sg" target="">soh_chee_suan_mary@moe.edu.sg</a></p>
+<td style="text-align: center;"><a href="mailto:zhang_linyue@moe.edu.sg" target="">zhang_linyue@moe.edu.sg</a><br>
 </td>
 </tr>
 <tr>
-<td style="text-align: center;">
-<p>P4 Jupiter</p>
+<td>
 </td>
-<td style="text-align: center;">
-<p>Form Teacher</p>
+
+<td style="text-align: center;">Ms Wendy Lim&nbsp;
 </td>
-<td style="text-align: center;">
-<p>Ms Alexandra De Souza</p>
-</td>
-<td style="text-align: center;">
-<p><a href="mailto:de_souza_juliette_alexandra@moe.edu.sg" target="">de_souza_juliette_alexandra@moe.edu.sg</a></p>
+<td style="text-align: center;"><a href="mailto:lim_mui_lian_wendy@moe.edu.sg" target="">lim_mui_lian_wendy@moe.edu.sg</a><br>
 </td>
 </tr>
 <tr>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">
-<p>Co-Form Teacher</p>
-</td>
-<td style="text-align: center;">
-<p>Ms Xu Jing</p>
-</td>
-<td style="text-align: center;">
-<p><a href="mailto:xu_jing_b@moe.edu.sg" target="">xu_jing_b@moe.edu.sg</a></p>
+<td colspan="3">&nbsp; &nbsp; &nbsp; &nbsp;
 </td>
 </tr>
 <tr>
-<td style="text-align: center;">
-<p>P4 Mars</p>
-</td>
-<td style="text-align: center;">
-<p>Form Teacher</p>
-</td>
-<td style="text-align: center;">
-<p>Ms Claire Lee</p>
-</td>
-<td style="text-align: center;">
-<p><a href="mailto:lee_wei_min_claire@moe.edu.sg" target="">lee_wei_min_claire@moe.edu.sg</a></p>
+<td style="text-align: center;">P4 Magenta</td>
+
+<td style="text-align: center;">Ms Amirinazeb Aurangzeb</td>
+<td style="text-align: center;"><a href="mailto:amirinazeb_aurangzeb@moe.edu.sg" target="">amirinazeb_aurangzeb@moe.edu.sg</a><br>
 </td>
 </tr>
 <tr>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">
-<p>Co-Form Teacher<strong>&nbsp;<br /></strong></p>
+<td>&nbsp;
 </td>
-<td style="text-align: center;">
-<p>Mdm Wang Guiyun</p>
-</td>
-<td style="text-align: center;">
-<p><a href="mailto:wang_guiyun@moe.edu.sg" target="">wang_guiyun@moe.edu.sg</a></p>
+
+<td style="text-align: center;">Mdm Thanaselvi<br></td>
+<td style="text-align: center;"><a href="mailto:thanaselvi_krishnan@moe.edu.sg" target="">thanaselvi_krishnan@moe.edu.sg&nbsp;</a><br>
 </td>
 </tr>
 <tr>
-<td style="text-align: center;">
-<p>P4 Mercury</p>
-</td>
-<td style="text-align: center;">
-<p>Form Teacher</p>
-</td>
-<td style="text-align: center;">
-<p>Mrs Dawn Tan</p>
-</td>
-<td style="text-align: center;">
-<p><a href="mailto:tan_tsu_mei_dawn@moe.edu.sg" target="">tan_tsu_mei_dawn@moe.edu.sg</a></p>
-</td>
+<td>&nbsp;</td>
+<td style="text-align: center;">Ms Sherry Tai&nbsp;</td>
+<td style="text-align: center;"><a href="mailto:sherry_tai@moe.edu.sg" target="">sherry_tai@moe.edu.sg</a>&nbsp;&nbsp;</td>
 </tr>
 <tr>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">
-<p>Co-Form Teacher</p>
-</td>
-<td style="text-align: center;">
-<p>Ms Chng Choon Pheow</p>
-</td>
-<td style="text-align: center;">
-<p><a href="mailto:chng_choon_pheow@moe.edu.sg" target="">chng_choon_pheow@moe.edu.sg</a></p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;">
-<p>P4 Neptune</p>
-</td>
-<td style="text-align: center;">
-<p>Form Teacher</p>
-</td>
-<td style="text-align: center;">
-<p>Mrs Antoinette Teo</p>
-</td>
-<td style="text-align: center;">
-<p><a href="mailto:toh_siew_foong_antoinette@moe.edu.sg" target="">toh_siew_foong_antoinette@moe.edu.sg</a></p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">
-<p>Co-Form Teacher</p>
-</td>
-<td style="text-align: center;">
-<p>Mdm Yuan Yingna</p>
-</td>
-<td style="text-align: center;">
-<p><a href="mailto:yuan_yingna@moe.edu.sg" target="">yuan_yingna@moe.edu.sg</a></p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;">
-<p>P4 Venus</p>
-</td>
-<td style="text-align: center;">
-<p>Form Teacher</p>
-</td>
-<td style="text-align: center;">
-<p>Mr Vincent Goh</p>
-</td>
-<td style="text-align: center;">
-<p><a href="mailto:goh_teck_guan_vincent@moe.edu.sg" target="">goh_teck_guan_vincent@moe.edu.sg</a></p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">
-<p>Co-Form Teacher</p>
-</td>
-<td style="text-align: center;">
-<p>Ms Gao Hewei</p>
-</td>
-<td style="text-align: center;">
-<p><a href="mailto:gao_hewei@moe.edu.sg" target="">gao_hewei@moe.edu.sg&nbsp;</a></p>
+<td colspan="3">&nbsp; &nbsp; &nbsp; &nbsp;
 </td>
 </tr>
 </tbody>
 </table>
-<p style="text-align: center;"><a href="https://chijkellock.moe.edu.sg/our-staff/teaching-staff/primary-4#lo_main">Back to Top</a></p>
