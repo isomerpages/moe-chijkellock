@@ -155,7 +155,7 @@ Respect for our Nation and School<br>
 • Students who are not Singapore citizens must stand at attention and remain silent whenever the National Anthem is sung and the National Pledge is recited.<br>
 • All students will sing the School Song with fervour. <br>
 • All students will join in to pray or remain silent and adopt a respectful disposition during prayer times.<br>
-</p>
+
 
 
 <b><u>ATTENDANCE AND PUNCTUALITY</u></b><br>
