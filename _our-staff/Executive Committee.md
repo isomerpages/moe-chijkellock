@@ -217,33 +217,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h4><strong>Assistant Year Head</strong></h4>
-<table width="0">
-<tbody>
-<tr>
-<td style="text-align: center;" width="150">
-<p><strong>Level</strong></p>
-</td>
-<td style="text-align: center;" width="208">
-<p><strong>Name</strong></p>
-</td>
-<td style="text-align: center;" width="351">
-<p><strong>E-mail</strong></p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="150">
-<p><strong>Lower Primary</strong></p>
-</td>
-<td style="text-align: center;" width="208">
-<p>Ms Nadzirah Bte Azhar</p>
-</td>
-<td style="text-align: center;" width="351">
-<p><a href="mailto:nadzirah_azhar@moe.edu.sg" target="">nadzirah_azhar@moe.edu.sg</a></p>
-</td>
-</tr>
-</tbody>
-</table>
 <h4><strong>Subject Head</strong></h4>
 <table width="0">
 <tbody>
