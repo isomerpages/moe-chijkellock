@@ -187,10 +187,10 @@ description: ""
 <p><strong>Lower Primary </strong></p>
 </td>
 <td style="text-align: center;">
-<p>Ms Goh Tung Li Adeline</p>
+<p>Ms Sri Darmavijaya</p>
 </td>
 <td style="text-align: center;">
-<p><a href="mailto:goh_tung_li_adeline@moe.edu.sg" target="">goh_tung_li_adeline@moe.edu.sg</a></p>
+<p><a href="mailto:sri_darmavijaya_govindaraj@moe.edu.sg" target="">sri_darmavijaya_govindaraj@moe.edu.sg</a></p>
 </td>
 </tr>
 <tr>
