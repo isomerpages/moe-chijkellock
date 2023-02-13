@@ -20,4 +20,5 @@ The vision of CHIJ Kellock to nurture discipleship among the students is a call 
 <br>
 <h4>Chaplaincy</h4><br >
 At CHIJ Kellock, we believe that it takes a village to raise a child. The Chaplaincy Team of the school comprising our Chaplain from Church of St Teresa, parents and friends of the school, teachers and school leaders, work in tandem to build the foundation for the faith development of the children in school. This partnership gives students a chance to understand the mission, beliefs and practices of their faith. Formed in the faith, our children will boldly go into a world that needs them and make a difference.<br>
-
+<h4>Faith Formation Programme at CHIJ Kellock</h4><br >
+<img style="width: 90%;" src="/images/SpiritualityInKellock.png" align = "center" />
