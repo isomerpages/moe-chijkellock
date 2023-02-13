@@ -16,4 +16,3 @@ CHIJ KELLOCK pupils are we
 <br >And Prosperity
 <br >May God bless and guide us,
 <br >As our best is yet to be.
-</p>
