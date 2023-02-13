@@ -402,17 +402,6 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="142">
-<p><strong>English</strong></p>
-</td>
-<td style="text-align: center;" width="208">
-<p>Mrs Esther Chia</p>
-</td>
-<td style="text-align: center;" width="359">
-<p><a href="mailto:lye_swee_lin_esther@moe.edu.sg" target="">lye_swee_lin_esther@moe.edu.sg</a></p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="142">
 <p><strong>Chinese</strong></p>
 </td>
 <td style="text-align: center;" width="208">
@@ -424,24 +413,13 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">
-<p><strong>Science&nbsp;</strong></p>
+<p><strong>CCE/SEN</strong></p>
 </td>
 <td style="text-align: center;">
-<p>Mr Teo Choon Boh</p>
+<p>Mdm Helen Teo</p>
 </td>
 <td style="text-align: center;">
-<p><a href="mailto:teo_choon_boh@moe.edu.sg" target="">teo_choon_boh@moe.edu.sg</a></p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;">
-<p><strong>CCE</strong></p>
-</td>
-<td style="text-align: center;">
-<p>Ms Sally Lee</p>
-</td>
-<td style="text-align: center;">
-<p><a href="mailto:lee_soek_hua@moe.edu.sg" target="">lee_soek_hua@moe.edu.sg</a></p>
+<p><a href="mailto:teo_hai_loon_helen@moe.edu.sg" target="">teo_hai_loon_helen@moe.edu.sg</a></p>
 </td>
 </tr>
 <tr>
