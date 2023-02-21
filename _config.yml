@@ -2,11 +2,11 @@ title: Convent of the Holy Infant Jesus (Kellock)
 url: https://chijkellock.moe.edu.sg
 favicon: /images/logo.png
 colors:
-  primary-color: "#3b00ac"
-  secondary-color: "#f3c225"
+  primary-color: "#0011b9"
+  secondary-color: "#feff94"
   media-colors:
     - title: media-color-one
-      color: "#ebed94"
+      color: "#f8e71c"
     - title: media-color-two
       color: "#000000"
     - title: media-color-three
