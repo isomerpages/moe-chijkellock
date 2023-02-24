@@ -23,6 +23,7 @@ Students <b>are strongly encouraged to</b> stay in the same CCA till graduation 
 
 <p>Primary 1 and 2 students will go through a selection trial for Rhythmic Gymnastics and Netball respectively. Thereafter, selected students will be invited to join the Talent Development CCA (Training Squad). Upon accepting the offer, students will have to commit to the training programme (Training Squad). Towards the end of Primary 4,  teachers-in-charge and coaches/instructors will assess the students based on aptitude and their learning progress for the year. Students will then be advised to either remain in the Talent Development CCA or choose a recreational CCA at the end of Primary 4.</p>
 
+![](/images/2023/DevelopmentCCA2023.png)
 
 
 <p><b><u>Performing Arts Talent Development CCAs</u></b></p>
@@ -44,6 +45,4 @@ Students <b>are strongly encouraged to</b> stay in the same CCA till graduation 
 Students <u>who are not in a Talent Development CCA </u>will participate in a CCA selection exercise. They are required to select their top 4 recreational CCA choices in order of preference. <br>
 
 In the event that all 4 choices of CCA choices are oversubscribed, the school will inform parents so that parents can work with their child in selecting another CCA. </p>
-
-[IMAGE]
-
+![](/images/2023/OfferedCCA2023.png)
