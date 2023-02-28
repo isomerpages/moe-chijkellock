@@ -11,7 +11,8 @@ third_nav_title: English
 <table>
 <tbody>
 <tr>
-<th style="text-align: center;">STRETCH</th>
+<th style="text-align: center;"><a href="/the-k-experience/english/english-curriculum/stretch/i-love-lit/" target="">
+STRETCH</a></th>
 <th style="text-align: center;">STRENGTHEN</th>
 <th style="text-align: center;">SUPPORT</th>
 </tr>
