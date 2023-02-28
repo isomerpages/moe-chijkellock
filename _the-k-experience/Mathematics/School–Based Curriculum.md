@@ -19,39 +19,39 @@ third_nav_title: Mathematics
 <td style="text-align: center;" colspan="6">MOE Mathematics Syllabus&nbsp;</td>
 </tr>
 <tr>
-<td style="text-align: center;" colspan="6">Problem Solving Package (PSP)</td>
+<td style="text-align: center;" colspan="6"><a href="/the-k-experience/mathematics/school-based-curriculum/problem-solving-package-psp/" target="">Problem Solving Package (PSP)</a></td>
 </tr>
 <tr>
-<td style="text-align: center;" colspan="6">Speed Challenge</td>
+<td style="text-align: center;" colspan="6"><a href="/the-k-experience/mathematics/school-based-curriculum/mental-sums-and-speed-challenge/" target="">Speed Challenge</a></td>
 </tr>
 <tr>
-<td style="text-align: center;" colspan="3">Maths Alive</td>
+<td style="text-align: center;" colspan="3"><a href="/the-k-experience/mathematics/school-based-curriculum/math-alive/" target="">Maths Alive</a></td>
 <td style="text-align: center;" colspan="3"><span style="background-color: #003300;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></td>
 </tr>
 <tr>
-<td style="text-align: center;" colspan="2">White Space Programme &nbsp;</td>
+<td style="text-align: center;" colspan="2"><a href="/the-k-experience/mathematics/school-based-curriculum/p1-and-p2-white-space-programme/" target="">White Space Programme &nbsp;</a></td>
 <td style="text-align: center;" colspan="4"><span style="background-color: #003300;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></td>
 </tr>
 <tr>
 <td style="text-align: center;"><span style="background-color: #003300;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>&nbsp;</td>
-<td style="text-align: center;">Supermarket Trail&nbsp;</td>
+<td style="text-align: center;"><a href="/the-k-experience/mathematics/school-based-curriculum/p2-supermarket-trail/" target="">Supermarket Trail&nbsp;</a></td>
 <td style="text-align: center;" colspan="4"><span style="background-color: #003300;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></td>
 </tr>
 <tr>
 <td style="text-align: center;" colspan="2"><span style="background-color: #003300;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></td>
-<td style="text-align: center;" colspan="2">Mathematics Challenge&nbsp; &nbsp;</td>
+<td style="text-align: center;" colspan="2"><a href="/the-k-experience/mathematics/school-based-curriculum/p3-and-p4-mathematics-challenge/" target="">Mathematics Challenge&nbsp; &nbsp;</a></td>
 <td style="text-align: center;" colspan="2"><span style="background-color: #003300;"><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</strong></span></td>
 </tr>
 <tr>
 <td style="text-align: center;" colspan="3"><span style="background-color: #003300;"><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</strong></span></td>
-<td style="text-align: center;" colspan="3">E2K&nbsp; &nbsp; &nbsp;</td>
+<td style="text-align: center;" colspan="3"><a href="/the-k-experience/mathematics/school-based-curriculum/p4-p6-excellence-2000-e2k/" target="">E2K</a>&nbsp; &nbsp; &nbsp;</td>
 </tr>
 <tr>
 <td style="text-align: center;" colspan="5"><span style="background-color: #003300;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></td>
-<td style="text-align: center;">Financial Bazaar&nbsp;</td>
+<td style="text-align: center;"><a href="/the-k-experience/mathematics/school-based-curriculum/primary-6-financial-literacy-bazaar/" target="">Financial Bazaar&nbsp;</a></td>
 </tr>
 <tr>
-<td style="text-align: center;" colspan="6">STEAM Week&nbsp;</td>
+<td style="text-align: center;" colspan="6"><a href="/the-k-experience/mathematics/school-based-curriculum/steam-week/" target="">STEAM Week&nbsp;</a></td>
 </tr>
 <tr>
 <td style="text-align: center;" colspan="6">Financial Literacy</td>
