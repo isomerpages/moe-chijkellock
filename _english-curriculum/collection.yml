@@ -2,7 +2,6 @@ collections:
   english-curriculum:
     output: true
     order:
-      - English Curriculum.md
       - Stretch/.keep
       - Stretch/I Love Lit.md
       - Stretch/Junior Journalism.md
@@ -15,3 +14,4 @@ collections:
       - Ignite the Love of Learning/EL Week 2016.md
       - Ignite the Love of Learning/EL Week 2015.md
       - Ignite the Love of Learning/English Week.md
+      - English Curriculum.md
