@@ -17,6 +17,7 @@ description: ""
 <tbody>
 <tr>
 <td>Term 1</td>
+	<td><a href="/files/Kbites%20Jan%202022.pdf" target="">January</a></td>
 </tr>
 </tbody>
 </table>
