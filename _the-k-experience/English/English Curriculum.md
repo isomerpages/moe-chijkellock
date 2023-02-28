@@ -13,7 +13,7 @@ third_nav_title: English
 <tr>
 <th style="text-align: center;"><a href="/the-k-experience/english/english-curriculum/stretch/i-love-lit/" target="">
 STRETCH</a></th>
-<th style="text-align: center;">STRENGTHEN</th>
+<th style="text-align: center;"><a href="/the-k-experience/english/english-curriculum/strengthen/stellar/" target="">STRENGTHEN</a></th>
 <th style="text-align: center;">SUPPORT</th>
 </tr>
 <tr>
