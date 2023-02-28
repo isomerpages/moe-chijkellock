@@ -50,7 +50,7 @@ STRETCH</a></th>
 </td>
 </tr>
 <tr>
-<td style="text-align: center;" colspan="3"><strong>IGNITING THE LOVE OF LEARNING </strong></td>
+<td style="text-align: center;" colspan="3"><strong><a href="/the-k-experience/english/english-curriculum/ignite-the-love-of-learning/english-week/" target="">IGNITING THE LOVE OF LEARNING </a></strong></td>
 </tr>
 <tr>
 <td style="text-align: center;"><em>Library Programmes&nbsp;</em></td>
