@@ -4,7 +4,7 @@ permalink: /the-k-experience/mother-tongue/chinese-language/other-activities/
 description: ""
 third_nav_title: Chinese Language
 ---
- <h4><strong>8th National Primary School "Picture Book Creation" CL competition</strong></h4><p>(第八届全国小学生绘本创作比赛) </p>
+<h4><strong>8th National Primary School "Picture Book Creation" CL competition</strong></h4><p>(第八届全国小学生绘本创作比赛) </p>
 <p>Our students took part in the 8th National Primary School "Picture Book Creation" CL competition (第八届全国小学生绘本创作比赛), which was organised by Nan Hua Primary School in the year 2022. The competition aims to provide a platform for our students to showcase their talents and confidence in learning the language, by working collaboratively to develop creative Chinese writing skills.</p>
 <p>It is our great pleasure to announce that our students managed to clinch the Silver award in the competition. Our students worked together to brainstorm for story contents, ideas, illustrations drawing, design and colouring. Congratulations to the following winners and all the participants.</p><p>Chee Rui Le Rayle (4 Earth)
 
