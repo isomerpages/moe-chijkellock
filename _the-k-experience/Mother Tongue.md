@@ -6,7 +6,7 @@ description: ""
 <h4><strong>Our Mission</strong></h4>
 <p>The Mother Tongue Language (MTL) Department aims to foster a community of 21st century learners and critical thinkers who are confident speakers of their Mother Tongue Languages and appreciate its cultural values.</p>
 <h4><strong>Our Vision</strong></h4>
-<p>We aim to develop our students to become thoughtful learners who are able to communicate in their Mother Tongue language confidently, therefore enabling them to connect with others in using the language to learn about its cultural values.</p>
+<p>We aim to develop our students to become  future-oriented learners who are able to communicate in their Mother Tongue language confidently, therefore enabling them to connect with others in using the language to learn about its cultural values.</p>
 <h4><strong>Overview</strong></h4>
 <p>The department offers Chinese Language, Tamil Language and Malay Language. In addition to the MOE syllabus, the MTL Department provides a customised curriculum that caters to the needs of our students.&nbsp;Please click on the links below to access information on the various departments.</p>
 <ol style="list-style-type: lower-roman;">
