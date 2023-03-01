@@ -3,7 +3,7 @@ title: Principal's Message
 permalink: /about-us/principals-message/
 description: ""
 ---
-Dear Parents and My Dear Girls,
+<p align="justify"> Dear Parents and My Dear Girls,
   
 Here’s wishing you God’s abundant blessings!  
 
@@ -22,3 +22,4 @@ A very happy and blessed New Year!
 Mrs Shanthi Suraj Nair <br >
 Principal <br >
 ‘Simple in Virtue; Steadfast in Duty’
+</p>
