@@ -4,7 +4,7 @@ permalink: /about-us/school-information/school-song/
 description: ""
 third_nav_title: School Information
 ---
-<p align = "center" />
+<p align = "center">
 CHIJ KELLOCK pupils are we
 <br >Steadfast together here we stand,
 <br >Youthful though we be, we realize,
