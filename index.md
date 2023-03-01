@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banner.gif
+      background: /images/2023/HomeBanner.jpg
       key_highlights:
         - title: Quick Links
           description: ""
