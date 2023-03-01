@@ -4,7 +4,7 @@ permalink: /the-k-experience/mother-tongue/chinese-language/other-activities/
 description: ""
 third_nav_title: Chinese Language
 ---
-<h4><strong>8th National Primary School "Picture Book Creation" CL competition</strong></h4><p>(第八届全国小学生绘本创作比赛) </p>
+ <h4><strong>8th National Primary School "Picture Book Creation" CL competition</strong></h4><p>(第八届全国小学生绘本创作比赛) </p>
 <p>Our students took part in the 8th National Primary School "Picture Book Creation" CL competition (第八届全国小学生绘本创作比赛), which was organised by Nan Hua Primary School in the year 2022. The competition aims to provide a platform for our students to showcase their talents and confidence in learning the language, by working collaboratively to develop creative Chinese writing skills.</p>
 <p>It is our great pleasure to announce that our students managed to clinch the Silver award in the competition. Our students worked together to brainstorm for story contents, ideas, illustrations drawing, design and colouring. Congratulations to the following winners and all the participants.</p><p>Chee Rui Le Rayle (4 Earth)
 
@@ -26,6 +26,16 @@ Chew Kai Yi  (4 Venus)</p>
 
 Finally, we invited Dr. Liang Wern Fook (梁文福) to conduct Xin Yao (Singapore Chinese Folk Songs) Workshop for our P6 students. Dr. Liang is a Cantonese Singaporean writer, musician, singer and researcher in Chinese literature and pedagogy. He was one of the pioneer figures in Xin Yao movement in the 1980s and 1990s. Dr. Liang’s unique experience inspired students to recognize their own strength, treasure their culture heritage as well as the Singapore identity.</p>
 <p><i>*For more details on TL and ML activities during Mother Tongue Fortnight, please refer to TL and ML pages on the website.</i></p>
+
+<h4><strong>Chinese New Year (CNY) Celebration
+</strong></h4>
+<p>CHIJ Kellock held the Chinese New Year celebration to usher in the year of Rabbit on Friday, 20 January 2023. In the past two years, the Chinese New Year celebration was held virtually due to COVID-19. This year, we can finally celebrate Chinese New Year through a live concert held in the school hall. We started the celebration with a mini skit inspired by Zootopia. Judy the rabbit, who was acted by a teacher, had a conversation with Flash the sloth in the video to ask about the Chinese New Year celebration. Judy then invited the School Leaders to launch the celebration. The Lion Dance live show kick-started the subsequent performances and blessed the whole school with good luck in the year 2023.</p>
+<p>CCA performances by String Ensemble and Rhythmic Gymnastics brought the celebration to its first climax. Students’ individual and group performances were another highlight of the program. Shannon Teo from P5 Jupiter performed a solo dance while singing “He Xin Nian” (《贺新年》). The P2 girls showcased interesting magic show videos. Two pairs of sisters and their friend performed the English version of the traditional Chinese song “Da Di Hui Chun” (《大地回春》). Special thanks to supportive parent, Sarah’s mother for her creative translation. Another parent who joined us in this celebration was Emily Too’s father, who put up a parent-child performance together with Emily on the modern Chinese song “Ni Xiao Qi Lai Zhen Hao Kan” (《你笑起来真好看》).</p>
+<p>To engage students, level games were designed at different points throughout the celebration. Students from different levels were invited to participate in games such as “Who is this teacher”, “Spot the difference” and “Guess the Chinese Zodiac”. Winners from all levels were rewarded with a small present.</p>
+<p>During the CNY celebration, P3 and P4 girls from different races performed a medley with songs inspired by traditional food from different cultures, which they learnt During the Mother Tongue Fortnight this year. Another interesting program that exhibited racial harmony was an Indian dance performance by Mrs Geetha, accompanied by a background song sung by Chinese singer Zhou Shen. Mrs Geetha’s unique performance brought the celebration to another climax. Other teachers’ performances including “Chun Lian Hong” (《春联红》) and “Friend” (《朋友》) were also well received. To give students a break, teachers led workout session was carried out halfway through the celebration. Students enjoyed themselves as they danced along to the music. 
+
+As a symbol of prosperity, mandarin oranges were given to the teachers by the School Leaders at the end of celebration.</p>
+<p>We wish everyone in Kellock family abundance, health, and happiness in the year of Rabbit!</p>
 
 <p>Please click on the albums below to view the photos.</p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQMxrKiWbcJZ99162QBoys86eY-IBS6cNke3oPPMlv7iK6gZWkYlpdBjmFZ9kou2_fveQ4Ku9M5E3Wt/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
