@@ -20,4 +20,5 @@ sections:
         - title: For Parents
           description: ""
           url: ""
+      background: /images/2023/HomeBanner2.png
 ---
