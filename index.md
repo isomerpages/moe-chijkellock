@@ -9,10 +9,16 @@ sections:
   - hero:
       background: /images/2023/HomeBanner.jpg
       key_highlights:
-        - title: Quick Links
+        - title: "Announcement "
           description: ""
           url: /moe-chijkellock/quick-links/
-  - resources:
-      title: Announcements
-      button: More Announcements
+        - title: For Teachers
+          description: ""
+          url: ""
+        - title: For Students
+          description: ""
+          url: ""
+        - title: For Parents
+          description: ""
+          url: ""
 ---
