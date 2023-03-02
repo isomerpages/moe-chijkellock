@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2023/HomeBanner.jpg
       key_highlights:
         - title: "Announcement "
           description: ""
