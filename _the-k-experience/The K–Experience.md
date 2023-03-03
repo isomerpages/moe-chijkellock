@@ -3,4 +3,4 @@ title: The K–Experience
 permalink: /the-k-experience/
 description: ""
 ---
-<img src="/images/kex.png">
+<p align="center"><img src="/images/2023/TheKExperienceBanner.jpg"></p>
