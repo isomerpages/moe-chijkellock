@@ -12,7 +12,7 @@ third_nav_title: Creative Arts
 
 
 
-<p><i>\*For students to participate in events various performances, they must have at least 80% attendance and practice diligently.&nbsp;</i></p>
+<p><i>*For students to participate in events various performances, they must have at least 80% attendance and practice diligently.&nbsp;</i></p>
 
 <table class="iveo_table ive_eobj_center ives_tab_1" style="width: 568px; height: 115px;">
 <tbody>
@@ -112,6 +112,6 @@ third_nav_title: Creative Arts
 
 <p>7.30am - 9.30am </p>
 
-<p><i>\*Additional practice on Tuesday afternoon when preparing for events</i></p>
+<p><i>*Additional practice on Tuesday afternoon when preparing for events</i></p>
 
 <p>Approx. $160 per semester</p>
