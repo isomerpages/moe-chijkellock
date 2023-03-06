@@ -16,5 +16,5 @@ third_nav_title: Creative Arts
 </ul>
 <p><strong>Teachers-in-charge<br /></strong>Ms Mishal Lim, Mdm Liu Shiwei and Mrs Dawn Tan</p>
 <p><strong>Day<br /></strong>Friday</p>
-<p><strong>Time<br /></strong>7.45am - 9.25am<br /><em>*Additional practice on Tuesday afternoon when preparing for events</em></p>
+<p><strong>Time<br /></strong>7.30am - 9.30am<br /><em>*Additional practice on Tuesday afternoon when preparing for events</em></p>
 <img style="width: 65%;" src="/images/de.jpg">
