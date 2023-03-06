@@ -3,7 +3,7 @@ url: https://chijkellock.moe.edu.sg
 favicon: /images/logo.png
 colors:
   primary-color: "#1b3d9a"
-  secondary-color: "#0a2469"
+  secondary-color: "#1b3d9a"
   media-colors:
     - title: media-color-one
       color: "#000000"
