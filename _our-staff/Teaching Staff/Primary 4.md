@@ -25,8 +25,8 @@ third_nav_title: Teaching Staff
 <td>&nbsp;
 </td>
 
-<td>Mrs Cindy Tang</td>
-<td><a href="mailto:cindy_quake@moe.edu.sg" target="">cindy_quake@moe.edu.sg</a><br>
+<td style="text-align: center;">Mrs Cindy Tang</td>
+<td style="text-align: center;"><a href="mailto:cindy_quake@moe.edu.sg" target="">cindy_quake@moe.edu.sg</a><br>
 </td>
 </tr>
 
