@@ -3,7 +3,6 @@ title: Ed Tech
 permalink: /the-k-experience/edtech/
 description: ""
 ---
-
 <h4><strong>Our Mission</strong></h4>
 <p>In CHIJ Kellock, we believe in the power of technology as a key enabler in transforming teaching and learning. Anchored in this belief, the ICT Committee aims to enrich students&rsquo; learning environment and equip them with the necessary competencies to succeed in the 21st century. We leverage on technology to empower them with knowledge, skills and values to help them become critical thinkers as well as confident, self-directed and connected learners who will contribute to make a difference in the globalised world they live in.</p>
 <h4><strong>Kbotics</strong></h4>
