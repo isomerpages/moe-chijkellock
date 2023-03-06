@@ -54,7 +54,7 @@ description: ""
 </td>
 <td style="text-align: center;"><a target="" href="mailto:rose_anne_perez_macalalad@moe.edu.sg">Ms Rose Macalalad&nbsp;</a>
 </td>
-<td style="text-align: center;"><a target="" href="mailto:royston.lj@ncs.com.sg">Mr Royston</a><br>Ms Jasmine</td>
+<td style="text-align: center;">Ms Jasmine</td>
 </tr>
 </tbody>
 </table>
