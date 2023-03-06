@@ -11,13 +11,13 @@ sections:
         - title: "Announcement "
           description: ""
           url: /moe-chijkellock/quick-links/
-        - title: For Teachers
-          description: ""
-          url: ""
         - title: For Students
           description: ""
           url: ""
         - title: For Parents
+          description: ""
+          url: ""
+        - title: For Teachers
           description: ""
           url: ""
       background: /images/2023/HomeBanner4.png
