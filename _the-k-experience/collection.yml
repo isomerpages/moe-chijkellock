@@ -2,6 +2,7 @@ collections:
   the-k-experience:
     output: true
     order:
+      - Ed Tech.md
       - The K–Experience.md
       - English/.keep
       - English/Our Vision and Mission.md
