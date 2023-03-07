@@ -13,12 +13,12 @@ sections:
           url: /moe-chijkellock/quick-links/
         - title: For Students
           description: ""
-          url: ""
+          url: /moe-chijkellock/forstudents/
         - title: For Parents
           description: ""
-          url: ""
+          url: /moe-chijkellock/forparents/
         - title: For Teachers
           description: ""
-          url: ""
+          url: /moe-chijkellock/forteachers/
       background: /images/2023/HomeBanner5.png
 ---
