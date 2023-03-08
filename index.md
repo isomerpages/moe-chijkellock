@@ -19,6 +19,6 @@ sections:
           url: /moe-chijkellock/forparents/
         - title: For Teachers
           description: ""
-          url: /moe-chijkellock/forteachers/
+          url: /forteachers/
       background: /images/2023/HomeBanner5.png
 ---
