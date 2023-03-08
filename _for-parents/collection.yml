@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Communication to Parents/Booklist.md
       - Communication to Parents/.keep
       - Kbites.md
       - School Service Providers.md
