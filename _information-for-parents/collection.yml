@@ -1,5 +1,5 @@
 collections:
-  parents-portal:
+  information-for-parents:
     output: true
     order:
       - Parents Support Group/Parents Support Group.md
