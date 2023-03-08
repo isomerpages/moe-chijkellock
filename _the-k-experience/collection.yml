@@ -3,6 +3,11 @@ collections:
     output: true
     order:
       - The K–Experience.md
+      - Distinctive Programmes/.keep
+      - Distinctive Programmes/Applied Learning Programme (ALP).md
+      - Distinctive Programmes/Kellock Awareness Week.md
+      - Distinctive Programmes/STEAM Week.md
+      - Distinctive Programmes/Learning for Life Programme (LLP).md
       - English/.keep
       - English/Our Vision and Mission.md
       - English/English Curriculum.md
@@ -38,8 +43,3 @@ collections:
       - CCE/Enactment of CCE.md
       - CCE/Curriculum Content.md
       - CCE/Careers Day.md
-      - Distinctive Programmes/.keep
-      - Distinctive Programmes/Applied Learning Programme (ALP).md
-      - Distinctive Programmes/Kellock Awareness Week.md
-      - Distinctive Programmes/STEAM Week.md
-      - Distinctive Programmes/Learning for Life Programme (LLP).md
