@@ -13,7 +13,7 @@ sections:
           url: /moe-chijkellock/quick-links/
         - title: For Students
           description: ""
-          url: /moe-chijkellock/forstudents/
+          url: /forstudents/
         - title: For Parents
           description: ""
           url: /moe-chijkellock/forparents/
