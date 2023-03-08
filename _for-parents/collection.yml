@@ -2,5 +2,6 @@ collections:
   for-parents:
     output: true
     order:
+      - Communication to Parents.md
       - School Service Providers.md
       - Kbites.md
