@@ -2,6 +2,7 @@ collections:
   the-k-experience:
     output: true
     order:
+      - The K–Experience.md
       - English/.keep
       - English/Our Vision and Mission.md
       - English/English Curriculum.md
@@ -31,7 +32,6 @@ collections:
         Kellock.md
       - Holistic Health Education/Learn–to–Play Programme.md
       - Ed Tech.md
-      - The K–Experience.md
       - CCE/.keep
       - CCE/Character and Citizenship Education.md
       - CCE/A Caring And Enabling Environment.md
