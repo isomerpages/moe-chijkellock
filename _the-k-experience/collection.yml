@@ -2,7 +2,6 @@ collections:
   the-k-experience:
     output: true
     order:
-      - The K–Experience.md
       - English/.keep
       - English/Our Vision and Mission.md
       - English/English Curriculum.md
