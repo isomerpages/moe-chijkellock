@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Kbites.md
-      - Communication to Parents.md
       - School Service Providers.md
+      - Communication to Parents.md
