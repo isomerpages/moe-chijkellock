@@ -80,7 +80,7 @@ description: ""
   </tr>
 	<tr>
     <td>Dance Ensemble</td>
-    <td>Ms Jiang Ming<br> Ms Lydia Tan</td>
+    <td>Ms Mishal Lim<br>Mdm Liu Shiwei<br>Mrs Dawn Tan (Sem2)</td>
   <td>Friday <br> 7.30am - 9.30am<br><i>*Additional practice on Tuesday afternoon when preparing for events</i></td></td>
 		<td><ul><li><i>Students will be auditioned before obtaining a place in the Dance Ensemble.</i>
 
