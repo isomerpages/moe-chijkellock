@@ -49,10 +49,10 @@ description: ""
     <td colspan="4" align="center"><b>Creative Arts</b></td>
   </tr>
 	 <tr>  
-    <th align="center">CCA Name</th>  
-    <th align="center">Teacher-In-Charge</th>  
-    <th align="center">Day and Time</th>  
-		 <th align="center">Remarks</th>  
+    <th style="width:25%" align="center" >CCA Name</th>  
+    <th style="width:25%" align="center">Teacher-In-Charge</th>  
+    <th style="width:25%" align="center">Day and Time</th>  
+		 <th style="width:25%" align="center">Remarks</th>  
   </tr>
 	<tr>
     <td>Art Club</td>
