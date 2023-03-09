@@ -2,4 +2,5 @@ collections:
   our-catholic-identity:
     output: true
     order:
+      - Our Founder – Blessed Father Barre.md
       - School History.md
