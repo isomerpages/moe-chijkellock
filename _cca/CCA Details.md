@@ -35,11 +35,11 @@ description: ""
 	<tr>
     <td>Robotics</td>
     <td>Cooke</td>
-    <td>Linus</td>
+  <td>Friday <br> 7.30am - 9.30am</td>
   </tr>
 		<tr>
     <td>K-Greeners</td>
     <td>Cooke</td>
-    <td>Linus</td>
+    <td>Friday <br> 7.30am - 9.30am</td>
   </tr>
 </table>
