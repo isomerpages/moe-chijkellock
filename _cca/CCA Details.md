@@ -99,11 +99,11 @@ description: ""
   </tr>
 	<tr>
     <td>Netball</td>
-    <td>P2 (Training Squad) –  Ms Christine Kwong <br>
-P3 (Training Squad) – Ms Lena Ang <br>
-P4 (Training Squad) – Mrs Claire Ong<br>
-P5 (School Team)      – Mrs Bernice Ong<br>
-P6 (School Team)     – Ms Christine Kwong<br>
+    <td>P2 (Training Squad) –  Ms Christine Kwong <br><br>
+P3 (Training Squad) – Ms Lena Ang <br><br>
+P4 (Training Squad) – Mrs Claire Ong<br><br>
+P5 (School Team)      – Mrs Bernice Ong<br><br>
+P6 (School Team)     – Ms Christine Kwong<br><br>
 Netball Recreational Team – Mrs Gladys Puah and Mrs Dawn Tan (Sem1) , Ms Khatijah (Sem2)</td>
     <td>Monday: 2.00 pm – 4.00 pm <br>(P4 Training Squad)<br>
                      4.00 pm – 5.30 pm  <br>(P6 School Team)<br><br>
@@ -111,6 +111,7 @@ Tuesday: 2.00 pm – 4.00 pm (P2 Training Squad)<br>
 			<i>*starts in Semester 2</i><br><br>
 Wednesday: 2.00 pm – 4.00 pm (P5 School Team)<br><br>
 Friday: 7.30 am – 9.30 am <br>(Netball Recreational Team, P3 & P4 Training Squad, P5 & P6 School Team)</td>
+					<td></td>
   </tr>
 		<tr>
     <td>Rhythmic Gym</td>
@@ -119,16 +120,19 @@ Friday: 7.30 am – 9.30 am <br>(Netball Recreational Team, P3 & P4 Training Sq
 Tuesday: 2.15pm–5.15pm    <br><br>
 Wednesday:2.15pm–5.15pm<br>(Semester 1 only)<br><br>
 Friday: 7.30am–9.30am (Recreational Team and School Team)</td>
+			<td></td>
   </tr>
 		<tr>
     <td>Swimming</td>
     <td>Mdm Woo Siok Hwee<br> Ms Rachael Pereira<br> Ms Mariam</td>
     <td>Friday <br> 7.30am - 9.30am</td>
+						<td></td>
   </tr>
 	<tr>
     <td>Badminton</td>
     <td>Mrs Esther Tan <br>Ms Xu Jing</td>
     <td>Friday <br> 7.30am - 9.30am</td>
+					<td></td>
   </tr>
 	
 </table>
