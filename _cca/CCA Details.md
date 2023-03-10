@@ -114,8 +114,11 @@ Friday: 7.30 am – 9.30 am <br>(Netball Recreational Team, P3 & P4 Training Sq
   </tr>
 		<tr>
     <td>Rhythmic Gym</td>
-    <td>Mdm He Na <br> Mdm Wang Gui Yun</td>
-    <td>Friday <br> 7.30am - 9.30am</td>
+    <td>Ms Koh Wee Mong<br>Mdm Helen Teo<br>Mrs Antoinette Teo<br>Ms Zhang Linyue (Sem1)n</td>
+    <td>Monday: 2.15p–5.15pm <br>   <br>
+Tuesday: 2.15pm–5.15pm    <br><br>
+Wednesday:2.15pm–5.15pm<br>(Semester 1 only)<br><br>
+Friday: 7.30am–9.30am (Recreational Team and School Team)</td>
   </tr>
 		<tr>
     <td>Swimming</td>
