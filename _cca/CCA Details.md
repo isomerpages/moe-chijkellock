@@ -89,7 +89,7 @@ description: ""
 </table>
 <table style="width:100%" align="center">
 	<tr>
-    <td colspan="3" align="center"><b>Sports</b></td>
+    <td colspan="4" align="center"><b>Sports</b></td>
   </tr>
 	 <tr>  
     <th align="center">CCA Name</th>  
