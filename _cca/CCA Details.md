@@ -95,7 +95,7 @@ description: ""
     <th align="center">CCA Name</th>  
     <th align="center">Teacher-In-Charge</th>  
     <th align="center">Day and Time</th>  
-		 <th align="center">Day and Time</th>  
+		 <th align="center">Remarks</th>  
   </tr>
 	<tr>
     <td>Netball</td>
