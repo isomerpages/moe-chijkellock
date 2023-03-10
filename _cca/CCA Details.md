@@ -120,7 +120,8 @@ Friday: 7.30 am – 9.30 am <br>(Netball Recreational Team, P3 & P4 Training Sq
 Tuesday: 2.15pm–5.15pm    <br><br>
 Wednesday:2.15pm–5.15pm<br>(Semester 1 only)<br><br>
 Friday: 7.30am–9.30am (Recreational Team and School Team)</td>
-			<td></td>
+			<td><ul><li><i>Approx. $180 per semester (School Team)
+</li><li>P1 & P2 General Gymnastics Enrichment Programme is no offered longer by the school.</i></li></ul></td>
   </tr>
 		<tr>
     <td>Swimming</td>
