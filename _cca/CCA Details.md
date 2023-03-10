@@ -125,9 +125,7 @@ Friday: 7.30am–9.30am (Recreational Team and School Team)</td>
   </tr>
 		<tr>
     <td>Swimming</td>
-    <td>Mdm Woo Siok Hwee<br> Ms Rachael Pereira<br> Ms Mariam</td>
-    <td>Friday <br> 7.30am - 9.30am</td>
-						<td></td>
+		<td colspan="3" align="center"><i>*Swimming CCA is currently suspended</i></td>
   </tr>
 	<tr>
     <td>Badminton</td>
