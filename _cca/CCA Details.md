@@ -145,7 +145,7 @@ Friday: 7.30am–9.30am (Recreational Team and School Team)</td>
   </tr>
 	<tr>
     <td>Brownies</td>
-    <td>Mdm Selvi <br> Ms Ami</td>
+    <td>Miss Ravathy <br>Ms Melissa Hadiwinoto</td>
     <td>Friday <br> 7.30am - 9.30am</td>
   </tr>
 </table>
