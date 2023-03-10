@@ -129,7 +129,7 @@ Friday: 7.30am–9.30am (Recreational Team and School Team)</td>
   </tr>
 	<tr>
     <td>Badminton</td>
-    <td>Mrs Esther Tan <br>Ms Xu Jing</td>
+    <td colspan=""> Mr Vincent Goh <br> Ms Kavitha</td>
     <td>Friday <br> 7.30am - 9.30am</td>
 					<td></td>
   </tr>
