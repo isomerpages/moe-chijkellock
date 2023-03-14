@@ -76,7 +76,8 @@ description: ""
     <td>String Ensemble</td>
     <td>Mrs Cindy Tang<br> Mrs Tham Ee Kee</td>
     <td>Friday <br> 7.30am - 9.30am<br><i>*Additional practice on Tuesday afternoon when preparing for events</i></td>
-		<td>Please click here for the entry requirements and fees</td>
+		<td><ul><li>Please click here for the entry prerequisites</li>
+			<li><p>Approx. $160 per semester</p></li></ul></td>
   </tr>
 	<tr>
     <td>Dance Ensemble</td>
