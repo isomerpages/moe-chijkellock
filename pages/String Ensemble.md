@@ -3,13 +3,9 @@ title: String Ensemble
 permalink: /ccas/Creative-Arts/stringensemble/
 description: ""
 ---
-
-<p>The String Ensemble provides young violinists, violists, cellists and double bassists with the opportunity to come together to perform in a string orchestra as well as in chamber group. Students’ learning in the String Ensemble will sharpen their musical skills as well as expand their music repertoire. They will develop the values of responsibility and resilience through this music making experience in an ensemble. Through the String Ensemble experience, students will learn the importance of teamwork in order to achieve the best performance.&nbsp;&nbsp;</p>
-
-<p>Our String Ensemble represents the school at the biennial Singapore Youth Festival Central Judging (Instrumental) and have been awarded with the distinction award each time, in recognition of their hard work and talent. Apart from representing the school at the SYF platforms, our String Ensemble students have various performance platforms, both within and out of school, to share the joy of music as a way of making a difference in the lives of others.&nbsp; The String Ensemble is an excellent avenue where young musicians can enhance their musicianship, build friendship and care for the less fortunate.</p>
+<h4>Prerequisites for String Ensemble entry</h4>
 
 <p>Entry into the CCA is strictly via auditions. The prerequisites for entry into the string ensemble are as follows:</p>
-
 
 
 <p><i>*For students to participate in events various performances, they must have at least 80% attendance and practice diligently.&nbsp;</i></p>
@@ -82,36 +78,5 @@ description: ""
 </tbody>
 </table>
 
-<p>Highlights</p>
 
-<div>
 
-<ul>
-
-<li>Singapore Youth Festival Arts Presentation (alternate years)<br></li>
-
-<li>Ensemble Examination and Certification (alternate years)<br></li>
-
-<li>Master Classes with well-known musicians<br></li>
-
-<li>Various Internal / External Performance Platforms<br></li>
-
-<li>Community Outreach Projects<b></li>
-
-</ul>
-
-<p>Teacher-in-charge&nbsp;</p>
-
-<p> Mrs Cindy Tang, and Mrs Tham Ee Kee</p>
-
-<p>Day</p>
-
-<p>Friday</p>
-
-<p>Time:</p>
-
-<p>7.30am - 9.30am </p>
-
-<p><i>*Additional practice on Tuesday afternoon when preparing for events</i></p>
-
-<p>Approx. $160 per semester</p>
