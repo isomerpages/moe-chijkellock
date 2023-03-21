@@ -46,13 +46,13 @@ description: ""
 
 <table style="width:100%" align="center">
 	<tr>
-    <td colspan="4" align="center"><b>Creative Arts</b></td>
+   <td colspan="4" align="center"><b>Creative Arts</b></td>
   </tr>
 	 <tr>  
-    <th style="width:25%" align="center" >CCA Name</th>  
-    <th style="width:25%" align="center">Teacher-In-Charge</th>  
-    <th style="width:25%" align="center">Day and Time</th>  
-		 <th style="width:25%" align="center">Remarks</th>  
+    <th align="center" >CCA Name</th>  
+    <th align="center">Teacher-In-Charge</th>  
+    <th align="center">Day and Time</th>  
+		 <th align="center">Remarks</th>  
   </tr>
 	<tr>
     <td>Art Club</td>
@@ -77,7 +77,7 @@ description: ""
     <td>Mrs Cindy Tang<br> Mrs Tham Ee Kee</td>
     <td>Friday <br> 7.30am - 9.30am<br><i>*Additional practice on Tuesday afternoon when preparing for events</i></td>
 		<td><ul><li>Please click <a href="https://moe-chijkellock.gov.sg/ccas/Creative-Arts/stringensemble/">here</a> for the entry prerequisites</li>
-			<li><p>Approx. $160 per semester</p></li></ul></td>
+			<li>Approx. $160 per semester</li></ul></td>
   </tr>
 	<tr>
     <td>Dance Ensemble</td>
@@ -88,6 +88,7 @@ description: ""
 <li><i>For students to participate in events various performances, they must have at least 80% attendance and practice diligently.</i></li></ul></td>
   </tr>
 </table>
+
 <table style="width:100%" align="center">
 	<tr>
     <td colspan="4" align="center"><b>Sports</b></td>
