@@ -11,8 +11,6 @@ links:
         url: /about-us/ij-board
       - title: Contact Us
         url: /about-us/contact-us
-  - title: "Our Catholic Identity "
-    collection: our-catholic-identity
   - title: Our Staff
     url: /our-staff
     sublinks:
