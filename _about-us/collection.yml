@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Catholic Identity/Spirituality at CHIJ Kellock.md
       - Our Catholic Identity/.keep
       - Our Founder – Blessed Father Barre.md
       - School History.md
