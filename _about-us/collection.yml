@@ -2,10 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Our Catholic Identity/School History.md
-      - Our Catholic Identity/Our Founder – Blessed Father Barre.md
-      - Our Catholic Identity/Spirituality at CHIJ Kellock.md
-      - Our Catholic Identity/.keep
       - About Us.md
       - Principal's Message.md
       - School Information/.keep
@@ -15,5 +11,9 @@ collections:
       - School Information/School Song.md
       - School Information/School Rules & Regulations.md
       - School Information/Road Safety & Traffic Management.md
+      - Our Catholic Identity/.keep
+      - Our Catholic Identity/School History.md
+      - Our Catholic Identity/Our Founder – Blessed Father Barre.md
+      - Our Catholic Identity/Spirituality at CHIJ Kellock.md
       - IJ Board.md
       - Contact Us.md
