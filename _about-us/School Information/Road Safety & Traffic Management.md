@@ -52,7 +52,6 @@ With reference to Diagram 2, students who are to be picked up by car will wait a
 
 <p><b><u>d) Safety Concerns</b></u><br>
 
-
 <p><b><u> e) Morning Peak Hour Traffic</b></u><br>
 
 Please take note of the hazards highlighted in Diagram 6. We seek your kind cooperation to follow the traffic rules and instructions to help us maintain an orderly flow of traffic when travelling to and from the school.</p>
