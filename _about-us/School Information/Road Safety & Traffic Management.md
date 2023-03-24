@@ -23,13 +23,15 @@ Thus, we would appreciate parents to remind their children to: </p>
 
 Diagram 1 below shows the different entry and exit points of the school, both for vehicles and pedestrians. Please adhere to the traffic management processes when entering and leaving the school. </p>
 
-<p> <b><u> a) Arrival Procedure - for P1 to P3 students who come by car</u></b><br>
+<img src="/images/2023/AboutUs/traffic_1.png">
 
+<p> <b><u> a) Arrival Procedure - for P1 to P3 students who come by car</u></b><br>
+<img src="/images/2023/AboutUs/traffic_2.png">
 Vehicular access into the school via Gate 2 is only for parents / guardians of P1 to P3 students who have bought the school car decal and displayed it prominently on the windscreen. The purpose is to drop off their child / ward in the morning between 6.30 a.m. and 7.30 a.m., and pick her up at dismissal between 1.45 p.m. and 2.15 p.m.</p>
 
 <p>Parents / guardians are encouraged to teach their child / ward to put their school bags next to them, or on top of their own laps to facilitate a quicker drop-off. Parents / guardians are also encouraged to bid their farewell before the child / ward is dropped off, and not while their child / ward is outside the vehicle.</p>
 <p> <b><u> b) Arrival Procedure - for P4 to P6 students who come by car</u></b><br>
-
+<img src="/images/2023/AboutUs/traffic_3.png">
 <u>2 arrival points – Gate 3p and Gate 1p:</u>
 For parents who are driving to drop off their child at </p>
  <ul>
@@ -49,6 +51,15 @@ With reference to Diagram 2, students who are to be picked up by car will wait a
 </ul>
 </p>
 <p><u>ii) Option B: Park and Pick</u><br>
+With reference to Diagram 4, there are 2 dismissal points for <b>this option – Gate 3p</b> and <b>Gate 1p</b>, where the students who are waiting to be picked up by car will wait along the sheltered passageway leading to the respective gates.</p>
+
+<p>For parents / guardians <b>who are driving to pick their child</b> up at  
+<ul>
+<li><b>Gate 3p</b> – please park your car at <b>Y</b>, the Bukit Purmei Road Car Park between Block 110 and Block 111 (behind the temple) and <b>make your way to Gate 3p to pick your child / ward up. </b></li>
+
+<li><b>Gate 1p</b> – please park at X, the Bukit Purmei Road car park between Block 113 and Block 115 and <b>make your way to Gate 1p to pick your child / ward up.</b></li>
+</ul>
+</p>
 
 <p><b><u>d) Safety Concerns</b></u><br>
 
