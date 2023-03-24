@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Founder – Blessed Father Barre.md
       - School History.md
       - About Us.md
       - Principal's Message.md
