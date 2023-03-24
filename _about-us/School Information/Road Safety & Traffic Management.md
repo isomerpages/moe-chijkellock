@@ -52,7 +52,8 @@ With reference to Diagram 2, students who are to be picked up by car will wait a
 </p>
 <p><u>ii) Option B: Park and Pick</u><br>
 With reference to Diagram 4, there are 2 dismissal points for <b>this option – Gate 3p</b> and <b>Gate 1p</b>, where the students who are waiting to be picked up by car will wait along the sheltered passageway leading to the respective gates.</p>
-
+	<img src="/images/2023/AboutUs/traffic_4.png" >
+	
 <p>For parents / guardians <b>who are driving to pick their child</b> up at  
 <ul>
 <li><b>Gate 3p</b> – please park your car at <b>Y</b>, the Bukit Purmei Road Car Park between Block 110 and Block 111 (behind the temple) and <b>make your way to Gate 3p to pick your child / ward up. </b></li>
@@ -62,7 +63,9 @@ With reference to Diagram 4, there are 2 dismissal points for <b>this option –
 </p>
 
 <p><b><u>d) Safety Concerns</b></u><br>
-
+<img src="/images/2023/AboutUs/traffic_4_a.png" >
+	<img src="/images/2023/AboutUs/traffic_5.png" >
 <p><b><u> e) Morning Peak Hour Traffic</b></u><br>
 
 Please take note of the hazards highlighted in Diagram 6. We seek your kind cooperation to follow the traffic rules and instructions to help us maintain an orderly flow of traffic when travelling to and from the school.</p>
+<img src="/images/2023/AboutUs/traffic_6.png" >
