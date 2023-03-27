@@ -22,3 +22,16 @@ third_nav_title: Mathematics
 <li>In addition, ICT is meaningfully infused into lessons for students to explore, collaborate and deepen their learning to equip and develop students with <strong>thinking, reasoning, communication, application, and metacognition skills </strong>in Mathematics, the school has adopted the Polya Model for Problem Solving. Using the acronym, UPER, we hope to scaffold students’ thinking process in their approach to problem solving.</li>
 	</ul>
 </p>
+<p><strong><u>Working Hand in Hand</u></strong><br>
+
+Parents can help your child at home by:<br>
+
+
+Practising number bonds and multiplication tables frequently
+Connecting real-life experiences with mathematical topics
+Money - Allowing students to use cash to pay for items and getting change
+Time - Telling time from an analogue clock
+Time - Duration (e.g. use a TV guide)
+Measurement - provide opportunities for students to help in the kitchen 
+Encouraging your child to do quick mental calculations
+</p>
