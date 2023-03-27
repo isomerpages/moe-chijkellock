@@ -2,13 +2,13 @@ collections:
   the-k-experience:
     output: true
     order:
-      - English/English.md
-      - English/.keep
       - The K–Experience.md
-      - Distinctive Programmes/I am IJ Ambassador.md
       - Distinctive Programmes/.keep
+      - Distinctive Programmes/I am IJ Ambassador.md
       - Distinctive Programmes/Applied Learning Programme (ALP).md
       - Distinctive Programmes/Learning for Life Programme (LLP).md
+      - English/.keep
+      - English/English.md
       - Mathematics/.keep
       - Mathematics/Mathematics.md
       - Mathematics/School–Based Curriculum.md
