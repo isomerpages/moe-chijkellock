@@ -32,3 +32,5 @@ To commemorate the launch of EL Week, we will have a ‘Characters Alive Day’ 
 
 Together with Kellock’s very own signature programme known as Speak Proper English At Kellock  (SPEAK  Award) Competition, and level-wide activities such as Book Cafés tailored to suit the different age groups from Primary 1 to Primary 6, these activities aim to encourage and motivate students to think, write, read and speak clearly and effectively. 
 </p>
+
+<img src="/images/2023/English/EL_6.jpg" width="60">
