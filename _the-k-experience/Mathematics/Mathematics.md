@@ -13,4 +13,12 @@ third_nav_title: Mathematics
 <p align="center">“Every Girl can Learn and Achieve in Mathematics given the right environment to stretch her potential”</p>
 <p>Mathematical problem solving is central to mathematics learning. Problem solving skills in the mathematics curriculum mirror twenty-first century skills such as creative thinking, communication and critical thinking skills which we would need to equip our students with. The inherent ‘spiral’ nature of the mathematics curriculum will remain an important aspect of mathematics learning in developing our students' problem solving abilities to become future-ready learners. </p>
 
-<>
+<h4>Curriculum</h4>
+<p>
+<ul>
+	<li>To develop a strong foundation in Mathematical concepts and skills, the school adopts the Concrete - Pictorial - Abstract approach in the teaching and learning of Mathematics. This pedagogy enables gradual translation of concepts from actual objects to pictures to symbols. </li>
+<li>To bring mathematics learning beyond the textbook and beyond the classroom, the school offers Authentic and Experiential Learning to all the girls. Such learning experiences would allow the girls to apply and see the relevance of learning mathematics as well as make connections to what they are learning.</li>
+<li>To provide opportunities for our girls to discover, reason and communicate mathematics, our teachers engage the girls through Cooperative and Independent Learning using various strategies and activities. Through such experiences and peer interaction, we hope to develop self-directed learners who are positively confident in mathematics learning. </li>
+<li>In addition, ICT is meaningfully infused into lessons for students to explore, collaborate and deepen their learningTo equip and develop students with thinking, reasoning, communication, application, and metacognition skills in Mathematics, the school has adopted the Polya Model for Problem Solving. Using the acronym, UPER, we hope to scaffold students’ thinking process in their approach to problem solving.</li>
+	</ul>
+</p>
