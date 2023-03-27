@@ -26,12 +26,13 @@ third_nav_title: Mathematics
 
 Parents can help your child at home by:<br>
 
-
-Practising number bonds and multiplication tables frequently
-Connecting real-life experiences with mathematical topics
-Money - Allowing students to use cash to pay for items and getting change
-Time - Telling time from an analogue clock
-Time - Duration (e.g. use a TV guide)
-Measurement - provide opportunities for students to help in the kitchen 
-Encouraging your child to do quick mental calculations
+<ul>
+<li>Practising number bonds and multiplication tables frequently</li>
+<li>Connecting real-life experiences with mathematical topics</li>
+<li>Money - Allowing students to use cash to pay for items and getting change</li>
+	<ul>
+		<li>Time - Telling time from an analogue clock
+    <li>Time - Duration (e.g. use a TV guide)
+    <li>Measurement - provide opportunities for students to help in the kitchen</ul>
+<li>Encouraging your child to do quick mental calculations</li>
 </p>
