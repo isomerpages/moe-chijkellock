@@ -2,7 +2,6 @@ collections:
   the-k-experience:
     output: true
     order:
-      - English.md
       - The K–Experience.md
       - Distinctive Programmes/I am IJ Ambassador.md
       - Distinctive Programmes/.keep
