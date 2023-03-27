@@ -24,4 +24,11 @@ third_nav_title: English
 
 <h4>Key Programmes</h4>
 
-<p>Through the above approach, the English Department aims to equip students with a proficient command of the language by strengthening the foundation of the language and enriching the English Language curriculum through various platforms for language exposure. Such exposure will allow students ample opportunities to use the language in different contexts, revisit language structures and skills and see how language works according to purpose, audience, context and culture. As students progress through the six years at Kellock, they will learn to use English at increasing levels of difficulty and sophistication. </p>
+<h5>English Week</h5>
+
+<p>English Week aims to provide opportunities for students to develop themselves as confident speakers of the English Language. Aligned with the EL vision ‘Communicators: Effective, Confident, Thoughtful’, EL Week provides platforms and opportunities to cultivate the good habit of speaking proper English, in a thoughtful manner through a variety of activities. <br>
+
+To commemorate the launch of EL Week, we will have a ‘Characters Alive Day’ where students and teachers come to school dressed as a character from a storybook or as her favourite author. This creates a perfect opportunity for our students to learn more about the books that their peers are reading. <br>
+
+Together with Kellock’s very own signature programme known as Speak Proper English At Kellock  (SPEAK  Award) Competition, and level-wide activities such as Book Cafés tailored to suit the different age groups from Primary 1 to Primary 6, these activities aim to encourage and motivate students to think, write, read and speak clearly and effectively. 
+</p>
