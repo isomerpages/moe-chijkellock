@@ -4,3 +4,23 @@ permalink: /the-k-experience/creative-arts/music/
 description: ""
 third_nav_title: Creative Arts
 ---
+<h3>Music</h3>
+<h4>Our Mission</h4>
+<p align="justify">We aim to develop our students to become active learners who have an interest, resilience and passion for achieving excellence in the Arts, thereby empowering them to make a positive difference to others through the various forms of the Arts.</p>
+
+<h4>Curriculum</h4>
+<p align="justify">The school’s teaching and learning of Music seeks to develop musical understanding through:<br>
+1.	Listening<br>
+2.	Creating<br>
+3.	Performing<br>
+<strong>*Music Curriculum Concept - 2023 Music Syllabus</strong><br><br>
+The Music Department applies the Orff-inspired Approach in our teaching and learning of music. Through this approach, our students express themselves through singing, listening, movement, music creation and playing of instruments. They are encouraged to share their views and opinions through music appreciation of varied genres. There are many opportunities for students to showcase what they have learnt, such as performing as a soloist or as an ensemble in class and at recess recitals. </p>
+
+<h4>Key Programmes</h4> 
+<p align="justify">By the end of their 6-years in CHIJ Kellock, our students would have had the opportunity to learn different instruments.<br><br>
+P1 – Classroom percussion instruments <br>
+P2 – Kompang <br>
+P3 – Chime Bars <br>
+P4 – Chime Bars / Digital Music  <br>
+P5/6 – Ukulele 
+</p>
