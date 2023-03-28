@@ -15,7 +15,6 @@ Students who enter school with little or no CL exposure will first take the Brid
 <h4>Key Programmes</h4>
 <p align="justify"><strong><u>‘We are Campus Reporters’ Programme for P3 and P4</u></strong><br>
 ‘We are Campus Reporters’ Programme is especially conceptualised and designed by the CL department to challenge and engage our P3 and P4 students who show high readiness for CL. It aims to interest and motivate students to speak Mandarin confidently, as well as to appreciate the power of the language to communicate with others through the medium of television broadcasting. Students will be introduced to the basic concept of television broadcasting, and the techniques for news reporting, interviews and the creation of a news report. </p>
-
+<img src="/images/2023/MotherTongue/cpcl3.jpg" width="60">
 <p align="justify"><strong><u>‘‘Four-Tier Composition Writing’ Programme for P5 and P6</u></strong><br>
 ‘Four-Tier Composition Writing’ Programme is another stretch programme designed by the CL department to raise the writing standard of our Primary 5 and Primary 6 students who study Higher Chinese. The content is based on the two types of writing format in the HCL examination. Through scaffolding, the programme aims to train students’ critical and creative thinking skills. Students’ interactive skills are also enhanced through Cooperative Learning strategies. Besides teachers’ evaluation, self-evaluation, peer evaluation and parents’ feedback or encouragement are incorporated to enhance students’ writing skills. Based on these evaluation/feedback/encouragement, students revise their writing until they are able to produce a piece of work of high quality, to the best of their ability.</p>
-<img src="/images/2023/MotherTongue/cpcl3.jpg" width="60">
