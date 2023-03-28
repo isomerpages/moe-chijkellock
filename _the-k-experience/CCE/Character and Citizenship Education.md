@@ -12,6 +12,7 @@ third_nav_title: CCE
 We believe that every child has the potential to live a purposeful life as an individual,  a family member, a friend and a citizen of Singapore and the world. As a school, we can build the character of our students and develop them in the character and citizenship competencies and dispositions that will enable them to make a positive impact on others by contributing to society. </p>
 <h4>Curriculum</h4>
 <p align="justify">As a part of the total curriculum, classroom lessons for CCE focus on the explicit teaching and learning of values and social-emotional competencies, as well as building and strengthening relationships with fellow students and teachers. CCE in the classroom comprises CCE(FTGP), CCE(MTL) and Programme for Active Learning (PAL). <br><br>
+	
 CCE [Form Teacher Guidance Period (FTGP)] involves the explicit teaching and learning of social-emotional skills which are anchored on values and citizenship dispositions. <br><br>
 CCE (MTL) aims to deepen the learning of moral values through cultural stories, songs, proverbs, and practices unique to each Mother Tongue Language. The lessons also reinforce the teaching and larning of foundational social-emotional skills. <br><br>
 Values Education (VEd) is a customised IJ Kellock programme that involves the explicit teaching and learning of the school values. ‘I Will’ statements developed for the school values are the learning outcomes that the school hopes to see our students attain. </p>
