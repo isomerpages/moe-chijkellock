@@ -37,7 +37,7 @@ Parents can help your child at home by:<br>
 <li>Encouraging your child to do quick mental calculations</li>
 </p>
 <p><strong><u>K-JINGLES (Financial Literacy @ Kellock). </u></strong><br>
-	
+	<img src="/images/2023/Math/math_1.png" width="60">
 Demonstrate ways to monitor how money is spent and saved.</p>
                    
 <p><strong><u>MATH RECESS @ PLAY</u></strong><br>
