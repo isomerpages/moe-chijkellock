@@ -25,10 +25,11 @@ The objectives of this camp are to provide opportunities for our students to:
 enhance their knowledge of the historical and cultural heritage of the Tamil Language through interactive station activities; and 
 bond and strengthen their friendships with fellow CHIJ students.</p>
 
+<p><img src="/images/2023/MotherTongue/cpm.jpg" width="60">
+<i>Joy Of Learning Programme</i></p>
 
-<i>Joy Of Learning Programme</i>
+<p><img src="/images/2023/MotherTongue/cpm.jpg" width="60">
+<i>Deepavali Celebration @ Kellock</i></p>
 
-<i>Deepavali Celebration @ Kellock</i>
-
-
-<i>P6 CHIJ COMBINED SCHOOLS TAMIL LANGUAGE & CULTURAL CAMP</i>
+<p><img src="/images/2023/MotherTongue/cpm.jpg" width="60">
+<i>P6 CHIJ COMBINED SCHOOLS TAMIL LANGUAGE & CULTURAL CAMP</i></p>
