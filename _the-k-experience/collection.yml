@@ -2,8 +2,6 @@ collections:
   the-k-experience:
     output: true
     order:
-      - Mother Tongue Committee/Mother Tongue Committee.md
-      - Mother Tongue Committee/.keep
       - The K–Experience.md
       - Distinctive Programmes/.keep
       - Distinctive Programmes/I am IJ Ambassador.md
@@ -11,8 +9,10 @@ collections:
       - Distinctive Programmes/Learning for Life Programme (LLP).md
       - English/.keep
       - English/English.md
-      - Mathematics/Mathematics.md
       - Mathematics/.keep
+      - Mathematics/Mathematics.md
+      - Mother Tongue Committee/.keep
+      - Mother Tongue Committee/Mother Tongue Committee.md
       - Science/.keep
       - Science/Science.md
       - Science/The Science Curriculum.md
