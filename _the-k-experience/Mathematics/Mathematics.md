@@ -36,3 +36,12 @@ Parents can help your child at home by:<br>
     <li>Measurement - provide opportunities for students to help in the kitchen</ul>
 <li>Encouraging your child to do quick mental calculations</li>
 </p>
+<p><strong><u>K-JINGLES (Financial Literacy @ Kellock). </u></strong><br>
+Demonstrate ways to monitor how money is spent and saved.</p>
+                   
+<p><strong><u>MATH RECESS @ PLAY</u></strong><br>
+Students have the opportunity to play a variety of mathematics games during recess.</p>
+
+<p><strong><u>P1-P2 GAME BASED PROGRAMMES</u></strong><br>
+P1 & P2 students have the opportunity to train their minds and develop the capacity to think logically, critically and creatively through two game-based programmes - Have Fun with Sudoku & Playing with Tangrams. 
+</p>
