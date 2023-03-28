@@ -20,4 +20,4 @@ The Malay Department puts up decorations and an information board on Hari Raya c
 
 Joy Of Learning Programme
 
-Hari Raya Celebrations 
+Hari Raya Celebrations
