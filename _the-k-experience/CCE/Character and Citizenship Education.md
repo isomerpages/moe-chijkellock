@@ -25,9 +25,11 @@ Values Education (VEd) is a customised IJ Kellock programme that involves the ex
 
 <p align="justify">CCE is not only confined to learning within the classroom but beyond the classroom. Some of our key student development experiences that contribute towards the holistic development of our students include Values In Action (VIA), Education and Career Guidance, Student Leadership Development, National Education Commemorative Days, IJ Ambassadors and Camps for Life. <br><br>
 Camps for Life provide authentic learning experiences where students will have opportunities to apply problem-solving, intra and interpersonal skills. Students practise communication and being sensitive to the views and perspectives of others. Through overcoming challenges, they learn about themselves and what it means to be resilient. <br><br>
-	<img src="/images/2023/CCE/CCE_3.jpg" width="60">
+	<img src="/images/2023/CCE/CCE_3.jpg" width="60"><br>
 Values in Action include everyday responsibilities such as tidying their own work areas and cleaning their classrooms. In addition, students learn to serve the needs of the community through various platforms such as level VIA and volunteerism work initiated by the school. <br><br>
+	<img src="/images/2023/CCE/CCE_11.jpg" width="60"><br>
 Education and Career Guidance enables students to make informed school choices based on their values, strengths, interests and skills through secondary school talks, vocation talks and experiences that provide opportunities to build their self-awareness. <br><br>
+	<img src="/images/2023/CCE/CCE_6.jpg" width="60"><br>
 National Commemorative Days enable students to learn about the important milestones of Singapore’s history and how they can play their part to keep Singapore diverse and united.
 Student Leadership Development <br><br>
 In CHIJ Kellock, we believe that all students can be a leader and leadership development of all students is aligned to her vision and they are structured in 3 tiers:<br>
