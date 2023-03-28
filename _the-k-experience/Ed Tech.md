@@ -28,8 +28,9 @@ The Young Computational Thinking Programme focuses on equipping students with co
 <img src="/images/2023/EdTech/ET_6.png" width="60">
 </p>
 <p><strong><u>Self-Directed Online Learning Modules </u></strong><br>  
-As part of the school’s efforts in developing the students’ ICT baseline acquisition skills, we have subscribed to Mindclick with online modules which can be accessed  from home. These modules are self-directed and will be assigned via SLS.
-
-They are fully web-based and students can practise touch-typing and MS Office commands anywhere with an Internet connection using a desktop or a laptop. Students are strongly encouraged to complete the modules at home at their own pace. As this is a self-paced learning activity, students would have been given a checklist, instruction manual and FAQs to guide them in the completion of these modules.
-
-The link will be shared via SLS and students will be informed when it is available. We will also be monitoring the progress online. Students will need to complete these modules according to the schedule given and return the checklist to their class  ICT monitors upon completion.</p>
+As part of the school’s efforts in developing the students’ ICT baseline acquisition skills, we have subscribed to Mindclick with online modules which can be accessed  from home. These modules are self-directed and will be assigned via SLS.<br> <br>   
+They are fully web-based and students can practise touch-typing and MS Office commands anywhere with an Internet connection using a desktop or a laptop. Students are strongly encouraged to complete the modules at home at their own pace. As this is a self-paced learning activity, students would have been given a checklist, instruction manual and FAQs to guide them in the completion of these modules.<br>  <br>  
+The link will be shared via SLS and students will be informed when it is available. We will also be monitoring the progress online. Students will need to complete these modules according to the schedule given and return the checklist to their class  ICT monitors upon completion.
+<img src="/images/2023/EdTech/ET_9.jpg" width="60">
+	
+</p>
