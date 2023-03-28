@@ -7,7 +7,7 @@ third_nav_title: Mother Tongue Committee
 <h3>Tamil Language</h3>
 
 <h4>Joy Of Learning Programme</h4>
-<p><strong><u>(P1 and P2 Home-Based Programme)</u></strong><br>
+<p align="justify"><strong><u>(P1 and P2 Home-Based Programme)</u></strong><br>
 P1 and P2 Home-based Programme “Joy of Learning” is creatively conceptualised and designed by the Mother Tongue department to encourage our students to continue using their Mother Tongue language beyond the classroom with their parents. We believe that through this authentic learning platform, students’ interest in learning their Mother Tongue can be further cultivated.<br>
 
 
@@ -17,9 +17,8 @@ Students have to complete all the tasks stated on the task card page, which is i
 During the Festival of Lights, Deepavali, which marks the triumph of good over evil and, symbolically, light over darkness, students take part in various activities organised by the Tamil Department. They are exposed to the significance  of celebrating Deepavali through the Deepavali Display on Indian traditional costumes, food and hands-on activities. </p>
 
 
-<p><strong><u>P6 CHIJ COMBINED SCHOOLS TAMIL LANGUAGE & CULTURAL CAMP</u></strong><br>
-CHIJ Combined Schools organise the above-mentioned activity for our Primary 6 students offering the Tamil Language. 
-
+<p align="justify"><strong><u>P6 CHIJ COMBINED SCHOOLS TAMIL LANGUAGE & CULTURAL CAMP</u></strong><br>
+CHIJ Combined Schools organise the above-mentioned activity for our Primary 6 students offering the Tamil Language. <br>
 
 The objectives of this camp are to provide opportunities for our students to: 
 enhance their knowledge of the historical and cultural heritage of the Tamil Language through interactive station activities; and 
