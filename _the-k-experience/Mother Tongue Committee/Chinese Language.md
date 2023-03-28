@@ -10,6 +10,7 @@ third_nav_title: Mother Tongue Committee
 All students will take the core module which constitutes 70-80% of the CL curriculum time. <br><br>
 For those with interest and ability in the language, the modular curriculum has the added advantage of allowing them to go further by taking the Enrichment module after the Core Module. For students taking only the Core Module, a corresponding school-based curriculum will be developed for the remaining 20-30% of curriculum time.<br><br>
 Students who enter school with little or no CL exposure will first take the Bridging Module which constitutes 20 to 30% of the CL curriculum time before they move on to the Core module. This is to provide additional support and a more foundational start for this group of students. </p>
+<img src="/images/2023/MotherTongue/cl.png" width="60">
 
 <h4>Key Programmes</h4>
 <p align="justify"><strong><u>‘We are Campus Reporters’ Programme for P3 and P4</u></strong><br>
