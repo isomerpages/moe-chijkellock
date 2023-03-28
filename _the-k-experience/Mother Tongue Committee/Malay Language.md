@@ -21,5 +21,6 @@ The Malay Department puts up decorations and an information board on Hari Raya c
 
 <p><strong><u>Joy Of Learning Programme</u></strong></p>
 
+<img src="/images/2023/MotherTongue/cpm.jpg" width="60">
 
 <p><strong><u>Hari Raya Celebrations</u></strong></p>
