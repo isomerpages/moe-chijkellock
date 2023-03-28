@@ -32,6 +32,7 @@ Education and Career Guidance enables students to make informed school choices b
 	<img src="/images/2023/CCE/CCE_6.jpg" width="60"><br>
 National Commemorative Days enable students to learn about the important milestones of Singapore’s history and how they can play their part to keep Singapore diverse and united.
 Student Leadership Development <br><br>
+		<img src="/images/2023/CCE/CCE_12.jpg" width="60"><br>
 In CHIJ Kellock, we believe that all students can be a leader and leadership development of all students is aligned to her vision and they are structured in 3 tiers:<br>
 Tier 1: Leadership for all Kellock students;<br>
 Tier 2: Leadership for Kellock student leaders;<br>
