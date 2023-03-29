@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Parents Support Group/Parents Support Group.md
-      - Parents Support Group/About Us PSG Previous.md
       - Parents Support Group/Highlights.md
       - Parents Support Group/.keep
       - Communication to Parents.md
