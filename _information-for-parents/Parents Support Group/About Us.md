@@ -30,7 +30,7 @@ These include Lenten activities, Termly rosary prayer sessions, Parent-child fai
 
 <h4>PSG Events</h4>
 <p align="justify">In a given school year, the PSG team together with the support of its Kellock parent community also assist to plan, support, and execute some of the following events in school:
-<ul>
+</p><ul>
 <li>Annual Vocation Day</li>
 <li>Teachers’ Day</li>
 <li>Children’s Day</li>
@@ -38,6 +38,7 @@ These include Lenten activities, Termly rosary prayer sessions, Parent-child fai
 <li>Parent-Child bonding activities</li>
 <li>NE Commemorative Days (e.g. Total Defence Day, International Friendship Day)</li>
 </ul>
-Parent volunteers sign up to be a part of these events with the aim to contribute, nurture, guide and support the girls’ journey in CHIJ Kellock.</p>
+Parent volunteers sign up to be a part of these events with the aim to contribute, nurture, guide and support the girls’ journey in CHIJ Kellock.<p></p>
 
 <h4>Gallery</h4>
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTbeFE9l8Tr7fnY1y0Z6cVVCrmq4eFoQy3sgGI8x3vykFv687AYUjUvtqwquVegNg/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
