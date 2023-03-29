@@ -28,3 +28,4 @@ During Health Education lessons, students learn about the importance of being ph
 <h4>Key Programmes</h4>
 <p align="justify">To seed the passion for sports in students, the HHE Department also organises a variety of physical activities for students to gain exposure to a variety of sporting experiences and provide them with multiple opportunities to explore their interests and discover their strengths. <br><br>
 Beyond the PE Syllabus, students learn and enjoy sports at school through the following programmes:</p>
+![](/images/2023/HHE_1.jpg)
