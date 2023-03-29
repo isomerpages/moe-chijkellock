@@ -40,5 +40,4 @@ These include Lenten activities, Termly rosary prayer sessions, Parent-child fai
 </ul>
 Parent volunteers sign up to be a part of these events with the aim to contribute, nurture, guide and support the girls’ journey in CHIJ Kellock.</p>
 
-
-
+<h4>Gallery</h4>
