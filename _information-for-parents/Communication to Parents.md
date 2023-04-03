@@ -4,7 +4,11 @@ permalink: /parents-portal/communication-to-parents/
 description: ""
 ---
 <h4><strong>Other Matters</strong></h4>
-<p><strong><a href="/files/Wait%20LIst.pdf" target="_blank" rel="noopener">- Wait List</a></strong></p><strong>
+<p><strong><a href="/files/Wait%20LIst.pdf" target="_blank" rel="noopener">- Wait List</a></strong></p>
+	[]()
+	[]()
+	[]()
+	
 <h4><strong>Booklist</strong></h4>
 <p><strong>-&nbsp;<a href="/files/CKLK%20NEW%20P1%20BOOKLIST.pdf" target="">P1 Booklist 2023</a><br>-&nbsp;<a href="/files/CKLK%20P2%20BOOKLIST%202023.pdf" target="_blank" rel="noopener">P2 Booklist 2023</a><br>-&nbsp;<a href="/files/P3%20BOOKLIST%202023.pdf" target="_blank" rel="noopener">P3 Booklist 2023</a><br>-&nbsp;<a href="/files/P4%20BOOKLIST%202023.pdf" target="">P4 Booklist 2023</a><br>-&nbsp;<a href="/files/P5%20BOOKLIST%202023.pdf" target="">P5 Booklist 2023</a><br>-&nbsp;<a href="/files/P5%20(FDN)%20BOOKLIST%202023.pdf" target="_blank" rel="noopener">P5 Foundation Booklist 2023</a><br>-&nbsp;<a href="/files/P6%20BOOKLIST%202023.pdf" target="_blank" rel="noopener">P6 Booklist 2023</a><br>-&nbsp;<a href="/files/P6%20(FDN)%20P6%20BOOKLIST%202023.pdf" target="_blank" rel="noopener">P6 Foundation Booklist 2023</a></strong></p>
 
@@ -16,6 +20,17 @@ description: ""
 <tr>
 <td>Term 1</td>
 	<td><a href="/files/Kbites%20Jan%202022.pdf" target="">January</a></td>
+</tr>
+	<tr>
+<td>&nbsp;</td>
+<td><a href="/files/2023_Files/Kbites/kbites%20feb%202023.pdf" target="_blank" rel="noopener"><strong>February</strong></a></td>
+</tr>
+		<tr>
+<td>&nbsp;</td>
+<td><a href="/files/2023_Files/Kbites/kbites%20mar%202023.pdf" target="_blank" rel="noopener"><strong>March</strong></a></td>
+</tr>
+<tr><td>Term 2</td>
+<td><a href="/files/2023_Files/Kbites/kbites%20apr%202023.pdf" target=""><strong>April</strong></a></td>
 </tr>
 </tbody>
 </table>
@@ -66,4 +81,4 @@ description: ""
 <td><a href="/files/Kbites%20NOVDEC%202022_updated%20on%2028%20Oct%20v2.pdf" target="_blank" rel="noopener"><strong>November - December</strong></a></td>
 </tr>
 </tbody>
-</table></strong>
+</table>
