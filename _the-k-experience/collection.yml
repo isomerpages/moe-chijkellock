@@ -2,21 +2,21 @@ collections:
   the-k-experience:
     output: true
     order:
+      - Distinctive Programmes/.keep
+      - Distinctive Programmes/I am IJ Ambassador.md
+      - Distinctive Programmes/Applied Learning Programme.md
+      - Distinctive Programmes/Learning For Life Programme.md
+      - The K–Experience.md
       - English.md
       - Mathematics.md
-      - Character and Citizenship Education.md
       - Science.md
-      - Holistic Health Education.md
       - Mother Tongue Language/.keep
       - Mother Tongue Language/Mother Tongue Language.md
       - Mother Tongue Language/Chinese Language.md
       - Mother Tongue Language/Malay Language.md
       - Mother Tongue Language/Tamil Language.md
-      - The K–Experience.md
-      - Distinctive Programmes/.keep
-      - Distinctive Programmes/I am IJ Ambassador.md
-      - Distinctive Programmes/Applied Learning Programme.md
-      - Distinctive Programmes/Learning For Life Programme.md
+      - Character and Citizenship Education.md
+      - Holistic Health Education.md
       - Ed Tech.md
       - Creative Arts/.keep
       - Creative Arts/Music.md
