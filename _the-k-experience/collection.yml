@@ -2,7 +2,6 @@ collections:
   the-k-experience:
     output: true
     order:
-      - Mother Tongue Language.md
       - Tamil Language.md
       - Malay Language.md
       - Chinese Language.md
