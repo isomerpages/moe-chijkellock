@@ -26,7 +26,7 @@ description: ""
 </tr>
 	<tr>
 <td style="text-align: center;"><strong>Facebook</strong></td>
-<td><a target="" href="https://www.facebook.com/100071389479078">CHIJ Kellock FB Page (FB login is required)</a></td>
+<td><a target="" href="https://www.facebook.com/100071389479078">CHIJ Kellock FB Page</a> (FB login is required)</td>
 </tr>
 </tbody>
 </table>
