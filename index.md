@@ -14,9 +14,6 @@ sections:
         - title: For Students
           description: ""
           url: /forstudents/
-        - title: For Parents
-          description: ""
-          url: https://staging.d3tntrfs8iu2ch.amplifyapp.com/forparents/
         - title: For Teachers
           description: ""
           url: /forteachers/
