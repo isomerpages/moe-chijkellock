@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Mother Tongue Language
 ---
 <h3>Tamil Language</h3>
-
 <h4>Joy Of Learning Programme</h4>
 <p align="justify"><strong><u>(P1 and P2 Home-Based Programme)</u></strong><br>
 P1 and P2 Home-based Programme “Joy of Learning” is creatively conceptualised and designed by the Mother Tongue department to encourage our students to continue using their Mother Tongue language beyond the classroom with their parents. We believe that through this authentic learning platform, students’ interest in learning their Mother Tongue can be further cultivated.<br>
