@@ -42,7 +42,16 @@ third_nav_title: Teaching Staff
 <td style="text-align: center;">&nbsp;<a href="mailto:teo_beng_choo_belinda@moe.edu.sg" target="">teo_beng_choo_belinda@moe.edu.sg</a>
 </td>
 </tr>
-
+	
+<tr>
+<td style="text-align: center;">Art
+</td>
+<td style="text-align: center;">Ms Anishar  
+</td>
+<td style="text-align: center;">&nbsp;<a href="mailto:anishar_chinthamathar@moe.edu.sg" target="">anishar_chinthamathar@moe.edu.sg</a>
+</td>
+</tr>
+	
 <tr>
 <td style="text-align: center;">&nbsp;PE&nbsp;
 </td>
