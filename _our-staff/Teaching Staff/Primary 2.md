@@ -97,6 +97,10 @@ third_nav_title: Teaching Staff
 <td>&nbsp;</td>
 <td style="text-align: center;">Ms Chloe Sim</td>
 <td style="text-align: center;"><a href="mailto:sim_qian_ren@moe.edu.sg" target="">sim_qian_ren@moe.edu.sg</a></td>
+</tr><tr>
+<td>&nbsp;</td>
+<td style="text-align: center;">Ms Drusilla Yap<br></td>
+<td style="text-align: center;"><a href="mailto:yap_wan_hui_drusilla@moe.edu.sg" target="">yap_wan_hui_drusilla@moe.edu.sg</a><br></td>
 </tr>
 <tr>
 <td>&nbsp;</td>
