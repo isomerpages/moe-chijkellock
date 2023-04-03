@@ -15,7 +15,7 @@ third_nav_title: Teaching Staff
 </td>
 </tr>
 <tr>
-<td style="text-align: center;">HOD - Creative Arts/HHE<br>
+<td style="text-align: center;">Music<br>
 </td>
 <td style="text-align: center;">Ms Mary Soh<br>
 </td>
@@ -23,19 +23,19 @@ third_nav_title: Teaching Staff
 </td>
 </tr>
 <tr>
-<td style="text-align: center;">Art Co-ordinator</td>
+<td style="text-align: center;">Art</td>
 <td style="text-align: center;">Ms Silk Goh</td>
 <td style="text-align: center;"><a href="mailto:goh_silk@moe.edu.sg" target="">goh_silk@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td style="text-align: center;">SH Music&nbsp;</td>
+<td style="text-align: center;">Music</td>
 <td style="text-align: center;">Mrs Cindy Tang&nbsp;
 </td>
 <td style="text-align: center;"><a href="mailto:cindy_quake@moe.edu.sg" target="">cindy_quake@moe.edu.sg&nbsp;</a>
 </td>
-</tr><tr><td style="text-align: center;">&nbsp;Art Teacher&nbsp;</td><td style="text-align: center;">&nbsp;&nbsp;Ms Maria Leah Fonseca</td><td style="text-align: center;">&nbsp;<a href="mailto:maria_leah_fonseca@moe.edu.sg" target="">maria_leah_fonseca@moe.edu.sg&nbsp;</a></td></tr>
+</tr><tr><td style="text-align: center;">Art</td><td style="text-align: center;">&nbsp;&nbsp;Ms Maria Leah Fonseca</td><td style="text-align: center;">&nbsp;<a href="mailto:maria_leah_fonseca@moe.edu.sg" target="">maria_leah_fonseca@moe.edu.sg&nbsp;</a></td></tr>
 <tr>
-<td style="text-align: center;">Art Teacher&nbsp;
+<td style="text-align: center;">Art
 </td>
 <td style="text-align: center;">&nbsp;&nbsp;Mrs Belinda Lim
 </td>
