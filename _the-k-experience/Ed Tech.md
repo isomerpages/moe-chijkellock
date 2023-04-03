@@ -16,11 +16,11 @@ description: ""
 The SLS is an online platform with tools and curriculum-aligned resources for all students to learn at their own pace and collaboratively. With the SLS, students can take greater ownership of their learning and pick up skills and habits that prepare them for lifelong learning. In Kellock, teachers use the SLS to complement classroom teaching and learning.</p>
 <a href="https://vle.learning.moe.edu.sg/login">https://vle.learning.moe.edu.sg/login</a>
 <p align="justify"><strong><u>Digital Citizenship Education (DCE)</u></strong><br>  
-	<img src="/images/2023/EdTech/ET_1.png" width="30"><br>  
+	<img src="/images/2023/EdTech/ET_1.png" style="width: 60%;"><br>  
 Digital Citizenship Education (DCE) in Kellock is about teaching and guiding students on the necessary skills, knowledge and issues involving technology to navigate the digital landscape. Students may face complex issues connected to accessing information, online identity, cyber-bullying and self-management. The rising issues on cyber danger and student’s appropriate use of information and tools on the digital landscape create the need to educate and equip students with digital literacy and citizenship skills.<br>
-	<img src="/images/2023/EdTech/ET_2.png" width="60"></p>
+	<img src="/images/2023/EdTech/ET_2.png"></p>
 <p align="justify"><strong><u>Digital Stories</u></strong><br>  
-	<img src="/images/2023/EdTech/ET_3.png" width="30"><br>
+	<img src="/images/2023/EdTech/ET_3.png" width="30" style="width: 60%;"><br>
 The objective of Digital Stories is to facilitate the acquisition of 21st century competencies through the powerful medium of storytelling where the students will have a voice to express themselves. Digital storytelling is a powerful way to connect our students to reading, writing, and digital literacy. With the affordance of technology, our young emerging writers can create and publish their own stories. In this programme, students will be given hands on experiences in creating and crafting their own digital stories. Students will learn a variety of digital elements such as storyboarding and incorporating media within a narrative.<img src="/images/2023/EdTech/ET_4.png" width="60"></p>
 <p align="justify"><strong><u>Young Computational Thinking</u></strong><br>  
 	<img src="/images/2023/EdTech/ET_5.png" width="30"><br>
