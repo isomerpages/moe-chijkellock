@@ -26,11 +26,16 @@ third_nav_title: Teaching Staff
 <tr>
 <td>&nbsp;
 </td>
-
 <td style="text-align: center;">&nbsp;Mdm Tauled Tunisha Mohd Paser</td>
 <td><a href="mailto:tauled_tunisha_mohd_paser@moe.edu.sg" target="">tauled_tunisha_mohd_paser@moe.edu.sg</a><br>
 </td>
-</tr><tr><td>&nbsp;</td><td style="text-align: center;">&nbsp;Ms Sri Darmavijaya</td><td style="text-align: center;"><a href="mailto:sri_darmavijaya_govindaraj@moe.edu.sg" target="">sri_darmavijaya_govindaraj@moe.edu.sg</a></td></tr>
+</tr><tr><td>&nbsp;</td><td style="text-align: center;">&nbsp;Ms Sri Darmavijaya</td><td style="text-align: center;"><a href="mailto:sri_darmavijaya_govindaraj@moe.edu.sg" target="">sri_darmavijaya_govindaraj@moe.edu.sg</a></td></tr><tr>
+<td>&nbsp;
+</td>
+<td style="text-align: center;">Ms Tracy Chua</td>
+<td style="text-align: center;"><a href="mailto:chua_jia_jin@moe.edu.sg" target="">chua_jia_jin@moe.edu.sg</a><br>
+</td>
+</tr>
 <tr>
 <td colspan="3">&nbsp;&nbsp;
 </td>
