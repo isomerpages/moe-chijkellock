@@ -21,3 +21,15 @@ third_nav_title: Distinctive Programmes
 <p align="justify">The <strong>NURTURE</strong> tier provides in-depth development of the students’ interest while the EXCEL tier allows opportunities for students with the aptitude to excel in their chosen fields or to further stretch their talents.</p>
 
 <p align="justify">To cater to students with aptitude, the school plans for opportunities for selected students to explore and investigate environmental, social and community concerns  / issues at a deeper level through participation in relevant zonal and national presentations and competitions under the EXCEL Tier.</p>
+
+<h4>Key Programmes</h4>
+<h5>Interdisciplinary Project Work</h5>
+<p align="justify"><strong><u>Building a Sustainable Future - Moving Towards ZERO WASTE</u></strong></p>
+	
+<p align="justify">In our school’s signature Applied Learning Programme (ALP), Primary 5 students learn about the importance of caring for the environment and how they can be the agents of change in creating an environment that is pollution free, by moving towards a ZERO WASTE environment.</p>
+
+ <p align="justify">As part of the IPW experience, students learn about the Singapore Green Plan 2021, 3Rs1U and how we can protect the environment. Talks organised  help students to empathise with the real-life problems caused by waste and how this impacts the environment.</p>
+
+
+<h5>Kelllock One-to-One</h5>
+<p align="justify">In CHIJ Kellock, we aim to enrich students’ learning environment and equip them with the necessary competencies and Kellock Girl Outomes to succeed in the 21st century through the various programmes like Digital Stories and Computational Thinking programme at the lower primary, and Digital Citizenship Education for Primary 1 to 6 students.</p>
