@@ -37,4 +37,3 @@ Tier 1: Leadership for all Kellock students;<br>
 Tier 2: Leadership for Kellock student leaders;<br>
 Tier 3: Leadership for Kellock Executive Committee Prefects</p>
 		<img src="/images/2023/CCE/CCE_10.jpg" width="60">
-![]()
