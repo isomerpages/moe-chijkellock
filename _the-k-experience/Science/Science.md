@@ -30,3 +30,5 @@ third_nav_title: Science
 <p align="justify">Learning experiences specially curated as part of the school-based curriculum include Inter-disciplinary Project Work (IPW), Camps, Learning Journeys to the Science Centre and Museum, and Garden Trails for Outdoor Experiential Learning (OEL).</p>
 
 <p align="justify">Taking into account the profiles of students and interests of the students, programmes in the SC department are specially customised so as to strengthen and enhance the teaching and learning of Science for all.</p>
+
+<img src="/images/2023/Science/science6.jpg" width="30">
