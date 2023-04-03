@@ -33,9 +33,8 @@ third_nav_title: Teaching Staff
 <tr>
 <td style="text-align: center;">AED (LBS)&nbsp;
 </td>
-<td style="text-align: center;">Mdm Serene Ng Swee Leng&nbsp;
-</td>
-<td style="text-align: center;"><a href="mailto:serene_ng_swee_leng@moe.edu.sg" target="">serene_ng_swee_leng@moe.edu.sg</a>&nbsp;
+<td style="text-align: center;">Ms Samantha Lee</td>
+<td style="text-align: center;"><a href="mailto:samantha_lee_yanmei@moe.edu.sg" target="">samantha_lee_yanmei@moe.edu.sg</a>&nbsp;
 </td>
 </tr><tr><td style="text-align: center;">&nbsp;AED (LBS)</td><td style="text-align: center;">Ms Penny Tan&nbsp;</td><td style="text-align: center;"><a href="mailto:penny_tan_pin@moe.edu.sg" target="">penny_tan_pin@moe.edu.sg</a>&nbsp;&nbsp;</td></tr>
 </tbody>
