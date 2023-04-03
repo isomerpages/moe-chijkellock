@@ -36,4 +36,3 @@ In CHIJ Kellock, we believe that all students can be a leader and leadership dev
 Tier 1: Leadership for all Kellock students;<br>
 Tier 2: Leadership for Kellock student leaders;<br>
 Tier 3: Leadership for Kellock Executive Committee Prefects</p>
-	<img src="/images/2023/CCE/CCE_10.jpg">
