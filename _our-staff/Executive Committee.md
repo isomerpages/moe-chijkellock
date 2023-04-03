@@ -326,7 +326,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">
-<p><strong>Chinese Language (Covering)</strong></p>
+<p><strong>Chinese Language</strong></p>
 </td>
 <td style="text-align: center;">
 <p>Ms Zhang Linyue</p>
@@ -337,7 +337,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="160">
-<p><strong>English </strong></p>
+<p><strong>English Language (Covering)</strong></p>
 </td>
 <td style="text-align: center;" width="208">
 <p>Ms Tan Shuxin</p>
