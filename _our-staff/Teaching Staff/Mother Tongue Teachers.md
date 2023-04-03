@@ -141,14 +141,6 @@ third_nav_title: Teaching Staff
 </td>
 </tr><tr><td style="text-align: center;">&nbsp;Chinese</td><td style="text-align: center;">Mr Chua Keng Wah </td><td style="text-align: center;"><a href="mailto:chua_keng_wah_a@moe.edu.sg" target="">chua_keng_wah_a@moe.edu.sg</a></td></tr><tr><td style="text-align: center;">&nbsp;Chinese</td><td style="text-align: center;">&nbsp;Ms Jackie Ng</td><td style="text-align: center;">&nbsp;<a href="mailto:ng_sor_lan@moe.edu.sg" target="">ng_sor_lan@moe.edu.sg</a>&nbsp;</td></tr>
 <tr>
-<td style="text-align: center;">Tamil
-</td>
-<td style="text-align: center;">&nbsp;Mdm Tauled Tunisha Mohd Paser
-</td>
-<td style="text-align: center;"><a href="mailto:tauled_tunisha_mohd_paser@moe.edu.sg" target="">tauled_tunisha_mohd_paser@moe.edu.sg</a>&nbsp;
-</td>
-</tr>
-<tr>
 <td style="text-align: center;">Malay&nbsp;
 </td>
 <td style="text-align: center;">&nbsp;Ms Khatijah</td>
@@ -164,6 +156,14 @@ third_nav_title: Teaching Staff
 <td style="text-align: center;">&nbsp;Malay
 </td>
 <td style="text-align: center;">Mr Ibrahim Frego&nbsp;</td><td><a href="mailto:ibrahim_fergo_junaidi@moe.edu.sg" target="">ibrahim_fergo_junaidi@moe.edu.sg</a>&nbsp;&nbsp;&nbsp;
+</td>
+</tr>
+	<tr>
+<td style="text-align: center;">Tamil
+</td>
+<td style="text-align: center;">&nbsp;Mdm Tauled Tunisha Mohd Paser
+</td>
+<td style="text-align: center;"><a href="mailto:tauled_tunisha_mohd_paser@moe.edu.sg" target="">tauled_tunisha_mohd_paser@moe.edu.sg</a>&nbsp;
 </td>
 </tr>
 <tr>
