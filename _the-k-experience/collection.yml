@@ -2,6 +2,7 @@ collections:
   the-k-experience:
     output: true
     order:
+      - Chinese Language.md
       - Mother Tongue.md
       - The K–Experience.md
       - Distinctive Programmes/.keep
