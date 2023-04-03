@@ -4,7 +4,7 @@ permalink: /about-us/school-information/safety-matters-and-road-safety-n-traffic
 description: ""
 third_nav_title: School Information
 ---
-<h4>Road Safety &amp; Traffic Management</h4>
+<h4>Road Safety And Traffic Management</h4>
 
 <p>We take the health and personal safety of all individuals – students, stakeholders, staff and visitors, seriously. All individuals are expected to familiarise themselves with the traffic management measures and to follow instructions spelt out hereunder for the safety and security of all.</p>
 
