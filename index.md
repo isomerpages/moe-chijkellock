@@ -20,5 +20,5 @@ sections:
         - title: For Teachers
           description: ""
           url: /forteachers/
-      background: /images/2023/GifProposedBanners.gif
+      background: /images/2023/proposedbanner3.gif
 ---
