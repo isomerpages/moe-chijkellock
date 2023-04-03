@@ -2,6 +2,7 @@ collections:
   the-k-experience:
     output: true
     order:
+      - Science.md
       - Holistic Health Education.md
       - Mother Tongue Language/.keep
       - Mother Tongue Language/Mother Tongue Language.md
