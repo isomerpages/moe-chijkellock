@@ -1,5 +1,7 @@
 logo: /images/2023/websiteLogoBanner.png
 links:
+  - title: About Us
+    collection: about-us
   - title: Our Staff
     url: /our-staff
     sublinks:
@@ -15,5 +17,3 @@ links:
     collection: cca
   - title: Information For Parents
     collection: information-for-parents
-  - title: About Us
-    collection: about-us
