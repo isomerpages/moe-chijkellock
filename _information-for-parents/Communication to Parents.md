@@ -5,8 +5,6 @@ description: ""
 ---
 <h4><strong>Other Matters</strong></h4>
 <p><strong><a href="/files/Wait%20LIst.pdf" target="_blank" rel="noopener">- Wait List</a></strong></p>
-[]()
-
 <h4><strong>Booklist</strong></h4>
 <p><strong>-&nbsp;<a href="/files/CKLK%20NEW%20P1%20BOOKLIST.pdf" target="">P1 Booklist 2023</a><br>-&nbsp;<a href="/files/CKLK%20P2%20BOOKLIST%202023.pdf" target="_blank" rel="noopener">P2 Booklist 2023</a><br>-&nbsp;<a href="/files/P3%20BOOKLIST%202023.pdf" target="_blank" rel="noopener">P3 Booklist 2023</a><br>-&nbsp;<a href="/files/P4%20BOOKLIST%202023.pdf" target="">P4 Booklist 2023</a><br>-&nbsp;<a href="/files/P5%20BOOKLIST%202023.pdf" target="">P5 Booklist 2023</a><br>-&nbsp;<a href="/files/P5%20(FDN)%20BOOKLIST%202023.pdf" target="_blank" rel="noopener">P5 Foundation Booklist 2023</a><br>-&nbsp;<a href="/files/P6%20BOOKLIST%202023.pdf" target="_blank" rel="noopener">P6 Booklist 2023</a><br>-&nbsp;<a href="/files/P6%20(FDN)%20P6%20BOOKLIST%202023.pdf" target="_blank" rel="noopener">P6 Foundation Booklist 2023</a></strong></p>
 
