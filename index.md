@@ -16,7 +16,7 @@ sections:
           url: /forstudents/
         - title: For Parents
           description: ""
-          url: https://chijkellock.moe.edu.sg/forparents/
+          url: /forparents/
         - title: For Teachers
           description: ""
           url: /forteachers/
