@@ -33,3 +33,6 @@ third_nav_title: Distinctive Programmes
 
 <h5>Kelllock One-to-One</h5>
 <p align="justify">In CHIJ Kellock, we aim to enrich students’ learning environment and equip them with the necessary competencies and Kellock Girl Outomes to succeed in the 21st century through the various programmes like Digital Stories and Computational Thinking programme at the lower primary, and Digital Citizenship Education for Primary 1 to 6 students.</p>
+
+<img src="/images/2023/ALP/kellockalp2.png" width="30">
+<p align="center">TinkerElla Programme (Make-Build-Code)</p>
