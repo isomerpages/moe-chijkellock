@@ -2,11 +2,11 @@ collections:
   the-k-experience:
     output: true
     order:
+      - The K–Experience.md
       - Distinctive Programmes/.keep
       - Distinctive Programmes/I am IJ Ambassador.md
       - Distinctive Programmes/Applied Learning Programme.md
       - Distinctive Programmes/Learning For Life Programme.md
-      - The K–Experience.md
       - English.md
       - Mathematics.md
       - Science.md
