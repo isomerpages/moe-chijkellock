@@ -14,7 +14,7 @@ third_nav_title: Teaching Staff
 </tr> 
 
 <tr>
-<td style="text-align: center;"><br>P4 Cerise<br><br>
+<td style="text-align: justify"><br>P4 Cerise<br><br>
 </td>
 
 <td style="text-align: center;">Ms Grace Tan</td>
@@ -35,7 +35,7 @@ third_nav_title: Teaching Staff
 </tr>
 
 <tr>
-<td>P4 Indigo</td>
+<td style="text-align: justify">P4 Indigo</td>
 
 <td style="text-align: center;">Mrs Gladys Puah</td>
 <td style="text-align: center;"><a href="mailto:gladys_sin_zhenlin@moe.edu.sg" target="">gladys_sin_zhenlin@moe.edu.sg</a><br></td>
@@ -73,7 +73,7 @@ third_nav_title: Teaching Staff
 </td>
 </tr>
 <tr>
-<td style="text-align: center;">P4 Lilac<br>
+<td style="text-align: justify">P4 Lilac<br>
 </td>
 
 <td style="text-align: center;">Ms Zhang Linyue<span style="background-color: initial;"></span>
@@ -95,7 +95,7 @@ third_nav_title: Teaching Staff
 </td>
 </tr>
 <tr>
-<td style="text-align: center;">P4 Magenta</td>
+<td style="text-align: justify">P4 Magenta</td>
 
 <td style="text-align: center;">Ms Amirinazeb Aurangzeb</td>
 <td style="text-align: center;"><a href="mailto:amirinazeb_aurangzeb@moe.edu.sg" target="">amirinazeb_aurangzeb@moe.edu.sg</a><br>
