@@ -139,9 +139,9 @@ third_nav_title: Teaching Staff
 </td>
 <td style="text-align: center;">&nbsp;<a href="mailto:lim_wei_hing@moe.edu.sg" target="">lim_wei_hing@moe.edu.sg</a>
 </td>
-</tr><tr><td style="text-align: center;">&nbsp;Chinese</td><td style="text-align: center;">&nbsp;Ms Ang Lee Noi</td><td style="text-align: center;"><a href="mailto:ang_lee_noi@moe.edu.sg" target="">ang_lee_noi@moe.edu.sg&nbsp;</a></td></tr><tr><td style="text-align: center;">&nbsp;Chinese</td><td style="text-align: center;">&nbsp;Ms Jackie Ng</td><td style="text-align: center;">&nbsp;<a href="mailto:ng_sor_lan@moe.edu.sg" target="">ng_sor_lan@moe.edu.sg</a>&nbsp;</td></tr>
+</tr><tr><td style="text-align: center;">&nbsp;Chinese</td><td style="text-align: center;">&nbsp;Ms Jackie Ng</td><td style="text-align: center;">&nbsp;<a href="mailto:ng_sor_lan@moe.edu.sg" target="">ng_sor_lan@moe.edu.sg</a>&nbsp;</td></tr>
 <tr>
-<td style="text-align: center;">&nbsp;Malay and Tamil
+<td style="text-align: center;">Tamil
 </td>
 <td style="text-align: center;">&nbsp;Mdm Tauled Tunisha Mohd Paser
 </td>
