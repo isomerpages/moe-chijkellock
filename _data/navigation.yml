@@ -1,16 +1,5 @@
 logo: /images/2023/websiteLogoBanner.png
 links:
-  - title: About Us
-    url: /about-us
-    sublinks:
-      - title: Principal's Message
-        url: /about-us/principals-message
-      - title: School Information
-        url: /about-us/school-information/school-history
-      - title: IJ Board
-        url: /about-us/ij-board
-      - title: Contact Us
-        url: /about-us/contact-us
   - title: Our Staff
     url: /our-staff
     sublinks:
@@ -26,3 +15,5 @@ links:
     collection: cca
   - title: Information For Parents
     collection: information-for-parents
+  - title: About Us
+    collection: about-us
