@@ -23,7 +23,6 @@ During Health Education lessons, students learn about the importance of being ph
 <li>support peers in making wise food choices according to “My Healthy Plate” during recess<br></li>
 <li>encourage peers to bring healthy snacks during snack break </li>
 </ul>
-	<p></p>
 <h4>Key Programmes</h4>
 <p align="justify">To seed the passion for sports in students, the HHE Department also organises a variety of physical activities for students to gain exposure to a variety of sporting experiences and provide them with multiple opportunities to explore their interests and discover their strengths. <br><br>
 Beyond the PE Syllabus, students learn and enjoy sports at school through the following programmes:</p>
