@@ -52,7 +52,7 @@ third_nav_title: Teaching Staff
 </tr>
 
 <tr>
-<td style="text-align: center;">P4 Lavender</td>
+<td style="text-align: justify">P4 Lavender</td>
 <td style="text-align: center;">Ms Ng Yee Peng</td>
 <td style="text-align: center;"><a href="mailto:ng_yee_peng@moe.edu.sg" target="">ng_yee_peng@moe.edu.sg</a><br></td>
 </tr>
@@ -84,10 +84,17 @@ third_nav_title: Teaching Staff
 <tr>
 <td>
 </td>
-
 <td style="text-align: center;">Ms Wendy Lim&nbsp;
 </td>
 <td style="text-align: center;"><a href="mailto:lim_mui_lian_wendy@moe.edu.sg" target="">lim_mui_lian_wendy@moe.edu.sg</a><br>
+</td>
+</tr>
+	<tr>
+<td>
+</td>
+<td style="text-align: center;">Ms Ong Yu Hui</td>
+<td style="text-align: center;"><a href="mailto:ong_yu_hui@moe.edu.sg" target="">
+ong_yu_hui@moe.edu.sgg</a><br>
 </td>
 </tr>
 <tr>
