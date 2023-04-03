@@ -2,7 +2,6 @@ collections:
   the-k-experience:
     output: true
     order:
-      - Gallery.md
       - The K–Experience.md
       - Distinctive Programmes/.keep
       - Distinctive Programmes/I am IJ Ambassador.md
@@ -23,3 +22,4 @@ collections:
       - Creative Arts/Programme for Active Learning.md
       - Ed Tech.md
       - Holistic Health Education.md
+      - Gallery.md
