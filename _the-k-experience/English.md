@@ -3,7 +3,6 @@ title: English
 permalink: /the-k-experience/english/english/
 description: ""
 ---
-<img src="/images/2023/English/english%20framwork%20moe.png">
 <h4>Our Mission</h4>
 <p align="justify">We aim to develop effective, confident and thoughtful communicators by providing all students effective and engaged learning and teaching in Standard English in a vibrant environment that promotes and encourages proper expression in Standard English. </p>
 
@@ -11,7 +10,7 @@ description: ""
 
 <p align="justify">The school’s approach to learning and teaching of the English Language is shown in the following diagram: </p>
 
-<img src="/images/2023/English/EL_5.jpg" width="60">
+<img style="width: 80%;" src="/images/2023/English/english%20framwork%20moe.png">
 
 <p>Source: English Language Syllabus 2020 </p>
 
