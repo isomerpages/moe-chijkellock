@@ -75,5 +75,8 @@ third_nav_title: Teaching Staff
 <td style="text-align: center;">&nbsp;Ms Claire Lee</td>
 <td style="text-align: center;"><a href="mailto:lee_wei_min_claire@moe.edu.sg" target="">lee_wei_min_claire@moe.edu.sg</a></td>
 </tr><tr><td style="text-align: center;">&nbsp;PE</td><td style="text-align: center;">Ms Christine Kwong&nbsp;&nbsp;</td><td style="text-align: center;"><a href="mailto:christine_kwong_pui_leng@moe.edu.sg" target="">christine_kwong_pui_leng@moe.edu.sg&nbsp;</a></td></tr><tr><td style="text-align: center;">&nbsp;PE</td><td style="text-align: center;">Mr Tan Wei Qiang&nbsp;</td><td style="text-align: center;">&nbsp;<a href="mailto:tan_weiqiang@moe.edu.sg" target="">tan_weiqiang@moe.edu.sg</a></td></tr>
+	<tr><td style="text-align: center;">&nbsp;PE</td><td style="text-align: center;">Ms Christine Kwong&nbsp;&nbsp;</td><td style="text-align: center;"><a href="mailto:christine_kwong_pui_leng@moe.edu.sg" target="">christine_kwong_pui_leng@moe.edu.sg&nbsp;</a></td></tr><tr><td style="text-align: center;">&nbsp;PE</td><td style="text-align: center;">Ms Jhoanna</td><td style="text-align: center;">&nbsp;<a href="mailto:roxas_jhoanna_mari_imus@moe.edu.sg" target="">roxas_jhoanna_mari_imus@moe.edu.sg</a></td></tr>
+	<tr><td></td><td style="text-align: center;">Ms Pamela Zheng </td><td style="text-align: center;"><a href="mailto:zheng_dingxiu_pamela@moe.edu.sg" target="">zheng_dingxiu_pamela@moe.edu.sg </a></td></tr>
+	<tr><td></td><td style="text-align: center;">Ms Elaine Lim</td><td style="text-align: center;"><a href="mailto:emily_lim_su_lin@moe.edu.sg" target="">emily_lim_su_lin@moe.edu.sg</a></td></tr>
 </tbody>
 </table>
