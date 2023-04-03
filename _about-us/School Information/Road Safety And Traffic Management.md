@@ -52,7 +52,8 @@ With reference to Diagram 2, students who are to be picked up by car will wait a
 <p></p>
 <p><u>ii) Option B: Park and Pick</u><br>
 With reference to Diagram 4, there are 2 dismissal points for <b>this option – Gate 3p</b> and <b>Gate 1p</b>, where the students who are waiting to be picked up by car will wait along the sheltered passageway leading to the respective gates.</p>
-	<img src="/images/2023/AboutUs/traffic_4.png">
+	
+<img src="/images/2023/AboutUs/traffic_4.png">
 	
 <p>For parents / guardians <b>who are driving to pick their child</b> up at  
 </p><ul>
