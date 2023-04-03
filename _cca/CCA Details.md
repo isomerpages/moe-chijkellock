@@ -111,15 +111,11 @@ Friday: 7.30am–9.30am (Recreational Team and School Team)</td>
 </i></li><li><i>P1 &amp; P2 General Gymnastics Enrichment Programme is no offered longer by the school.</i></li></ul></td>
   </tr>
 		<tr>
-    <td>Swimming</td>
-		<td colspan="3" align="center"><i>*Swimming CCA is currently suspended</i></td>
-  </tr>
-	<tr>
     <td>Badminton</td>
     <td colspan="">&nbsp;Mr Vincent Goh <br> Ms Kavitha</td>
     <td>Friday <br> 7.30am - 9.30am</td>
 					<td></td>
-  </tr>
+  </tr>		
 </tbody>
 </table><br>
 
