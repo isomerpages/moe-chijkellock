@@ -30,4 +30,4 @@ description: ""
 
 <p align="justify">Taking into account the profiles of students and interests of the students, programmes in the SC department are specially customised so as to strengthen and enhance the teaching and learning of Science for all.</p>
 
-<img src="/images/2023/Science/science6.jpg" width="30">
+<img src="/images/2023/Science/science6.jpg">
