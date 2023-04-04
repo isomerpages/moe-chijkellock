@@ -3,13 +3,13 @@ title: Mathematics
 permalink: /the-k-experience/mathematics/mathematics/
 description: ""
 ---
-<h3 align="center">Our Vision</h3>
+<h3>Our Vision</h3>
 
-<p align="center">We aim to provide stimulating mathematical experiences that will nurture creative, critical, active, independent and future-ready learners with sound reasoning and problem solving skills.</p>
+<p align="justify">We aim to provide stimulating mathematical experiences that will nurture creative, critical, active, independent and future-ready learners with sound reasoning and problem solving skills.</p>
 
-<h3 align="center">Our Philosophy</h3>
+<h3>Our Philosophy</h3>
 
-<p align="center"><strong>“Every Girl can Learn and Achieve in Mathematics given the right environment to stretch her potential”</strong></p>
+<p align="justify"><strong>“Every Girl can Learn and Achieve in Mathematics given the right environment to stretch her potential”</strong></p>
 <p>Mathematical problem solving is central to mathematics learning. Problem solving skills in the mathematics curriculum mirror twenty-first century skills such as creative thinking, communication and critical thinking skills which we would need to equip our students with. The inherent ‘spiral’ nature of the mathematics curriculum will remain an important aspect of mathematics learning in developing our students' problem solving abilities to become future-ready learners. </p>
 
 <h4>Curriculum</h4>
@@ -36,7 +36,7 @@ Parents can help your child at home by:<br>
 <li>Encouraging your child to do quick mental calculations</li>
 <p></p>
 <p><strong><u>K-JINGLES (Financial Literacy @ Kellock). </u></strong><br>
-	<img src="/images/2023/Math/math_1.png" width="60">
+	<img src="/images/2023/Math/math_1.png" width="60%;">
 Demonstrate ways to monitor how money is spent and saved.</p>
                    
 <p><strong><u>MATH RECESS @ PLAY</u></strong><br>
