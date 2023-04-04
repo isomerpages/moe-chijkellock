@@ -52,7 +52,7 @@ description: ""
   </tr>
 		<tr>
     <td>Choir</td>
-    <td>Mdm Tunisha<br> Mrs Widjaja <br>Ms Khatijah</td>
+    <td>Mdm Tunisha<br> Mrs Widjaja <br>Ms Khatijah<br>Ms Drusilla Yap</td>
     <td>Friday <br> 7.30am - 9.30am</td>
 			<td></td>
   </tr>
