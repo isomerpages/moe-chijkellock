@@ -3,7 +3,7 @@ title: Science
 permalink: /the-k-experience/science/science/
 description: ""
 ---
-<h3>Vision / Mission / Philosophy</h3>
+<h4>Vision / Mission / Philosophy</h4>
 <p align="justify">Our vision is to develop scientifically literate (LEARN) future-ready students who can make evidence-based decisions (LEAD) to impact and improve lives (FOR OTHERS).</p>
 
 <p align="justify">Through our Mission, we aim to nurture, in our students, a passion (with purpose) for <strong>Learning</strong> (CCL-Christ-centred Learner) and <strong>Science </strong>(FOL – Future-oriented Leader).</p>
