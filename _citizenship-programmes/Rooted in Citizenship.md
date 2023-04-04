@@ -1,0 +1,54 @@
+---
+title: Rooted in Citizenship
+permalink: /the-k-experience/character-and-citizenship-education/citizenship-programmes/rooted-in-citizenship/
+description: ""
+---
+<h4><strong>Primary 1</strong></h4>
+<p>In today&rsquo;s globalized and ever-changing world, we are constantly faced with rapid shifts in various aspects of our environment and social landscape. It is important that as Singaporeans, we know our history as a nation and feel grateful of how far we have come together as one. It is also important that we are aware of and understand Singapore&rsquo;s achievements, uniqueness and heritage so that we can stand ready to respond to future challenges and opportunities in a timely manner.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 60%;"><p>According to the Heritage Awareness Survey conducted in 2014, 80% of Singapore residents agree that it is important to preserve all aspects of Singapore&rsquo;s heritage for current and future generations. 74% of Singapore residents agree that it is important to learn about the cultures and traditions of the countries our ancestors came from (e.g., cultures of China, India, the Malay Peninsula, etc.)&rdquo;. The Singapore Cultural Statistics 2017 also shows growing interest amongst Singaporeans in exploring their heritage and what it means to be a Singaporean.</p></td>
+<td style="width: 40%;"><img src="/images/ric1.png"></td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 35%;"><img src="/images/ric2.png"></td>
+<td style="width: 65%;">
+<p>With that in mind, a customized school-based curriculum was designed to educate our Primary 1 students on the following: Singapore&rsquo;s Hawker Culture and the origins and significance of festivals such as Dragon Boat Festival (Duan Wu Jie) and Pongal. On top of engaging in discussions with friends and teachers, real-life photos and videos were also used to illustrate and exemplify the various aspects of Singapore&rsquo;s Hawker Culture and festivals (food, rituals and significance).Our students also got into action to design a poster to promote Singapore&rsquo;s hawker culture!</p>
+</td>
+</tr>
+</tbody>
+</table>
+<img src="/images/ric3.png">
+<p>By recognizing and being aware of a shared common heritage, it helps to facilitate a deeper and stronger understanding of our cultures and traditions. This helps to encourage and foster national, community and personal identities which are pivotal to the development and growth of a more cohesive, confident and resilient society. Through these lessons, we are confident that our students will continue to contribute towards creating a cohesive society by valuing and engaging with Singapore&rsquo;s rich and multicultural heritage &ndash; enabling them to feel proud about Singapore and our connections to the world.</p>
+<h4><strong>Primary 2</strong></h4>
+<p>15 February is the day where Singapore commemorates "Total Defence Day&rdquo;. It is an important day that reminds us of 15 February 1942 &ndash; the day where Singapore fell to the Japanese troops. On this memorable day, Minister for Communications and Information and Minister-in-Charge of Cybersecurity, Mr S Iswaran, had officiated the launch of Digital Defence as the sixth pillar of Total Defence during the event, joining the other 5 pillars, namely Military Defence, Civil Defence, Economic Defence, Social Defence and Psychological Defence.</p>
+<img src="/images/ric4.png">
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;">
+<p>In CHIJ Kellock, we strongly believe in educating and nurturing our students to deepen their sense of belonging and rootedness to Singapore. With the introduction of the new pillar for Total Defence &ndash; Digital Defence in 2019, the Character and Citizenship Education (CCE) department recognises the serious dangers that disinformation and cyber-attacks can pose to Singapore&rsquo;s social cohesion in this open and connected city-state.</p>
+</td>
+<td style="width: 50%;"><img src="/images/ric5.png"></td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 35%;">
+<img src="/images/ric6.png">
+</td>
+<td style="width: 65%;">
+<p>Fake news are becoming increasingly sophisticated and pervasive, and they can be challenging to detect. With that in mind, a customized school-based curriculum was designed to educate our Primary 2 students on what fake news is all about and the importance of knowing how to discern between real news and fake news. Students discussed and worked together in pairs to apply the newly-learnt S.U.R.E (Source, Understand, Research and Evaluate) strategy on selected news articles to determine whether it is real or fake.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<img src="/images/ric7.png">
+<p>The concept of empathy was also explored when students discuss and think about the impact of fake news on its victims.&nbsp; If there is a possibility that a piece of information&nbsp;<strong>may</strong>&nbsp;be untrue, we can&nbsp;<strong>play our part in not encouraging fake news by not posting or forwarding it.</strong>&nbsp;We look forward to our Kellock girls continuing to display the Kellock Girl values of graciousness, integrity, and responsibility not only in the real world, but also in the digital world!&nbsp;</p>

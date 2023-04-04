@@ -1,0 +1,19 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - About Us.md
+      - Principal's Message.md
+      - School Information/.keep
+      - School Information/School Crest & Motto.md
+      - School Information/Vision and Mission.md
+      - School Information/Kellock Girl Outcomes.md
+      - School Information/School Song.md
+      - School Information/School Rules And Regulations.md
+      - School Information/Road Safety And Traffic Management.md
+      - Our Catholic Identity/.keep
+      - Our Catholic Identity/School History.md
+      - Our Catholic Identity/Our Founder – Blessed Father Barre.md
+      - Our Catholic Identity/Spirituality at CHIJ Kellock.md
+      - IJ Board.md
+      - Contact Us.md

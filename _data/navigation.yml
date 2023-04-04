@@ -1,15 +1,19 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/2023/websiteLogoBanner.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About Us
+    collection: about-us
+  - title: Our Staff
+    url: /our-staff
+    sublinks:
+      - title: Executive Committee
+        url: /our-staff/executive-committee
+      - title: Teaching Staff
+        url: /our-staff/teaching-staff/primary-1
+      - title: Support Staff
+        url: /our-staff/support-staff
+  - title: K-Experience
+    collection: the-k-experience
+  - title: CCA
+    collection: cca
+  - title: Information For Parents
+    collection: information-for-parents

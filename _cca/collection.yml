@@ -1,0 +1,7 @@
+collections:
+  cca:
+    output: true
+    order:
+      - CCA@Kellock.md
+      - CCA Details.md
+      - CCA Schedule.md

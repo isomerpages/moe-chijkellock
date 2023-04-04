@@ -1,0 +1,15 @@
+---
+title: School History
+permalink: /about-us/school-information/school-history/
+description: ""
+third_nav_title: Our Catholic Identity
+---
+
+
+
+<img style="width: 60%;" src="/images/hist.jpg" align = "center" />
+<p>On 2 February 1854, a small group of Infant Jesus nuns arrived in Singapore from Europe with one mission in hand: to build Catholic schools and homes for girls. Their first school, convent and orphanage was established on Victoria Street which became known as the Convent of the Holy Infant Jesus. Over the years, the sisters went on to open schools and centres in many parts of the island and CHIJ Kellock is the youngest member among the 11 CHIJ schools in Singapore.</p>
+<p>CHIJ Kellock had its beginnings as a small school known as Our Lady of Lourdes School in Ophir Road, conducting classes in make-shift classrooms. When the decision was made to demolish the classrooms, the students were moved to Victoria Street where the school functioned in the afternoon as School II. This was in1959.</p>
+<p>With an increase in the number of students, a new primary school building became necessary. His Grace, the late Archbishop Michael Olcomendy, donated the land next to St. Bernadette&rsquo;s Church located at Kellock Road, to Rev. Mother St. John. On 6th January 1964, students of Primary School II of Victoria Street were transferred to the new site. Hence, CHIJ Kellock was finally established in 1964.</p>
+<p>Since then, the school has nurtured and educated girls from all walks of life. As Singapore entered the Information Technology era, space constraints posed a major problem at the Kellock Road site as the school could not be upgraded and new facilities could not be added. In 1994, CHIJ Kellock moved out of Kellock Road into a &lsquo;holding school&rsquo; at 11, Jalan Kuala during the construction of the new school building. Finally in 2002, the new school located at Bukit Teresa Road was ready. It was officially opened in 2004 by the former Minister of Education, Mr Tharman Shanmugaratnam.</p>
+<p>2014 marked a very significant milestone in CHIJ Kellock&rsquo;s history. Themed &ldquo;My Journey, Our Journey &ndash; Honouring Our Past, Celebrating Our Present, Co-creating the Future&rdquo; the 50th anniversary was an occasion for all who have been shaped by the School and carry within them cherished memories of a formative childhood experience within its walls, be it the early years in Kellock Road and Jalan Kuala or at Bukit Teresa Road.</p>

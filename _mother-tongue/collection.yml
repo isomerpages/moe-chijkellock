@@ -1,0 +1,14 @@
+collections:
+  mother-tongue:
+    output: true
+    order:
+      - Chinese Language/Chinese Language.md
+      - Chinese Language/Customised Programmes for Chinese Language.md
+      - Chinese Language/Other Activities.md
+      - Chinese Language/.keep
+      - Tamil Language/Tamil Language.md
+      - Tamil Language/Customise Programmes for Tamil Language.md
+      - Tamil Language/.keep
+      - Malay Language/Malay Language.md
+      - Malay Language/Customise Programmes for Malay Language.md
+      - Malay Language/.keep
