@@ -66,7 +66,7 @@ description: ""
     <td>String Ensemble</td>
     <td>Mrs Cindy Tang<br> Mrs Tham Ee Kee</td>
     <td>Friday <br> 7.30am - 9.30am<br><i>*Additional practice on Tuesday afternoon when preparing for events</i></td>
-		<td><ul><li>Please click <a href="https://moe-chijkellock.gov.sg/ccas/Creative-Arts/stringensemble/">here</a> for the entry prerequisites</li>
+		<td><ul><li>Entry Prerequisites details will be added soon.</li>
 			<li>Approx. $160 per semester</li></ul></td>
   </tr>
 	<tr>
