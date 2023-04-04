@@ -45,4 +45,4 @@ Students have the opportunity to play a variety of mathematics games during rece
 <p><strong><u>P1-P2 GAME BASED PROGRAMMES</u></strong><br>
 P1 &amp; P2 students have the opportunity to train their minds and develop the capacity to think logically, critically and creatively through two game-based programmes - Have Fun with Sudoku &amp; Playing with Tangrams. 
 </p>
-	<img src="/images/2023/Math/math_6.jpg" width="60"></ul>
+	<img src="/images/2023/Math/math_6.jpg" style="width: 60%;"></ul>
