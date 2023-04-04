@@ -3,6 +3,7 @@ title: English
 permalink: /the-k-experience/english/english/
 description: ""
 ---
+<img style="width: 80%;" src="/images/2023/English/eng1.jpg">
 <h4>Our Mission</h4>
 <p align="justify">We aim to develop effective, confident and thoughtful communicators by providing all students effective and engaged learning and teaching in Standard English in a vibrant environment that promotes and encourages proper expression in Standard English. </p>
 
