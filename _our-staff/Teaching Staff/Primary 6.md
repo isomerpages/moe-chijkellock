@@ -16,7 +16,7 @@ third_nav_title: Teaching Staff
 <td style="text-align: center;"><br>P6 Allamanda&nbsp;<br>&nbsp;<br>
 </td>
 
-<td style="text-align: center;">Mrs Jemma Gomez</td>
+<td style="text-align: center;">Ms Jemma</td>
 <td style="text-align: center;"><a href="mailto:jemma_decruz@moe.edu.sg" target="">jemma_decruz@moe.edu.sg</a><br>
 </td>
 </tr>
@@ -112,7 +112,7 @@ third_nav_title: Teaching Staff
 </td>
 <td style="text-align: center;"><a href="mailto:ong_choon_wee@moe.edu.sg" target="">ong_choon_wee@moe.edu.sg</a><a href="mailto:de_souza_christopher_john@moe.edu.sg" target=""></a>
 </td>
-</tr><tr><td>&nbsp;</td><td style="text-align: center;" >&nbsp;Ms Yee Kwan Ngah</td><td style="text-align: center;">&nbsp;<a href="mailto:yee_kwan_ngah@moe.edu.sg" target="">yee_kwan_ngah@moe.edu.sg</a>&nbsp;</td></tr>
+</tr><tr><td>&nbsp;</td><td style="text-align: center;">&nbsp;Ms Yee Kwan Ngah</td><td style="text-align: center;">&nbsp;<a href="mailto:yee_kwan_ngah@moe.edu.sg" target="">yee_kwan_ngah@moe.edu.sg</a>&nbsp;</td></tr>
 
 </tbody>
 </table>
