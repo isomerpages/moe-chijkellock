@@ -1,6 +1,6 @@
 ---
 title: Terms of Use
-permalink: /chijkellock/terms-of-use/
+permalink: /terms-of-use/
 description: ""
 ---
 <h4><strong>Agreement – Terms</strong></h4>
