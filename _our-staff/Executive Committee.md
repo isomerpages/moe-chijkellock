@@ -258,7 +258,7 @@ description: ""
 <p><strong>Educational Needs&nbsp;</strong></p>
 </td>
 <td style="text-align: center;">
-<p> Ms Yee Kwan Nah&nbsp;</p>
+<p> Ms Yee Kwan Ngah&nbsp;</p>
 </td>
 <td style="text-align: center;">
 <p><a href="mailto:yee_kwan_ngah@moe.edu.sg" target="">yee_kwan_ngah@moe.edu.sg&nbsp;</a></p>
