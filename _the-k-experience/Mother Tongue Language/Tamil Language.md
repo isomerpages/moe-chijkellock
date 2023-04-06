@@ -26,7 +26,7 @@ bond and strengthen their friendships with fellow CHIJ students.</p>
 <p><img style="width:60;" src="/images/2023/MotherTongue/ctl.jpg">
 <i>Joy Of Learning Programme</i></p>
 
-<p><img style="width:60;" src="images/2023/MotherTongue/TL_1.jpg">
+<p><img style="width:60;" src="/images/2023/MotherTongue/tl1.jpg">
 <i>Deepavali Celebration @ Kellock</i></p>
 
 <p><img style="width:60;" src="/images/2023/MotherTongue/TL_5.jpg">
