@@ -15,7 +15,7 @@ third_nav_title: Teaching Staff
 </td>
 </tr>
 <tr>
-<td style="text-align: center;">AED (Counselling)&nbsp;
+<td style="text-align: center;">School Counsellor
 </td>
 <td style="text-align: center;">Mrs Tay - Khoo Kim Kiow&nbsp;
 </td>
@@ -23,19 +23,19 @@ third_nav_title: Teaching Staff
 </td>
 </tr>
 <tr>
-<td style="text-align: center;">Senior AED (LBS)&nbsp;
+<td style="text-align: center;">Senior SEN Officer 
 </td>
 <td style="text-align: center;">&nbsp;Ms Jeannie Ho
 </td>
 <td style="text-align: center;">&nbsp;<a href="mailto:ho_sook_har_jeannie@moe.edu.sg" target="">ho_sook_har_jeannie@moe.edu.sg</a>
 </td>
 </tr>
-<tr>
-<td style="text-align: center;">AED (LBS)&nbsp;
+<tr><td style="text-align: center;">SEN Officer</td><td style="text-align: center;">Ms Penny Tan&nbsp;</td><td style="text-align: center;"><a href="mailto:penny_tan_pin@moe.edu.sg" target="">penny_tan_pin@moe.edu.sg</a>&nbsp;&nbsp;</td></tr><tr>
+<td style="text-align: center;">SEN Officer
 </td>
 <td style="text-align: center;">Ms Samantha Lee</td>
 <td style="text-align: center;"><a href="mailto:samantha_lee_yanmei@moe.edu.sg" target="">samantha_lee_yanmei@moe.edu.sg</a>&nbsp;
 </td>
-</tr><tr><td style="text-align: center;">&nbsp;AED (LBS)</td><td style="text-align: center;">Ms Penny Tan&nbsp;</td><td style="text-align: center;"><a href="mailto:penny_tan_pin@moe.edu.sg" target="">penny_tan_pin@moe.edu.sg</a>&nbsp;&nbsp;</td></tr>
+</tr>
 </tbody>
 </table>
