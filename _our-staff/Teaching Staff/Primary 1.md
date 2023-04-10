@@ -81,7 +81,7 @@ third_nav_title: Teaching Staff
 <tr>
 <td style="text-align: center;">P1 Lily</td>
 
-<td style="text-align: center;">Ms Joyce Chua</td>
+<td style="text-align: center;">Mrs Joyce Chua</td>
 <td style="text-align: center;"><a href="mailto:loh_soo_sheng@moe.edu.sg" target="">loh_soo_sheng@moe.edu.sg</a><br>
 </td>
 </tr>
