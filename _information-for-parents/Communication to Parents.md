@@ -27,6 +27,8 @@ description: ""
 <tr><td>Term 2</td>
 <td><a href="/files/2023_Files/Kbites/kbites%20apr%202023.pdf" target=""><strong>April</strong></a></td>
 </tr>
+	<tr><td>&nbsp;</td><td><a href="/files/2023_Files/Kbites/kbites%20apr%202023.pdf" target=""><strong>March</strong></a></td>
+</tr>
 </tbody>
 </table>
 
