@@ -28,7 +28,7 @@ description: ""
 </p>
 <p align="justify">
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.<br>
-(To attach the canteen application form) <br>
+Canteen application Form <br>
 2. Attached the following documents together with the application form:
 </p><ul>
 <li>Photocopy of the NRIC (front and back)</li>
