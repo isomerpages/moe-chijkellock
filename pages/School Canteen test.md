@@ -34,8 +34,9 @@ Interest applicants must meet the following criteria:<br>
 </p><ul>
 <li>Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.</li>
 <li>Able to provide good service and quality food with prices determined in consultation with the school.</li>
-<li>	Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines (see [link](</li>
-<li>Able to maintain high standard of food safety and personal hygiene.</li>
+<li>	Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines (see [link](<a target="_blank" href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)">https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme</a> 
+)
+</li><li>Able to maintain high standard of food safety and personal hygiene.</li>
 <li>	Healthy and fit to operate the stall.</li>
 	</ul>
 	<br>
