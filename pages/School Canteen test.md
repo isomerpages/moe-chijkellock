@@ -29,6 +29,8 @@ How to get there?<br>
 * Bus number: 61, 124, 143, 166 - 3 minutes walking distance<br>
 <br>
 Interest applicants must meet the following criteria:<br>
+</p>
+<p>
 </p><ul>
 <li>Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.</li>
 <li>Able to provide good service and quality food with prices determined in consultation with the school.</li>
