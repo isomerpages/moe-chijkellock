@@ -3,10 +3,10 @@ title: School Canteen test
 permalink: /schoolcanteen/
 description: ""
 ---
-<p>
+<p align="justify">
 <strong><u>Application Procedure</u></strong>
 </p>
-	<p>
+<p align="justify">
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.<br>
 (To attach the canteen application form) <br>
 2. Attached the following documents together with the application form:
@@ -22,15 +22,15 @@ description: ""
 <li>Email: <a href="Mark_Loh@schools.gov.sg">Mark_Loh@schools.gov.sg</a></li>
 <li>Contact Person: Mr Mark Loh</li>
 </ul>
-<p></p>
-<p>
-How to get there?<br>
+<p align="justify"></p>
+<p align="justify">
+<u>How to get there?</u><br>
 * Nearest MRT: Outram MOE (to take bus 124 and 143 from the MRT)<br>
 * Bus number: 61, 124, 143, 166 - 3 minutes walking distance<br>
 <br>
 Interest applicants must meet the following criteria:<br>
 </p>
-<p>
+<p align="justify">
 </p><ul>
 <li>Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.</li>
 <li>Able to provide good service and quality food with prices determined in consultation with the school.</li>
@@ -48,4 +48,4 @@ Applicants should preferably fulfil the following criteria:
 </ul>
 
 Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.
-<p></p>
+<p align="justify"></p>
