@@ -3,26 +3,40 @@ title: School Canteen test
 permalink: /schoolcanteen/
 description: ""
 ---
-<h6> What is Lorem Ipsum?</h6>
-<p align="center">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the <strong>1500s</strong>, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. </p><p>It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker </p>
+Application Procedure
 
-<table style="width:100%">
-  <tbody><tr>
-    <th>Company</th>
-    <th>Contact</th>
- 
-  </tr>
-  <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-   
-  </tr>
-  <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    
-  </tr>
-</tbody></table>
+1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
+
+(To attach the canteen application form) 
+
+2. Attached the following documents together with the application form:
+•	Photocopy of the NRIC (front and back)
+•	List of proposed menu and pricing for all items
+•	Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
+
+3. Submit the completed application form and documents by the closing date via email OR to the School's General Office.
+
+•	Address: 1 Bukit Teresa Road S (099757)
+•	Contact No: 6273 0096
+•	Email: Mark_Loh@schools.gov.sg
+•	Contact Person: Mr Mark Loh
+
+How to get there?
+* Nearest MRT: Outram MOE (to take bus 124 and 143 from the MRT)
+* Bus number: 61, 124, 143, 166 - 3 minutes walking distance
+
+Interest applicants must meet the following criteria:
+•	Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
+•	Able to provide good service and quality food with prices determined in consultation with the school.
+•	Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines (see [link](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)).
+•	Able to maintain high standard of food safety and personal hygiene.
+•	Healthy and fit to operate the stall.
 
 
-of Lorem Ipsum.
+Applicants should preferably fulfil the following criteria:
+•	Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.
+•	Possess catering experience or experience operating in a school environment.
+•	Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).
+
+
+Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense. 
