@@ -5,7 +5,7 @@ description: ""
 ---
 <p>
 <strong><u>Application Procedure</u></strong>
-	</p>
+</p>
 	<p>
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.<br>
 
@@ -31,11 +31,14 @@ How to get there?
 * Bus number: 61, 124, 143, 166 - 3 minutes walking distance<br>
 
 Interest applicants must meet the following criteria:<br>
-•	Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.<br>
-•	Able to provide good service and quality food with prices determined in consultation with the school.<br>
-•	Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines (see [link](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)).<br>
-•	Able to maintain high standard of food safety and personal hygiene.<br>
-•	Healthy and fit to operate the stall.<br>
+<ul>
+<li>Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.</li>
+<li>Able to provide good service and quality food with prices determined in consultation with the school.</li>
+<li>	Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines (see [link](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)).</li>
+<li>Able to maintain high standard of food safety and personal hygiene.</li>
+<li>	Healthy and fit to operate the stall.</li>
+	</ul>
+	<br>
 
 
 Applicants should preferably fulfil the following criteria:<br>
