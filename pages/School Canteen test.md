@@ -19,7 +19,7 @@ description: ""
 <ul>
 <li>	Address: 1 Bukit Teresa Road S (099757)</li>
 <li>Contact No: 6273 0096</li>
-<li>Email: Mark_Loh@schools.gov.sg</li>
+<li>Email: <a href="Mark_Loh@schools.gov.sg">Mark_Loh@schools.gov.sg</a></li>
 <li>Contact Person: Mr Mark Loh</li>
 </ul>
 <p></p>
