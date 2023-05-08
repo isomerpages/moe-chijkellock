@@ -5,22 +5,26 @@ description: ""
 ---
 <p>
 <strong><u>Application Procedure</u></strong>
-	<br>
+	</p>
+	<p>
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.<br>
 
-(To attach the canteen application form) 
+(To attach the canteen application form) <br>
 
-2. Attached the following documents together with the application form:<br>
-•	Photocopy of the NRIC (front and back)
-•	List of proposed menu and pricing for all items
-•	Photocopy of relevant certificates such as Basic Food Hygiene Course, etc<br>
-
+2. Attached the following documents together with the application form:
+</p><ul>
+<li>Photocopy of the NRIC (front and back)</li>
+<li>List of proposed menu and pricing for all items</li>
+<li>Photocopy of relevant certificates such as Basic Food Hygiene Course, etc</li>
+</ul>
+<br>
 3. Submit the completed application form and documents by the closing date via email OR to the School's General Office.<br>
-
-•	Address: 1 Bukit Teresa Road S (099757)
-•	Contact No: 6273 0096
-•	Email: Mark_Loh@schools.gov.sg
-•	Contact Person: Mr Mark Loh
+<ul>
+<li>	Address: 1 Bukit Teresa Road S (099757)</li>
+<li>Contact No: 6273 0096</li>
+<li>Email: Mark_Loh@schools.gov.sg</li>
+<li>Contact Person: Mr Mark Loh</li>
+</ul>
 <br>
 How to get there?
 * Nearest MRT: Outram MOE (to take bus 124 and 143 from the MRT)<br>
@@ -40,4 +44,5 @@ Applicants should preferably fulfil the following criteria:<br>
 •	Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).<br>
 
 
-Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.</p>
+Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.
+<p></p>
