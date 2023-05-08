@@ -22,5 +22,7 @@ description: ""
 	</tr>
 	</tbody>
 	</table>
-	<br>Attached the following documents togather with the application from:
+	<br>Attached the following documents togather with the application from:Photocopy of the NRIC(front and back)
+	List of proposed menu and pricing for all items Photocopy of the relevant certificates such as basic Food Hygiene Course,etc
+	
 	<br>
