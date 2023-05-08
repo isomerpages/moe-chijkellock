@@ -4,8 +4,7 @@ permalink: /schoolcanteen1/
 description: ""
 ---
 <br><table>
-	<tbody>
-		
+	<tbody>		
 		<tr>
 		<td>Type of Stall
 		</td>		
@@ -21,4 +20,7 @@ description: ""
 			</td><td>1June 2023
 		</td>								
 	</tr>
-	</tbody></table>
+	</tbody>
+	</table>
+	<br>Attached the following documents togather with the application from:
+	<br>
