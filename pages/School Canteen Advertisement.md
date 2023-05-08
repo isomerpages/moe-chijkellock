@@ -3,8 +3,9 @@ title: School Canteen Advertisement
 permalink: /schoolcanteen1/
 description: ""
 ---
-<table>
+<br><table>
 	<tbody>
+		
 		<tr>
 		<td>Type of Stall
 		</td>		
