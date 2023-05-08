@@ -4,7 +4,8 @@ permalink: /schoolcanteen1/
 description: ""
 ---
 <table>
-	<tbody><tr>
+	<tbody>
+		<tr>
 		<td>Type of Stall
 		</td>		
 		<td>Closing date
@@ -17,7 +18,6 @@ description: ""
 	</tr><tr>
 		<td>Chinese mixed rice
 			</td><td>1June 2023
-		</td>			
-					
+		</td>								
 	</tr>
 	</tbody></table>
