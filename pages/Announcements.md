@@ -15,5 +15,6 @@ description: ""
 <li><strong><a href="https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" target="_blank" rel="noopener">Access School E-Resource Repository</a></strong></li>
 <li><strong><a href="https://eresources.nlb.gov.sg/main/Help/Overdrive#libby_app" target="_blank" rel="noopener">A Step-by-Step Guide to borrow NLB E-books</a></strong></li>
 <li><strong><a href="https://view.genial.ly/62951da156a41b0013669f7a/dossier-magazine-dossier" target="_blank" rel="noopener">S.N.@C.K Issue 1 (2022)</a></strong></li>		
+	<li><strong><a href="https://view.genial.ly/63870c980bebe600195ba9dd/dossier-snack-issue-2-dec-2022" target="_blank" rel="noopener">S.N.@C.K Issue 2 (2022)</a></strong></li>		
 	<li><strong><a href="https://chijkellock.moe.edu.sg/schoolcanteen1/" target="">School Canteen Advertisement</a></strong></li>
 </ul>
