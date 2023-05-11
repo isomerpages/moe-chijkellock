@@ -61,13 +61,13 @@ Interest applicants must meet the following criteria:<br>
 	<li>Able to maintain high standard of food safety and personal hygiene.</li>
 <li>	Healthy and fit to operate the stall.</li>
 	</ul>
-	<br>
-Applicants should preferably fulfil the following criteria:
-<ul>
+<p align="justify">
+Applicants should preferably fulfill the following criteria:
+</p><ul>
 <li>Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.</li>
 <li>Possess catering experience or experience operating in a school environment.</li>
 <li>	Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).</li>
 </ul>
-
+<p></p>
 Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.
 <p align="justify"></p>
