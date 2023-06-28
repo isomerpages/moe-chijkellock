@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: "Announcement "
+        - title: Announcement
           description: ""
           url: /moe-chijkellock/quick-links/
         - title: For Students
@@ -17,5 +17,5 @@ sections:
         - title: For Teachers
           description: ""
           url: /forteachers/
-      background: /images/2023/proposedbanner5.gif
+      background: /images/2023/proposed banners 7.gif
 ---
