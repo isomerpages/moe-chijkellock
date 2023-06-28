@@ -4,6 +4,7 @@ permalink: /forteachers/
 description: ""
 ---
 <ul>
+	<li><a href="https://forms.moe.edu.sg/">All Ears - Form Builder</a></li>	
 	<li><a href="https://form.gov.sg/">Form SG</a></li>	
 	<li><a href="https://www.hrp.gov.sg/">HR portal (HRP)</a></li>
 	<li><a href="https://workspace.google.com/dashboard">ICON email</a></li>
