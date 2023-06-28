@@ -5,21 +5,17 @@ description: ""
 ---
 <h3>School Canteen Advertisement</h3><br>
 <table>
-	<tbody>		
+	<tbody align="center">		
 		<tr>
 		<td>Type of Stall
 		</td>		
-		<td>Closing date
-		</td>	
 	</tr>
 	<tr>
 		<td>Japanese or Korean Stall
-		</td>	<td>1June 2023
-		</td>			
+		</td>	
 	</tr><tr>
 		<td>Chinese mixed rice
-			</td><td>1June 2023
-		</td>								
+			</td>	
 	</tr>
 	</tbody>
 	</table>
