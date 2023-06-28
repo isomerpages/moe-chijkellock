@@ -8,6 +8,9 @@ notification: ""
 sections:
   - hero:
       key_highlights:
+        - title: Kellock Facebook
+          description: Login Required
+          url: https://www.facebook.com/100071389479078
         - title: Announcement
           description: ""
           url: /moe-chijkellock/quick-links/
