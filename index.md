@@ -2,7 +2,7 @@
 layout: homepage
 title: Convent of the Holy Infant Jesus (Kellock)
 description: Brief site description here
-image: /images/logo.png
+image: /images/2023/websitelogobanner2.png
 permalink: /
 notification: ""
 sections:
