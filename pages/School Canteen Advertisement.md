@@ -13,7 +13,8 @@ description: ""
 	<tr>
 		<td>Japanese or Korean Stall
 		</td>	
-	</tr><tr>
+	</tr>
+		<tr>
 		<td>Chinese mixed rice
 			</td>	
 	</tr>
