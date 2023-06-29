@@ -2,13 +2,16 @@
 layout: homepage
 title: Convent of the Holy Infant Jesus (Kellock)
 description: Brief site description here
-image: /images/logo.png
+image: /images/2023/websitelogobanner2.png
 permalink: /
 notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: "Announcement "
+        - title: Kellock Facebook
+          description: Login Required
+          url: https://www.facebook.com/100071389479078
+        - title: Announcement
           description: ""
           url: /moe-chijkellock/quick-links/
         - title: For Students
@@ -17,5 +20,6 @@ sections:
         - title: For Teachers
           description: ""
           url: /forteachers/
-      background: /images/2023/proposedbanner5.gif
+      background: /images/2023/proposedbanner10.gif
+      url: https://www.facebook.com/100071389479078
 ---

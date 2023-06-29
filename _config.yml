@@ -51,9 +51,10 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d3tntrfs8iu2ch.amplifyapp.com
 prod: https://master.d3tntrfs8iu2ch.amplifyapp.com
-shareicon: /images/logo.png
+shareicon: /images/2023/websitelogobanner2.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
 resources_name: chij-kellock
+google_analytics_ga4: ""
