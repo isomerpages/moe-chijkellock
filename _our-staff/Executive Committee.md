@@ -296,6 +296,16 @@ description: ""
 <td style="text-align: center;">
 <p><a href="mailto:cindy_quake@moe.edu.sg" target="">cindy_quake@moe.edu.sg </a></p>
 </td>
+</tr><tr>
+<td style="text-align: center;" width="160">
+<p><strong>PE and CCA</strong></p>
+</td>
+<td style="text-align: center;" width="208">
+<p> Mdm Joyce Liew</p>
+</td>
+<td style="text-align: center;" width="340">
+<p><a href="mailto:liew_yeow_wah_joyce@moe.edu.sg" target="">liew_yeow_wah_joyce@moe.edu.sg&nbsp;</a></p>
+</td>
 </tr>
 <tr>
 <td style="text-align: center;">

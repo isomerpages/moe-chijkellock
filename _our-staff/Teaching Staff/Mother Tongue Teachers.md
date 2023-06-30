@@ -140,6 +140,7 @@ third_nav_title: Teaching Staff
 <td style="text-align: center;">&nbsp;<a href="mailto:lim_wei_hing@moe.edu.sg" target="">lim_wei_hing@moe.edu.sg</a>
 </td>
 </tr><tr><td style="text-align: center;">&nbsp;Chinese</td><td style="text-align: center;">Mr Chua Keng Wah </td><td style="text-align: center;"><a href="mailto:chua_keng_wah_a@moe.edu.sg" target="">chua_keng_wah_a@moe.edu.sg</a></td></tr><tr><td style="text-align: center;">&nbsp;Chinese</td><td style="text-align: center;">&nbsp;Ms Jackie Ng</td><td style="text-align: center;">&nbsp;<a href="mailto:ng_sor_lan@moe.edu.sg" target="">ng_sor_lan@moe.edu.sg</a>&nbsp;</td></tr>
+	<tr><td style="text-align: center;">&nbsp;Chinese</td><td style="text-align: center;">&nbsp;Mdm Ang Lee Noi</td><td style="text-align: center;">&nbsp;<a href="mailto:ang_lee_noi_a@moe.edu.sg" target="">ang_lee_noi_a@moe.edu.sg</a>&nbsp;</td></tr>
 <tr>
 <td style="text-align: center;">Malay&nbsp;
 </td>
