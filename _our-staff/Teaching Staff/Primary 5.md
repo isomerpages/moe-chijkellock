@@ -127,6 +127,10 @@ third_nav_title: Teaching Staff
 <td>&nbsp;</td>
 <td style="text-align: center;">&nbsp;Mr Timothy Koh</td>
 <td style="text-align: center;"><a href="mailto:koh_boon_chye@moe.edu.sg" target="">koh_boon_chye@moe.edu.sg</a>&nbsp;&nbsp;</td></tr>
+	<tr>
+<td>&nbsp;</td>
+<td style="text-align: center;">&nbsp;Mrs Dallas Gopal</td>
+<td style="text-align: center;"><a href="mailto:field_jambu_dallas@moe.edu.sg" target="">field_jambu_dallas@moe.edu.sg</a>&nbsp;&nbsp;</td></tr>
 <tr>
 <td colspan="3">&nbsp; &nbsp; &nbsp; &nbsp;
 </td>
