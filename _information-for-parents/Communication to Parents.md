@@ -30,7 +30,6 @@ description: ""
 </tr>
 	<tr><td>&nbsp;</td><td><a target="" href="/files/2023_Files/Kbites/kbites%20may%20&amp;%20june%202023_updated%20on%2027%20april.pdf"><strong>May - June</strong></a></td>
 </tr>
-
 </tbody>
 </table>
 
