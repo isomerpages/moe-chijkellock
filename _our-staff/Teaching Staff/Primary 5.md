@@ -27,8 +27,8 @@ third_nav_title: Teaching Staff
 <td>&nbsp;
 </td>
 
-<td style="text-align: center;">Ms Claire Lee</td>
-<td style="text-align: center;"><a href="mailto:lee_wei_min_claire@moe.edu.sg" target="">lee_wei_min_claire@moe.edu.sg</a><br>
+<td style="text-align: center;">Ms Jhoanna</td>
+<td style="text-align: center;"><a href="mailto:roxas_jhoanna_mari_imus@moe.edu.sg" target="">roxas_jhoanna_mari_imus@moe.edu.sg</a><br>
 </td>
 </tr>
 <tr>
@@ -84,7 +84,6 @@ third_nav_title: Teaching Staff
 <tr>
 <td>
 </td>
-
 <td style="text-align: center;">Ms Angela Loh</td>
 <td style="text-align: center;"><a href="mailto:loh_puiyin_angela@moe.edu.sg" target="">loh_puiyin_angela@moe.edu.sg</a>&nbsp;<br>
 </td>
@@ -93,6 +92,11 @@ third_nav_title: Teaching Staff
 <td>&nbsp;</td>
 <td style="text-align: center;">&nbsp;Mr Tan Weiqiang</td>
 <td style="text-align: center;"><a href="mailto:tan_weiqiang@moe.edu.sg" target="">tan_weiqiang@moe.edu.sg</a><br></td>
+</tr>
+	<tr>
+<td>&nbsp;</td>
+<td style="text-align: center;">&nbsp;Mdm Joyce Liew</td>
+<td style="text-align: center;"><a href="mailto:liew_yeow_wah_joyce@moe.edu.sg" target="">liew_yeow_wah_joyce@moe.edu.sg</a><br></td>
 </tr>
 <tr>
 <td colspan="3">&nbsp; &nbsp; &nbsp; &nbsp;
