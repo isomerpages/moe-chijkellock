@@ -14,7 +14,7 @@ Attendance is <b>compulsory</b> at every CCA session. If a student is absent fro
 </p>
 
 <p>Students are expected to achieve a minimum of 80% of CCA attendance for the year.<br>
-Students <b>are strongly encouraged to</b> stay in the same CCA till graduation at Primary 6. Any request for change of CCA is subject to approval on a case-by-case basis. The following documents need to be submitted to SH/PE & CCA for review: <br>
+Students <b>are strongly encouraged to</b> stay in the same CCA till graduation at Primary 6. Any request for change of CCA is subject to approval on a case-by-case basis. The following documents need to be submitted to SH/PE &amp; CCA for review: <br>
 1)	Letter or Email request, together with a medical certificate stating the medical condition which hinders the continuation in the student’s current CCA. <br>
 2)	Completed Request for Change of CCA Form (if request is approved)
 </p>
@@ -45,4 +45,4 @@ Students <b>are strongly encouraged to</b> stay in the same CCA till graduation 
 Students <u>who are not in a Talent Development CCA </u>will participate in a CCA selection exercise. They are required to select their top 4 recreational CCA choices in order of preference. <br>
 
 In the event that all 4 choices of CCA choices are oversubscribed, the school will inform parents so that parents can work with their child in selecting another CCA. </p>
-![](/images/2023/OfferedCCA2023.png)
+![](/images/2023/ccaoffer_2023v2.png)
