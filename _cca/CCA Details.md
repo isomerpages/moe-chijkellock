@@ -13,11 +13,6 @@ description: ""
     <td>Friday <br> 7.30am - 9.30am</td>
   </tr>
 		<tr>
-    <td>Cookery</td>
-    <td>Mdm He Na <br> Mdm Wang Gui Yun</td>
-    <td>Friday <br> 7.30am - 9.30am</td>
-  </tr>
-		<tr>
     <td>Board Games</td>
     <td>Mdm Woo Siok Hwee<br> Ms Rachael Pereira<br> Ms Mariam</td>
     <td>Friday <br> 7.30am - 9.30am</td>
