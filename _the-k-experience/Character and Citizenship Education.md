@@ -7,8 +7,8 @@ description: ""
 <p align="justify">We aim to inculcate in our students school values, enabling them to become concerned citizens with the strength of character who will step forward to lead and make a difference. </p>
 <h4>Mission </h4>
 <p align="justify">A Christ-centred learning community where all work together to educate, nurture and develop future-ready, values-centred citizens of tomorrow. </p>
-<h4>Pilosophy</h4>
-We believe that every child has the potential to live a purposeful life as an individual,  a family member, a friend and a citizen of Singapore and the world. As a school, we can build the character of our students and develop them in the character and citizenship competencies and dispositions that will enable them to make a positive impact on others by contributing to society. <p></p>
+<h4>Philosophy</h4>
+<p>We believe that every child has the potential to live a purposeful life as an individual,  a family member, a friend and a citizen of Singapore and the world. As a school, we can build the character of our students and develop them in the character and citizenship competencies and dispositions that will enable them to make a positive impact on others by contributing to society.</p>
 <h4>Curriculum</h4>
 <p align="justify">As a part of the total curriculum, classroom lessons for CCE focus on the explicit teaching and learning of values and social-emotional competencies, as well as building and strengthening relationships with fellow students and teachers. CCE in the classroom comprises CCE(FTGP), CCE(MTL) and Programme for Active Learning (PAL). <br><br>
 <img src="/images/2023/CCE/CCE_1.jpg"><br>
@@ -30,8 +30,9 @@ Values in Action include everyday responsibilities such as tidying their own wor
 Education and Career Guidance enables students to make informed school choices based on their values, strengths, interests and skills through secondary school talks, vocation talks and experiences that provide opportunities to build their self-awareness. <br><br>
 	<img src="/images/2023/CCE/CCE_6.jpg"><br>
 National Commemorative Days enable students to learn about the important milestones of Singapore’s history and how they can play their part to keep Singapore diverse and united.
-Student Leadership Development <br><br>
-		<img src="/images/2023/CCE/CCE_12.jpg"><br>
+<br><br>
+		<img src="/images/2023/CCE/CCE_12.jpg">
+	Student Leadership Development <br><br>
 In CHIJ Kellock, we believe that all students can be a leader and leadership development of all students is aligned to her vision and they are structured in 3 tiers:<br>
 Tier 1: Leadership for all Kellock students;<br>
 Tier 2: Leadership for Kellock student leaders;<br>
