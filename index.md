@@ -25,4 +25,11 @@ sections:
           url: /forteachers/
       background: /images/2023/proposedbanner10.gif
       url: https://www.facebook.com/100071389479078
+  - infopic:
+      title: Teacher's Day Visit
+      description: In regards to the visitation during Teacher' Day
+      button: Read More
+      url: https://docs.google.com/presentation/d/e/2PACX-1vSzSIMKwZtzq802RTM87IoitqlcXREuzbrw2VE-MPj7-KxR9s_LTFuonVTmAoyPl0LJ-TOhU_8d7kfW/pub?start=false&loop=false&delayms=3000
+      image: /images/teachersdayvisit.jpg
+      alt: Image alt text
 ---
