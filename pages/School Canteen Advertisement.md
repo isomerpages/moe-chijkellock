@@ -11,7 +11,7 @@ description: ""
 		</td>		
 	</tr>
 	<tr>
-		<td>Japanese or Korean Stall
+		<td>Japanese or Korean Stall - Available
 		</td>	
 	</tr>
 		<tr>
