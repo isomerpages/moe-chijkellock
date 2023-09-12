@@ -15,7 +15,7 @@ description: ""
 		</td>	
 	</tr>
 		<tr>
-		<td>Chinese mixed rice
+		<td>Chinese mixed rice - Available
 			</td>	
 	</tr>
 	</tbody>
