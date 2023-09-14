@@ -32,7 +32,7 @@ description: ""
 <td style="text-align: center;" colspan="4" bgcolor="#c9e9f6"><b>Operation Support Officer</b>
 </td>
 </tr>
-<tr><td style="text-align: center;">Mdm Chen Qiulan&nbsp;&nbsp;</td><td style="text-align: center;">Mdm Christina Pranom Tiong&nbsp;&nbsp;</td><td style="text-align: center;">Mr Vincent&nbsp;</td><td style="text-align: center;">Mr Ken Chan&nbsp;</td></tr>
+<tr><td style="text-align: center;">Mdm Chen Qiulan&nbsp;&nbsp;</td><td style="text-align: center;">Mdm Christina Pranom Tiong&nbsp;&nbsp;</td><td style="text-align: center;">Mr Vincent&nbsp;</td><td style="text-align: center;"></td></tr>
 
 <tr>
 <td style="text-align: center;" colspan="4"><br></td>
