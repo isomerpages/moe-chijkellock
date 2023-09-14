@@ -4,6 +4,7 @@ permalink: /moe-chijkellock/quick-links/
 description: ""
 ---
 <ul>
+	<li><strong><a href="https://chijkellock.moe.edu.sg/p1-orientation-2024-notice/" target="">P1 Orientation 2024 Notice</a></strong></li><br>
 	<li><strong><a href="https://sites.google.com/moe.edu.sg/chijkellockvirtualtour2020/home" target="">Virtual Open House</a></strong></li>
 <li><strong><a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html" target="_blank" rel="noopener">My Skills Future</a></strong></li>
 <li><strong><a href="https://vle.learning.moe.edu.sg/login" target="_blank" rel="noopener">Student Learning Space (SLS)</a></strong></li>
