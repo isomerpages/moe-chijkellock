@@ -55,13 +55,6 @@ description: ""
 </td>
 <td style="text-align: center;"><a target="" href="mailto:rose_anne_perez_macalalad@moe.edu.sg">Ms Rose Macalalad&nbsp;</a>
 </td>
-<td style="text-align: center;">Mr Sarvin</td>
-</tr>
-<tr>
-<td>
-</td>
-<td>
-</td>
 <td style="text-align: center;">Mr Ahmad</td>
 </tr>
 </tbody>
