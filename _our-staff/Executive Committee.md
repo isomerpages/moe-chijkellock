@@ -237,9 +237,11 @@ description: ""
 </td>
 <td style="text-align: center;" width="208">
 <p>Ms Koh Wee Mong</p>
+<p>Ms Audrey Oh</p>
 </td>
 <td style="text-align: center;" width="340">
 <p><a href="mailto:koh_wee_mong@moe.edu.sg" target="">koh_wee_mong@moe.edu.sg&nbsp;</a></p>
+	<br><br><br><p><a href="mailto:oh_chu_mei@moe.edu.sg" target="">oh_chu_mei@moe.edu.sg;</a></p>
 </td>
 </tr>
 <tr>
