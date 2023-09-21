@@ -66,6 +66,11 @@ third_nav_title: Teaching Staff
 <td style="text-align: center;">Mdm Wong Foong Li<br></td>
 <td style="text-align: center;"><a href="mailto:wong_foong_li@moe.edu.sg" target="">wong_foong_li@moe.edu.sg</a><br></td>
 </tr>
+	<tr>
+<td>&nbsp;</td>
+<td style="text-align: center;">Ms Audrey Oh<br></td>
+<td style="text-align: center;"><a href="mailto:oh_chu_mei@moe.edu.sg" target="">oh_chu_mei@moe.edu.sg</a><br></td>
+</tr>
 <tr>
 <td colspan="3">&nbsp; &nbsp; &nbsp; &nbsp;</td>
 </tr>
