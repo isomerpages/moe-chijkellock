@@ -36,6 +36,10 @@ description: ""
 		<tr><td>Term 4</td>
 <td><a target="" href="/files/2023_Files/Kbites/kbites%20sep%202023_30%20august.pdf"><strong> September </strong></a></td>
 </tr>
+	<tr>
+<td>&nbsp;</td>
+<td><a rel="noopener" target="_blank" href="/files/2023_Files/Kbites/kbites%20oct%202023%20updated%20on%2029%20sep.pdf"><strong>October</strong></a></td>
+</tr>
 </tbody>
 </table>
 
