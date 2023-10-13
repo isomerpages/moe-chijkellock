@@ -27,7 +27,7 @@ description: ""
 <td style="text-align: center;" colspan="4" bgcolor="#c9e9f6"><b>Corporate Support Officer&nbsp;</b>
 </td>
 </tr>
-<tr><td style="text-align: center;">&nbsp;Ms Joanna Leong&nbsp;</td><td style="text-align: center;">&nbsp;Mr David Lau</td><td style="text-align: center;">&nbsp;Ms Teresa Liow</td><td style="text-align: center;">Mdm Evelyn Cheong&nbsp;</td></tr>
+<tr><td style="text-align: center;">&nbsp;Ms Joanna Leong&nbsp;</td><td style="text-align: center;">&nbsp;Mr David Lau</td><td style="text-align: center;">Mdm Evelyn Cheong&nbsp;</td></tr>
 <tr>
 <td style="text-align: center;" colspan="4" bgcolor="#c9e9f6"><b>Operation Support Officer</b>
 </td>
