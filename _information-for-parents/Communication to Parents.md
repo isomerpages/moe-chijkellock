@@ -2,6 +2,7 @@
 title: Communication to Parents
 permalink: /parents-portal/communication-to-parents/
 description: ""
+variant: markdown
 ---
 <h4><strong>Other Matters</strong></h4>
 <p><strong><a href="https://form.gov.sg/64658736a8a52700122ee49f"> - CHIJ Kellock Waiting List</a>
@@ -39,6 +40,10 @@ description: ""
 	<tr>
 <td>&nbsp;</td>
 <td><a rel="noopener" target="_blank" href="/files/2023_Files/Kbites/kbites%20oct%202023%20updated%20on%2029%20sep.pdf"><strong>October</strong></a></td>
+</tr>
+	<tr>
+<td>&nbsp;</td>
+<td><a rel="noopener" target="_blank" href="/files/2023_Files/Kbites/kbites%20nov&amp;dec%202023_updated%20on%202%20nov.pdf"><strong>November - October</strong></a></td>
 </tr>
 </tbody>
 </table>
