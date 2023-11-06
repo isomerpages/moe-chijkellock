@@ -7,8 +7,24 @@ variant: markdown
 <h4><strong>Other Matters</strong></h4>
 <p><strong><a href="https://form.gov.sg/64658736a8a52700122ee49f"> - CHIJ Kellock Waiting List</a>
 	</strong></p>
+
 <h4><strong>Booklist</strong></h4>
+
 <p><strong><a target="" href="/files/2023_Files/pone%20booklist.pdf">P1 Booklist 2024</a><br></strong></p>
+
+<p><strong><a target="" href="/files/2023_Files/p2%20booklist.pdf">P2 Booklist 2024</a><br></strong></p>
+
+<p><strong><a target="" href="/files/2023_Files/p3%20booklist.pdf">P3 Booklist 2024</a><br></strong></p>
+
+<p><strong><a target="" href="/files/2023_Files/p4%20booklist.pdf">P4 Booklist 2024</a><br></strong></p>
+
+<p><strong><a target="" href="/files/2023_Files/p5%20booklist.pdf">P5 Booklist 2024</a><br></strong></p>
+
+<p><strong><a target="" href="/files/2023_Files/p5%20(fdn).pdf">P5 Foundation Booklist 2024</a><br></strong></p>
+
+<p><strong><a target="" href="/files/2023_Files/p6%20booklist.pdf">P6 Booklist 2024</a><br></strong></p>
+
+<p><strong><a target="" href="/files/2023_Files/p6%20(fdn)booklist.pdf">P6 Foundation Booklist 2024</a><br></strong></p>
 
 <h4><strong>2023</strong></h4>
 <p><strong>K-Bites</strong></p>
