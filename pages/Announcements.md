@@ -2,8 +2,10 @@
 title: Announcements
 permalink: /moe-chijkellock/quick-links/
 description: ""
+variant: markdown
 ---
 <ul>
+		<li><strong><a href="/files/2023_Files/6_Kellock___2023_Year_End_Message_from_IJBOM_Chairperson.pdf" target="">&nbsp;2023 Year-End Message from Chairperson/IJ Board of Management</a></strong></li>
 	<li><strong><a href="https://chijkellock.moe.edu.sg/p1-orientation-2024-notice/" target="">P1 Orientation 2024 Notice</a></strong></li>
 	<li><strong><a href="https://sites.google.com/moe.edu.sg/chijkellockvirtualtour2020/home" target="">Virtual Open House</a></strong></li>
 <li><strong><a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html" target="_blank" rel="noopener">My Skills Future</a></strong></li>
