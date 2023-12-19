@@ -2,6 +2,7 @@
 title: Character and Citizenship Education
 permalink: /the-k-experience/cce/cce/
 description: ""
+variant: markdown
 ---
 <h4>Vision</h4>
 <p align="justify">We aim to inculcate in our students school values, enabling them to become concerned citizens with the strength of character who will step forward to lead and make a difference. </p>
