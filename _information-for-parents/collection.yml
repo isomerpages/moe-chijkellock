@@ -2,7 +2,6 @@ collections:
   information-for-parents:
     output: true
     order:
-      - Links for Parents.md
       - Parents Support Group/.keep
       - Parents Support Group/Parents Support Group.md
       - Parents Support Group/About Us.md
