@@ -3,39 +3,6 @@ title: Allied Educators
 permalink: /our-staff/teaching-staff/allied-educators/
 description: ""
 third_nav_title: Teaching Staff
+variant: tiptap
 ---
-<table>
-<tbody>
-<tr>
-<td style="text-align: center;"><b>Designation</b>
-</td>
-<td style="text-align: center;"><b>Name&nbsp;</b>
-</td>
-<td style="text-align: center;"><b>Email</b>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;">School Counsellor
-</td>
-<td style="text-align: center;">Mrs Tay - Khoo Kim Kiow&nbsp;
-</td>
-<td style="text-align: center;"><a href="mailto:khoo_kim_kiow@moe.edu.sg" target="">khoo_kim_kiow@moe.edu.sg&nbsp;</a>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;">Senior SEN Officer 
-</td>
-<td style="text-align: center;">&nbsp;Ms Jeannie Ho
-</td>
-<td style="text-align: center;">&nbsp;<a href="mailto:ho_sook_har_jeannie@moe.edu.sg" target="">ho_sook_har_jeannie@moe.edu.sg</a>
-</td>
-</tr>
-<tr><td style="text-align: center;">SEN Officer</td><td style="text-align: center;">Ms Penny Tan&nbsp;</td><td style="text-align: center;"><a href="mailto:penny_tan_pin@moe.edu.sg" target="">penny_tan_pin@moe.edu.sg</a>&nbsp;&nbsp;</td></tr><tr>
-<td style="text-align: center;">SEN Officer
-</td>
-<td style="text-align: center;">Ms Samantha Lee</td>
-<td style="text-align: center;"><a href="mailto:samantha_lee_yanmei@moe.edu.sg" target="">samantha_lee_yanmei@moe.edu.sg</a>&nbsp;
-</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td rowspan="1" colspan="1"><p><strong>Designation</strong></p></td><td rowspan="1" colspan="1"><p><strong>Name&nbsp;</strong></p></td><td rowspan="1" colspan="1"><p><strong>Email</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p>School Counsellor</p></td><td rowspan="1" colspan="1"><p>Mrs Tay - Khoo Kim Kiow&nbsp;</p></td><td rowspan="1" colspan="1"><p><a href="mailto:khoo_kim_kiow@moe.edu.sg" rel="noopener noreferrer nofollow" target="">khoo_kim_kiow@moe.edu.sg&nbsp;</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Senior SEN Officer</p></td><td rowspan="1" colspan="1"><p>&nbsp;Ms Jeannie Ho</p></td><td rowspan="1" colspan="1"><p>&nbsp;<a href="mailto:ho_sook_har_jeannie@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ho_sook_har_jeannie@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>SEN Officer</p></td><td rowspan="1" colspan="1"><p>Ms Penny Tan&nbsp;</p></td><td rowspan="1" colspan="1"><p><a href="mailto:penny_tan_pin@moe.edu.sg" rel="noopener noreferrer nofollow" target="">penny_tan_pin@moe.edu.sg</a>&nbsp;&nbsp;</p></td></tr><tr><td rowspan="1" colspan="1"><p>SEN Officer</p></td><td rowspan="1" colspan="1"><p>Ms Samantha Lee</p></td><td rowspan="1" colspan="1"><p><a href="mailto:samantha_lee_yanmei@moe.edu.sg" rel="noopener noreferrer nofollow" target="">samantha_lee_yanmei@moe.edu.sg</a>&nbsp;</p></td></tr></tbody></table><p></p>

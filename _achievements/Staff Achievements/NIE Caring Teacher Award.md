@@ -3,42 +3,6 @@ title: NIE Caring Teacher Award
 permalink: /highlights/achievements/staff-achievements/nie-caring-teacher-award/
 description: ""
 third_nav_title: Staff Achievements
+variant: tiptap
 ---
-<p>The NIE Caring Teacher Awards is a biennial event that pays tribute to teachers who show care and concern for the holistic development of their students, and go the extra mile to ensure their charges grow up to be confident and independent learners.</p>
-<p><strong><u>School Level Winners</u></strong></p>
-<table>
-<tbody>
-<tr>
-<td><strong>2016</strong></td>
-<td>
-<ul>
-<li>Ms Lui Ling</li>
-<li>Ms Esther Chia</li>
-<li>Ms Koh Wee Mong</li>
-<li>Ms Lim Si Min</li>
-<li>Ms Jean Lim Yi Jun</li>
-</ul>
-</td>
-<td><strong>2018</strong></td>
-<td>
-<ul>
-<li>Ms Abirami D/O Archunan</li>
-<li>Ms Melissa Cheng</li>
-<li>Ms Marlini Ismail&nbsp;</li>
-<li>Ms Audrey Oh</li>
-<li>Ms Imelda Tan</li>
-</ul>
-</td>
-<td><strong>2020</strong></td>
-<td>
-<ul>
-<li>Ms Christina Tan</li>
-<li>Ms Arif Hong Chu Sen</li>
-<li>MS Adela Chua</li>
-<li>Ms Evangeline Choong</li>
-<li>Ms Antoinette Teo</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
+<p>The NIE Caring Teacher Awards is a biennial event that pays tribute to teachers who show care and concern for the holistic development of their students, and go the extra mile to ensure their charges grow up to be confident and independent learners.</p><p><strong><u>School Level Winners</u></strong></p><table><tbody><tr><td rowspan="1" colspan="1"><p><strong>2016</strong></p></td><td rowspan="1" colspan="1"><ul data-tight="true" class="tight"><li><p>Ms Lui Ling</p></li><li><p>Ms Esther Chia</p></li><li><p>Ms Koh Wee Mong</p></li><li><p>Ms Lim Si Min</p></li><li><p>Ms Jean Lim Yi Jun</p></li></ul></td><td rowspan="1" colspan="1"><p><strong>2018</strong></p></td><td rowspan="1" colspan="1"><ul data-tight="true" class="tight"><li><p>Ms Abirami D/O Archunan</p></li><li><p>Ms Melissa Cheng</p></li><li><p>Ms Marlini Ismail&nbsp;</p></li><li><p>Ms Audrey Oh</p></li><li><p>Ms Imelda Tan</p></li></ul></td><td rowspan="1" colspan="1"><p><strong>2020</strong></p></td><td rowspan="1" colspan="1"><ul data-tight="true" class="tight"><li><p>Ms Christina Tan</p></li><li><p>Ms Arif Hong Chu Sen</p></li><li><p>MS Adela Chua</p></li><li><p>Ms Evangeline Choong</p></li><li><p>Ms Antoinette Teo</p></li></ul></td></tr></tbody></table><p></p>

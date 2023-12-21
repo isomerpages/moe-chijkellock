@@ -2,24 +2,6 @@
 title: Principal's Message
 permalink: /about-us/principals-message/
 description: ""
+variant: tiptap
 ---
-<p align="justify"> Dear Parents and My Dear Girls,</p>
-  
-<p align="justify"> Here’s wishing you God’s abundant blessings! </p>
-
-<p align="justify">Anchored in our CHIJ Mission to be ‘A Christ-centred school community where all work together for the promotion of truth, justice, freedom and love, with special reference to the needs of the persons who are disadvantaged in any way’,  Kellock will persevere in the pursuit of ensuring that our girls, as women leaders with a voice of their own, are ready to face their future confidently and competently, while remaining soundly anchored in our IJ values. We will develop in our girls both the hard and soft skills to navigate the complexities and uncertainties of their future world. As a school and as a community, we will provide our girls with the strong fundamentals, experiences, values, competencies, skills and dispositions that they need to embrace their future.  </p>
-
-<p align="justify">As a learning community, we are cognizant of the fact that children learn through the many experiences and encounters that they have, both at the individual and community levels. They are not experts yet and will make mistakes as they grow cognitively, socially, emotionally, physically and spiritually. We, as the significant adults in their lives, have to work closely together to allow them the space to grow, and provide them with the skills, guidance and love to blossom well and become a blessing.</p>  
-
-<p align="justify">Kellock is a close-knit community of staff, parents, alumni and partners who work hand-in-hand to support the growth of our girls and love them unconditionally. We value our partnership with all our stakeholders who are an important part of the Kellock family and we look forward to your continued support in bringing out the best in our girls so that they will be confident women who are Christ-centred and Future-oriented. </p> 
-
-
-<p align="justify">Let us welcome the New Year joyously and seek God’s continued blessings over the CHIJ Kellock family.</p>
-
-<p align="justify">A very happy and blessed New Year!</p>
-
-
-<p align="justify">Mrs Shanthi Suraj Nair <br>
-Principal <br>
-‘Simple in Virtue; Steadfast in Duty’
-</p>
+<p>Dear Parents and My Dear Girls,</p><p>Here’s wishing you God’s abundant blessings!</p><p>Anchored in our CHIJ Mission to be ‘A Christ-centred school community where all work together for the promotion of truth, justice, freedom and love, with special reference to the needs of the persons who are disadvantaged in any way’,&nbsp; Kellock will persevere in the pursuit of ensuring that our girls, as women leaders with a voice of their own, are ready to face their future confidently and competently, while remaining soundly anchored in our IJ values. We will develop in our girls both the hard and soft skills to navigate the complexities and uncertainties of their future world. As a school and as a community, we will provide our girls with the strong fundamentals, experiences, values, competencies, skills and dispositions that they need to embrace their future.</p><p>As a learning community, we are cognizant of the fact that children learn through the many experiences and encounters that they have, both at the individual and community levels. They are not experts yet and will make mistakes as they grow cognitively, socially, emotionally, physically and spiritually. We, as the significant adults in their lives, have to work closely together to allow them the space to grow, and provide them with the skills, guidance and love to blossom well and become a blessing.</p><p>Kellock is a close-knit community of staff, parents, alumni and partners who work hand-in-hand to support the growth of our girls and love them unconditionally. We value our partnership with all our stakeholders who are an important part of the Kellock family and we look forward to your continued support in bringing out the best in our girls so that they will be confident women who are Christ-centred and Future-oriented.</p><p>Let us welcome the New Year joyously and seek God’s continued blessings over the CHIJ Kellock family.</p><p>A very happy and blessed New Year!</p><p>Mrs Shanthi Suraj Nair&nbsp;<br>Principal&nbsp;<br>‘Simple in Virtue; Steadfast in Duty’</p>
