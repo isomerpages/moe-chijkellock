@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - CCA Gallery.md
       - CCA@Kellock.md
       - CCA Details.md
       - CCA Schedule.md
