@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - CCA@Kellock.md
-      - CCA Details 2.md
+      - CCA Details.md
       - CCA Schedule.md
       - CCA Gallery.md
