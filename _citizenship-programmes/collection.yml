@@ -1,0 +1,14 @@
+collections:
+  citizenship-programmes:
+    output: true
+    order:
+      - NE Commemorative Events.md
+      - NE Ambassadors/.keep
+      - NE Ambassadors/NE Ambassadors.md
+      - NE Ambassadors/2019.md
+      - NE Ambassadors/2018.md
+      - Social Studies/.keep
+      - Social Studies/Social Studies.md
+      - Social Studies/2019 Social Studies Learning Journeys.md
+      - Social Studies/2018 Social Studies Learning Journeys.md
+      - Rooted in Citizenship.md

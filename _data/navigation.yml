@@ -1,0 +1,19 @@
+logo: /images/2023/websitelogobanner2.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Our Staff
+    url: /our-staff
+    sublinks:
+      - title: Executive Committee
+        url: /our-staff/executive-committee
+      - title: Teaching Staff
+        url: /our-staff/teaching-staff/primary-1
+      - title: Support Staff
+        url: /our-staff/support-staff
+  - title: K-Experience
+    collection: the-k-experience
+  - title: CCA
+    collection: cca
+  - title: Information For Parents
+    collection: information-for-parents

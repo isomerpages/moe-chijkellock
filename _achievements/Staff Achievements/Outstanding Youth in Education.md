@@ -1,0 +1,8 @@
+---
+title: Outstanding Youth in Education
+permalink: /highlights/achievements/staff-achievements/outstanding-youth-in-education/
+description: ""
+third_nav_title: Staff Achievements
+variant: tiptap
+---
+<p>The Outstanding Youth in Education Award is a national award that recognises young teachers with a deep passion for teaching and utmost commitment to the character, moral and citizenship development of students, in order to bring out their full potential.</p><table><tbody><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 20%;" height="auto" width="100%" src="/images/oye1.jpg"></div></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Audrey Oh<br>Outstanding Youth in Education Award&nbsp;<br>(2021 Finalist)</p></td></tr><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 20%;" height="auto" width="100%" src="/images/oye2.jpg"></div></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Abirami d/o Archunan<br>Outstanding Youth in Education Award&nbsp;<br>(2019 Winner)</p></td></tr><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 20%;" height="auto" width="100%" src="/images/oye3.jpg"></div></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Chan Wen Hui<br>Outstanding Youth in Education Award&nbsp;<br>(2018 Finalist)</p></td></tr><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 20%;" height="auto" width="100%" src="/images/oye4.jpg"></div></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Ai Ling Low<br>Outstanding Youth in Education Award&nbsp;<br>(2017 Finalist)</p></td></tr></tbody></table><p></p>

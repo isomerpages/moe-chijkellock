@@ -1,0 +1,15 @@
+---
+title: 2019 P4 Social Studies Learning Journey
+permalink: /2019-social-studies-learning-journeys/2019-p4-social-studies-learning-journey/
+description: ""
+third_nav_title: 2019 SS Learning Journeys
+---
+<h4><strong>Primary 4 Civic District and Museum-based Learning Journey</strong></h4>
+<p>As part of the school&rsquo;s efforts in creating authentic learning experiences for our students, a Learning Journey to the Civic District and National Gallery was organised for our Primary 4 students. This inter-disciplinary learning journey weaved in the subjects of Social Studies and Art to show students how different subjects can be relatable to each other &ndash; both on paper and in real life.</p>
+<p>The Civic District is commonly known as the historic birthplace of Modern Singapore. It was started by Sir Stamford Raffles in 1822 as a masterplan to build new buildings that would lay the foundation of a thriving trade post.</p>
+<img style="width: 50%;" src="/images/2019p41.jpg" align = "right" />
+<p>As this year marks our nation&rsquo;s bicentennial year, four new statues of Sang Nila Utama, Tan Tock Seng, Munshi Abdullah, and Naraina Pillai were created to stand alongside the Sir Stamford Raffles statue at the Raffles Landing Site along the Singapore River. Students learnt about the contributions of our forefathers towards the present-day Singapore from the information on-site and through their teachers. The learning and reflection were also recorded in each students&rsquo; individual learning journey booklet. Through this experience, we also hope to inculcate the values of gratitude and appreciation in our students.&nbsp;</p>
+<img style="width: 50%;" src="/images/2019p42.jpg" align = "right" />
+<p>Through the museum-based learning in the National Gallery, our students got to appreciate various artworks created by Nanyang artists. Art appreciation teaches many important skills such as active listening, observing and responding to multiple perspectives. Our students responded to the various art pieces with 3 key reflection components &ndash;&nbsp;<em>3 things in the artwork that interest me, 2 things that the artist was trying to express through the artwork and 1 question I have for the artist.</em></p>
+<p>Surrounded by rare, valuable and historically important objects, it is important for our students to practise appropriate museum etiquette. Our students were taught what museum etiquette is and how to practise such etiquette in the museum prior to the learning journey. This is to ensure that the heritage, narrative and safety of those objects are protected in order to preserve the cultural experience for all visitors.&nbsp;</p>
+<p>Our students, teachers and parent volunteers enjoyed their time at the Civic District and National Gallery tremendously. Remembering the words of our founder, Blessed Nicolas Barre &ndash; &lsquo;The gifts given to you are for others&rsquo;, we hope that through this unforgettable experience, our students will be inspired to contribute like our forefathers did in the name of love and gratitude.</p>

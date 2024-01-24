@@ -1,0 +1,7 @@
+---
+title: Art Club Photos
+permalink: /ccas/creative-arts/art-club/art-club-photos/
+description: ""
+variant: tiptap
+---
+<div class="iframe-wrapper"><iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTQr9dkoAQK0SgCVxkCXO8LngGbZZzCmVRczhCpYcXOQ1vS55oNCtxnbQHrDLQi0J9MPpHbhyxSEs-4/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe></div><p><strong>2020 Art Club Photos</strong></p><div class="iframe-wrapper"><iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS3Of2nBnlp2Djb9j1gB8YiYwx7GjAEH8B4d0Ca0kMY9g1zyOvv-qCOyr8C63-GpfHP5GaJS1KU-Zlw/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe></div><p><strong>2017 Art Club Photos</strong></p><div class="iframe-wrapper"><iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRRMwnLUClOitW2Xi-MMk3T8pMWqNhfkBbgrwq7prnIYnvMBZllO9_fGCGJUC2uTOq54ZkqPWTz00tH/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe></div><p><strong>2019 Art Club Photos</strong></p>
