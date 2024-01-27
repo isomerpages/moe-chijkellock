@@ -93,7 +93,7 @@ lessons need to complete an opt-out form. This hard copy form is downloadable
 opt-out form via the link <a href="https://form.gov.sg/61da98762efd780012e5c1b0" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed
 opt-out form is to be submitted by Friday, 9 February 2024. Otherwise,
 your children are expected to attend the programme.</p>
-<p>Parents can email Mrs Hannah Yuen at ong_choon_wee@moe.edu.sg for a discussion
+<p>Parents can email Mrs Hannah Yuen at <a href="ong_choon_wee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_choon_wee@moe.edu.sg</a> for a discussion
 or to seek clarification about the school’s Sexuality Education programme.</p>
 <p>
 <br>Thank you.</p>
