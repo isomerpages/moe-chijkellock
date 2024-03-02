@@ -62,7 +62,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Kbites_MAR_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">March</a>
+<p><strong><a href="/files/Kbites_MAR_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">March</a></strong>
 </p>
 </td>
 </tr>
