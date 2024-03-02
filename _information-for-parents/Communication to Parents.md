@@ -59,6 +59,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/files/Kbites_MAR_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">March</a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Term 2</strong>
 </p>
 </td>
