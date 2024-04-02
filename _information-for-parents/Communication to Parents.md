@@ -72,7 +72,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/files/Kbytes_APR_MAY_JUN_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">April, May and June</a></strong>
+</p>
 </td>
 </tr>
 <tr>
