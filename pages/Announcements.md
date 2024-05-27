@@ -2,22 +2,65 @@
 title: Announcements
 permalink: /moe-chijkellock/quick-links/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<ul>
-		<li><strong><a href="/files/2023_Files/6_Kellock___2023_Year_End_Message_from_IJBOM_Chairperson.pdf" target="">&nbsp;2023 Year-End Message from Chairperson/IJ Board of Management</a></strong></li>
-	<li><strong><a href="https://chijkellock.moe.edu.sg/p1-orientation-2024-notice/" target="">P1 Orientation 2024 Notice</a></strong></li>
-	<li><strong><a href="https://sites.google.com/moe.edu.sg/chijkellockvirtualtour2020/home" target="">Virtual Open House</a></strong></li>
-<li><strong><a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html" target="_blank" rel="noopener">My Skills Future</a></strong></li>
-<li><strong><a href="https://vle.learning.moe.edu.sg/login" target="_blank" rel="noopener">Student Learning Space (SLS)</a></strong></li>
-<li><strong><a href="/parents-portal/communication-to-parents" target="_blank" rel="noopener">Communication to Parents</a></strong></li>
-<li><strong><a href="/chijkellock/parents-gateway" target="_blank" rel="noopener">Parents Gateway</a></strong></li>
-<li><strong><a href="https://www.moe.gov.sg/primary/p1-registration" target="_blank" rel="noopener">P1 Registration (MOE)</a></strong></li>
-	<li><strong><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" target="">Financial Assistance (MOE)</a></strong></li>
-<li><strong><a href="https://schoolibrary.moe.edu.sg/chijkellock/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" target="_blank" rel="noopener">Access CHIJ Kellock Library's OPAC here</a></strong></li>
-<li><strong><a href="https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" target="_blank" rel="noopener">Access School E-Resource Repository</a></strong></li>
-<li><strong><a href="https://eresources.nlb.gov.sg/main/Help/Overdrive#libby_app" target="_blank" rel="noopener">A Step-by-Step Guide to borrow NLB E-books</a></strong></li>
-<li><strong><a href="https://view.genial.ly/62951da156a41b0013669f7a/dossier-magazine-dossier" target="_blank" rel="noopener">S.N.@C.K Issue 1 (2022)</a></strong></li>		
-	<li><strong><a href="https://view.genial.ly/63870c980bebe600195ba9dd/dossier-snack-issue-2-dec-2022" target="_blank" rel="noopener">S.N.@C.K Issue 2 (2022)</a></strong></li>		
-	<li><strong><a href="https://chijkellock.moe.edu.sg/schoolcanteen1/" target="">School Canteen Advertisement</a></strong></li>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><a href="https://sites.google.com/moe.edu.sg/chijkellockvirtualtour2020/home" rel="noopener noreferrer nofollow" target="">Virtual Open House</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html" rel="noopener" target="_blank">My Skills Future</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://vle.learning.moe.edu.sg/login" rel="noopener" target="_blank">Student Learning Space (SLS)</a></strong>
+</p>
+</li>
+<li>
+<p><strong>MIMS self service password reset</strong>
+</p>
+</li>
+<li>
+<p><strong><a href="/parents-portal/communication-to-parents" rel="noopener" target="_blank">Communication to Parents</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="/chijkellock/parents-gateway" rel="noopener" target="_blank">Parents Gateway</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.moe.gov.sg/primary/p1-registration" rel="noopener" target="_blank">P1 Registration (MOE)</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="">Financial Assistance (MOE)</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://schoolibrary.moe.edu.sg/chijkellock/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" rel="noopener" target="_blank">Access CHIJ Kellock Library's OPAC here</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" rel="noopener" target="_blank">Access School E-Resource Repository</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://eresources.nlb.gov.sg/main/Help/Overdrive#libby_app" rel="noopener" target="_blank">A Step-by-Step Guide to borrow NLB E-books</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://view.genial.ly/62951da156a41b0013669f7a/dossier-magazine-dossier" rel="noopener" target="_blank">S.N.@C.K Issue 1 (2022)</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://view.genial.ly/63870c980bebe600195ba9dd/dossier-snack-issue-2-dec-2022" rel="noopener" target="_blank">S.N.@C.K Issue 2 (2022)</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://chijkellock.moe.edu.sg/schoolcanteen1/" rel="noopener noreferrer nofollow" target="">School Canteen Advertisement</a></strong>
+</p>
+</li>
 </ul>
+<p></p>
