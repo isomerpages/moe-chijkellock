@@ -4,7 +4,6 @@ permalink: /moe-chijkellock/quick-links/
 description: ""
 variant: tiptap
 ---
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong><a href="https://sites.google.com/moe.edu.sg/chijkellockvirtualtour2020/home" rel="noopener noreferrer nofollow" target="">Virtual Open House</a></strong>
@@ -16,6 +15,10 @@ variant: tiptap
 </li>
 <li>
 <p><strong><a href="https://vle.learning.moe.edu.sg/login" rel="noopener" target="_blank">Student Learning Space (SLS)</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.learning.moe.edu.sg/login-troubleshooting/authentication/reset-sls-password-student/" rel="noopener noreferrer nofollow" target="_blank">SLS self service password reset</a></strong>
 </p>
 </li>
 <li>
