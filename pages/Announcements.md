@@ -22,6 +22,10 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><strong><a href="https://www.learning.moe.edu.sg/login-troubleshooting/get-help/contact-sls-helpdesk/" rel="noopener noreferrer nofollow" target="_blank">SLS Helpdesk</a></strong>
+</p>
+</li>
+<li>
 <p><strong><a href="/files/2024 files/mims_student_self_service_password_reset_guide.pdf" rel="noopener noreferrer nofollow" target="_blank">MIMS self service password reset</a></strong>
 </p>
 </li>
