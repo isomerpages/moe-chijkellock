@@ -5,7 +5,12 @@ description: ""
 third_nav_title: Teaching Staff
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -62,10 +67,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chua Poh Leng</p>
+<p>Ms Christine Kwong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_poh_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_poh_leng@moe.edu.sg</a>
+<p><a href="mailto:christine_kwong_pui_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">christine_kwong_pui_leng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -98,11 +103,10 @@ variant: tiptap
 <p>P1 Gloriosa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jiang Ming</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jiang_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jiang_ming@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
