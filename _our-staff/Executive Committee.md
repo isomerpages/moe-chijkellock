@@ -5,7 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>Principal</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -29,7 +33,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Vice Principal</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -62,7 +70,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Head of Department</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -169,23 +182,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Student Management</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Lynette Seet</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;<a href="mailto:seet_tze_lin_lynette@moe.edu.sg" rel="noopener noreferrer nofollow" target="">seet_tze_lin_lynette@moe.edu.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4><strong>Year Head</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -243,7 +248,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Subject Head</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -288,7 +298,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ed Tech (Covering)&nbsp;</strong>
+<p><strong>Ed Tech&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -380,7 +390,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Level Head</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -438,7 +453,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Lead Teacher</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -470,7 +490,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Senior Teacher</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
