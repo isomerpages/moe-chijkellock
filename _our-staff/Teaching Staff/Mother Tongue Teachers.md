@@ -5,7 +5,12 @@ description: ""
 third_nav_title: Teaching Staff
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -33,18 +38,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_foong_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="">wong_foong_li@moe.edu.sg</a>
 <br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chinese</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Jiang Ming</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:jiang_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="">jiang_ming@moe.edu.sg&nbsp;</a>
 </p>
 </td>
 </tr>
@@ -139,17 +132,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wang_guiyun@moe.edu.sg" rel="noopener noreferrer nofollow" target="">wang_guiyun@moe.edu.sg</a>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chinese&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Chua Poh Leng&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chua_poh_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="">chua_poh_leng@moe.edu.sg</a>&nbsp;&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -291,7 +273,7 @@ variant: tiptap
 <p>Ms Nabilah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nabilah_halim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nabilah_halim@moe.edu.sg</a> 
+<p><a href="mailto:nabilah_halim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nabilah_halim@moe.edu.sg</a>
 </p>
 </td>
 </tr>
