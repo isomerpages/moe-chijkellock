@@ -103,10 +103,11 @@ variant: tiptap
 <p>P1 Gloriosa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Audrey Oh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:oh_chu_mei@moe.edu.sg" rel="noopener noreferrer nofollow" target="">oh_chu_mei@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
