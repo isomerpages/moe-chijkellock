@@ -4,7 +4,7 @@ title: Convent of the Holy Infant Jesus (Kellock)
 description: Brief site description here
 image: /images/2023/websitelogobanner2.png
 permalink: /
-notification: This is a notification banner
+notification: ""
 sections:
   - hero:
       key_highlights:
@@ -20,6 +20,6 @@ sections:
         - title: For Teachers
           description: ""
           url: /forteachers/
-      background: /images/2024/Proposed_Banners2.gif
+      background: /images/2024/Proposed_Banners_4.gif
       url: https://www.facebook.com/100071389479078
 ---
