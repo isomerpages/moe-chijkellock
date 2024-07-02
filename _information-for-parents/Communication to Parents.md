@@ -28,7 +28,11 @@ variant: tiptap
 <h4><strong>2024</strong></h4>
 <p><strong>K-Bites</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -82,7 +86,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/files/2024 files/KBytes_JUL_AUG_SEP_2024_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">July, August and September</a></strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -99,7 +104,11 @@ variant: tiptap
 <h4><strong>2023</strong></h4>
 <p><strong>K-Bites</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
