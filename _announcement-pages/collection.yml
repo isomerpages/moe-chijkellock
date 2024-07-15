@@ -2,7 +2,6 @@ collections:
   announcement-pages:
     output: true
     order:
-      - Student Learning Space (SLS).md
       - Parents Gateway.md
       - P1 Orientation 2024 Notice.md
       - Announcements.md
