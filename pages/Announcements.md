@@ -10,6 +10,9 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p>Visitors to the school</p>
+</li>
+<li>
 <p><strong><a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html" rel="noopener" target="_blank">My Skills Future</a></strong>
 </p>
 </li>
