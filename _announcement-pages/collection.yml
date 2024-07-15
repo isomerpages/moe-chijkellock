@@ -2,6 +2,7 @@ collections:
   announcement-pages:
     output: true
     order:
+      - Terms of Use.md
       - Visitors to the school.md
       - Student Learning Space (SLS).md
       - Parents Gateway.md
