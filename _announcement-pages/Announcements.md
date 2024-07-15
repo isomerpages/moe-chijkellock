@@ -10,7 +10,8 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>Visitors to the school</p>
+<p><strong><a href="https://chijkellock.moe.edu.sg/visitors-to-the-school/" rel="noopener noreferrer nofollow" target="_blank">Visitors to the school premises</a></strong>
+</p>
 </li>
 <li>
 <p><strong><a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html" rel="noopener" target="_blank">My Skills Future</a></strong>
