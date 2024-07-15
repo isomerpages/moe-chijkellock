@@ -2,6 +2,7 @@ collections:
   announcement-pages:
     output: true
     order:
+      - privacy.md
       - faq.md
       - School Canteen Advertisement.md
       - Terms of Use.md
