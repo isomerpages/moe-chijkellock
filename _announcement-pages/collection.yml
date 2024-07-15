@@ -2,7 +2,6 @@ collections:
   announcement-pages:
     output: true
     order:
-      - School Canteen Advertisement.md
       - Terms of Use.md
       - Visitors to the school.md
       - Student Learning Space (SLS).md
