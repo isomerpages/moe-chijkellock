@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h4>Bookshop and School Socks</h4>
-<p><strong>Pacific Bookstores Pte Ltd </strong>
+<p><strong>Pacific Bookstores Pte Ltd</strong>
 </p>
 <p>6275 2170 (Tel)</p>
 <p><strong>Operating Hours :</strong> Monday, Tuesday, Wednesday and Friday,
@@ -22,5 +22,4 @@ description: ""
 </p>
 <p>Magdalene Sewing Center Pte. Ltd.
 <br>Address : 5000, Ang Mo Kio Ave 5, Techplace 2, #05-09, Singapore 569870
-<br>Contact No. : 6293 5840</p>
-<p>Operating Hours: Monday to Friday: 9.00am to 5.00pm</p>
+<br>Contact No. : 6293 5840y to Friday: 9.00am to 5.00pm</p>
