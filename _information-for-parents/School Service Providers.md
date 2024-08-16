@@ -14,7 +14,6 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>Pacific Bookstores Pte Ltd</strong>
 </p>
-<p></p>
 <p>Contact No. : 6275 2170</p>
 <p>Operating Hours : 8.30 a.m. - 3.30 p.m.</p>
 </td>
@@ -33,5 +32,5 @@ description: ""
 <br>5000, Ang Mo Kio Ave 5, Techplace 2, #05-09, Singapore 569870</p>
 <p>Contact No.: 6293 5840</p>
 <p></p>
-<h4><strong>School Dental Clinic</strong></h4>
-<p>Contact No.: 8764 7293 (Whatapps only) / 6435 3782</p>
+<h4></h4>
+<p></p>
