@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h4>Bookshop and School Socks</h4>
-<p><strong>Pacific Bookstores Pte Ltd      </strong>
+<p><strong>Pacific Bookstores Pte Ltd    (in CHIJ Kellock)</strong>
 </p>
 <p>Contact No. : 6275 2170</p>
 <p><strong>Operating Hours :</strong> Monday, Tuesday, Wednesday and Friday,
@@ -17,9 +17,7 @@ description: ""
 <br>Contact Person: Mdm Aileen
 <br>Contact No. : 9847 7629
 <br>Fax No. : 6452 2022</p>
-<h4>School Uniform</h4>
-<p><strong>For Uniforms and PE Attire:</strong>
-</p>
+<h4>School Uniform and PE Attire</h4>
 <p><strong>Magdalene Sewing Center Pte. Ltd.</strong> 
 <br>5000, Ang Mo Kio Ave 5, Techplace 2, #05-09, Singapore 569870</p>
 <p></p>
