@@ -2,7 +2,6 @@ collections:
   information-for-parents:
     output: true
     order:
-      - School Service Providers/Communication to Parents.md
       - School Service Providers/.keep
       - Parents Support Group/.keep
       - Parents Support Group/Parents Support Group.md
