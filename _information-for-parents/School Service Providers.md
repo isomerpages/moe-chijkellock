@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h4>Bookshop and School Socks</h4>
-<p><strong>Pacific Bookstores Pte Ltd    (in CHIJ Kellock)</strong>
+<p><strong>Pacific Bookstores Pte Ltd (in CHIJ Kellock)</strong>
 </p>
 <p>Contact No. : 6275 2170</p>
 <p><strong>Operating Hours :</strong> Monday, Tuesday, Wednesday and Friday,
