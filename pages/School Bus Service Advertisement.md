@@ -10,7 +10,8 @@ Procedure below.</p>
 <p><strong>Service Requirements</strong>
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Call for Proposal</p>
+<a href="/files/2024 files/26082024_1__Call_for_Proposals__For_Single_Bus_Service___004_.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal</a>
+</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Terms and Conditions for School Bus Operator to Provide School Bus Services</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
