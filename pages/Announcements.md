@@ -73,5 +73,9 @@ variant: tiptap
 <p><strong><a href="https://chijkellock.moe.edu.sg/schoolcanteen1/" rel="noopener noreferrer nofollow" target="">School Canteen Advertisement</a></strong>
 </p>
 </li>
+<li>
+<p><strong>School Bus Service Advertisement </strong>
+</p>
+</li>
 </ul>
 <p></p>
