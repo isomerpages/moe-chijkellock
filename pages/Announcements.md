@@ -74,7 +74,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong>School Bus Service Advertisement </strong>
+<p><strong><a href="https://chijkellock.moe.edu.sg/school-bus-service-advertisement/" rel="noopener nofollow" target="_blank">School Bus Service Advertisement</a></strong>
 </p>
 </li>
 </ul>
