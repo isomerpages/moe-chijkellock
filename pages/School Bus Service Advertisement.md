@@ -9,7 +9,7 @@ description: ""
 Procedure below.</p>
 <p><strong>Service Requirements</strong>
 </p>
-<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/2024 files/26082024_1__Call_for_Proposals__For_Single_Bus_Service___004_.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal</a></strong>
+<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/2024 files/30082024Call_for_Proposals__For_Single_Bus_Service__updated.pdf" rel="noopener nofollow" target="_blank">Call for Proposal</a></strong>
 </p>
 <p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/2024 files/26082024_2__Information_from_Vendor__For_Single_Bus_Service___004_.pdf" rel="noopener noreferrer nofollow" target="_blank">Terms and Conditions for School Bus Operator to Provide School Bus Services</a></strong>
 </p>
