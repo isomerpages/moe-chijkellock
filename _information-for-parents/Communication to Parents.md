@@ -39,7 +39,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/PH_and_SH_CHIJ_Kellock_2024_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">Public Holiday and School Holiday - Semester 1</a></strong>
+<p><strong><a href="/files/PH_and_SH_CHIJ_Kellock_2024_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">Public and School Holidays - Semester 1</a></strong>
 </p>
 </td>
 </tr>
@@ -82,6 +82,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/files/2024 files/PH_and_SH_CHIJ_Kellock_Sem_2024_Term4__1_.pdf" rel="noopener nofollow" target="_blank">Public and School Holidays - Semester 2</a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Term 3</strong>
 </p>
 </td>
@@ -96,7 +105,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/files/2024 files/KBytes_Oct_Nov_Dec_2024__1_.pdf" rel="noopener nofollow" target="_blank">October, November and December</a></strong>
+</p>
 </td>
 </tr>
 </tbody>
