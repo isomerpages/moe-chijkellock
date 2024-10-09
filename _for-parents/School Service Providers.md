@@ -44,10 +44,12 @@ via SMS.</p>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Up to 15 Seater</p>
+<p><strong>Up to 15 Seater</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>&gt;15 seater</p>
+<p><strong>&gt;15 seater</strong>
+</p>
 </td>
 </tr>
 <tr>
