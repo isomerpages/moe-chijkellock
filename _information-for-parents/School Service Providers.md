@@ -29,10 +29,10 @@ description: ""
 <h4><strong>School Transport Service Provider</strong></h4>
 <p><strong>ACE TRANSIT (S) PTE. LTD.</strong>
 </p>
-<p>Please contact Bus Coordinator Mr. Simon on School Bus transport matters.</p>
-<p>If you are unable to contact Mr. Simon via call, please send him a message
-via SMS.</p>
-<p>HP: 9455 6401</p>
+<p>Please contact Bus Coordinator Mdm. Aileen on School Bus transport matters.</p>
+<p>If you are unable to contact Mdm. Aileen via call, please send her a message
+via WhatsApp.</p>
+<p>HP: 9847 7629</p>
 <p>Email: <a rel="noopener noreferrer nofollow" target="_blank">enquiry@acetransit.com</a>
 </p>
 <p><strong>Period: 1 Jan 2025 to 31 Dec 2026</strong>
