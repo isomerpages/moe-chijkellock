@@ -7,23 +7,10 @@ variant: tiptap
 <h4><strong>Other Matters</strong></h4>
 <p><strong><a href="https://form.gov.sg/64658736a8a52700122ee49f" rel="noopener noreferrer nofollow" target="_blank">- CHIJ Kellock Waiting List</a></strong>
 </p>
-<h4><strong>Booklist</strong></h4>
-<p><strong><a href="/files/2023_Files/pone%20booklist.pdf" rel="noopener noreferrer nofollow" target="">P1 Booklist 2024</a><br></strong>
+<h4><strong>Booklist 2025</strong></h4>
+<p><strong><a href="/files/2025 files/CONFIRM_2025P1_BOOKLISTS.pdf" rel="noopener nofollow" target="_blank">P1 Booklist 2025</a><br></strong>
 </p>
-<p><strong><a href="/files/2023_Files/p2%20booklist.pdf" rel="noopener noreferrer nofollow" target="">P2 Booklist 2024</a><br></strong>
-</p>
-<p><strong><a href="/files/2023_Files/p3%20booklist.pdf" rel="noopener noreferrer nofollow" target="">P3 Booklist 2024</a><br></strong>
-</p>
-<p><strong><a href="/files/2023_Files/p4%20booklist.pdf" rel="noopener noreferrer nofollow" target="">P4 Booklist 2024</a><br></strong>
-</p>
-<p><strong><a href="/files/2023_Files/p5%20booklist.pdf" rel="noopener noreferrer nofollow" target="">P5 Booklist 2024</a><br></strong>
-</p>
-<p><strong><a href="/files/2023_Files/p5%20(fdn).pdf" rel="noopener noreferrer nofollow" target="">P5 Foundation Booklist 2024</a><br></strong>
-</p>
-<p><strong><a href="/files/2023_Files/p6%20booklist.pdf" rel="noopener noreferrer nofollow" target="">P6 Booklist 2024</a><br></strong>
-</p>
-<p><strong><a href="/files/2023_Files/p6%20(fdn)booklist.pdf" rel="noopener noreferrer nofollow" target="">P6 Foundation Booklist 2024</a></strong>
-</p>
+<p></p>
 <p></p>
 <h4><strong>2024</strong></h4>
 <p><strong>K-Bites</strong>
