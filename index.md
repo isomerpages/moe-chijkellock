@@ -21,6 +21,6 @@ sections:
         - title: For Teachers
           description: ""
           url: /forteachers/
-      background: /images/2024/proposed_banners_oct24.gif
+      background: /images/2024/Proposed_Banners4.gif
       url: https://www.facebook.com/100071389479078
 ---
