@@ -6,6 +6,9 @@ variant: tiptap
 ---
 <ul data-tight="true" class="tight">
 <li>
+<p></p>
+</li>
+<li>
 <p><strong><a href="https://sites.google.com/moe.edu.sg/chijkellockvirtualtour2020/home" rel="noopener noreferrer nofollow" target="">Virtual Open House</a></strong>
 </p>
 </li>
