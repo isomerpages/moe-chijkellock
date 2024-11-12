@@ -4,3 +4,5 @@ permalink: /2024-year-end-message-from-chairperson-of-the-ij-board-of-management
 variant: tiptap
 description: ""
 ---
+<p></p>
+<p></p>
