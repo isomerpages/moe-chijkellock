@@ -6,7 +6,8 @@ variant: tiptap
 ---
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p><strong><a href="/2024-year-end-message-from-chairperson-of-the-ij-board-of-management/" rel="noopener nofollow" target="_blank">2024 Year-End Message from Chairperson/ IJ Board of Management</a></strong>
+</p>
 </li>
 <li>
 <p><strong><a href="https://sites.google.com/moe.edu.sg/chijkellockvirtualtour2020/home" rel="noopener noreferrer nofollow" target="">Virtual Open House</a></strong>
