@@ -4,8 +4,8 @@ title: Convent of the Holy Infant Jesus (Kellock)
 description: Brief site description here
 image: /images/2023/websitelogobanner2.png
 permalink: /
-notification: All visitors must make an appointment with a staff member before
-  entering the school.
+notification: Click on the link in the Announcement page to read the 2024
+  Year-End Message from Chairperson/ IJ Board of Management.
 sections:
   - hero:
       key_highlights:
