@@ -113,6 +113,7 @@ via WhatsApp.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><em>Please note that for distances exceeding 4 km, quotes will be provided directly by the vendor based on the specific requirements and location.</em>
+</p>
 <h4></h4>
 <p></p>
