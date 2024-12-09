@@ -171,6 +171,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Aesthetic</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Heryanty</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:heryanty_mohamed_yahaya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">heryanty_mohamed_yahaya@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Ed Tech</strong>
 </p>
 </td>
@@ -182,8 +195,22 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Student Management</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ng Pei Yoong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_pei_yoong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_pei_yoong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
 <h4><strong>Year Head</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -208,7 +235,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Lower Primary (Covering)</strong>
+<p><strong>Lower Primary </strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -318,7 +345,7 @@ variant: tiptap
 <p>Ms Yee Kwan Ngah&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yee_kwan_ngah@moe.edu.sg" rel="noopener noreferrer nofollow" target="">yee_kwan_ngah@moe.edu.sg&nbsp;</a>
+<p><a href="mailto:yee_kwan_ngah@moe.edu.sg" rel="noopener noreferrer nofollow" target="">yee_kwan_ngah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -560,6 +587,19 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:soh_chee_suan_mary@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soh_chee_suan_mary@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Tamil</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ravathy d/o Ganasegaran</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ravathy_ganasegaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ravathy_ganasegaran@moe.edu.sg</a>
 </p>
 </td>
 </tr>
