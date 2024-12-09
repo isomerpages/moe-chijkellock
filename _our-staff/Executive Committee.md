@@ -235,7 +235,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Lower Primary </strong>
+<p><strong>Lower Primary</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
