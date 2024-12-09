@@ -28,7 +28,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P5 Cerise</p>
+<p>P5 Diamond</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Marianne Woo</p>
@@ -52,7 +52,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>P5Jade</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lui Ling</p>
@@ -76,7 +76,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P5 Indigo</p>
+<p>P5 Ruby</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Joyce Liew</p>
@@ -100,7 +100,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P5 Lavender</p>
+<p>P5 Sapphire</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Patricia Goh</p>
@@ -124,7 +124,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P5 Lilac</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Gladys Puah</p>
@@ -160,7 +160,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P5 Magenta</p>
+<p>P5 Topaz</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Amirinazeb</p>
