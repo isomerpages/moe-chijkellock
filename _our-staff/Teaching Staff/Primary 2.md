@@ -207,7 +207,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P1 Allamanda</p>
+<p>P2 Allamanda</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Daphne Goh</p>
@@ -231,7 +231,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P1 Clematis</p>
+<p>P2 Clematis</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Tan Shuxin</p>
@@ -255,7 +255,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P1 Congea</p>
+<p>P2 Congea</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Teng Yan Ni</p>
@@ -279,7 +279,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P1 Gloriosa</p>
+<p>P2 Gloriosa</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Audrey Oh</p>
@@ -303,7 +303,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P1 Honolulu</p>
+<p>P2 Honolulu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chiok Xue Ting</p>
@@ -327,7 +327,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P1 Jasmine</p>
+<p>P2 Jasmine</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lam Junyu</p>
