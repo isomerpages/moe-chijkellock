@@ -89,23 +89,10 @@ variant: tiptap
 <p>P3 Ixora</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sarah Siddiqui</p>
+<p>Mrs Dawn Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sarah_fuad_siddiqui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sarah_fuad_siddiqui@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Wong Foong Li</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:wong_foong_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_foong_li@moe.edu.sg</a>
-</p>
+<p>tan_tsu_mei_dawn@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -113,35 +100,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Joyce Chua</p>
+<p>Ms Zhang Linyue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:loh_soo_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_soo_sheng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Maria Leah Fonseca</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:maria_leah_fonseca@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">maria_leah_fonseca@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Chua Wei Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chua_wei_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chua_wei_ling@moe.edu.sg</u></a>
-</p>
+<p>zhang_linyue@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -149,11 +111,10 @@ variant: tiptap
 <p>P3 Orchid</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Hairunisa d/o Syed Ibrahim</p>
+<p>Miss Rachael Pereira</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:hairunisa_syed_ibrahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hairunisa_syed_ibrahim@moe.edu.sg</a>
-</p>
+<p>pereira_elizabeth_rachael@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -161,11 +122,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Pherlyn Ho</p>
+<p>Mr Alvin Poh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:pherlyn_ho@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pherlyn_ho@moe.edu.sg</a>
-</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
