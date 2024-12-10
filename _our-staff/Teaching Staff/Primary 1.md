@@ -68,7 +68,7 @@ variant: tiptap
 <p>Ms Tracy Chua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lye_swee_lin_esther@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lye_swee_lin_esther@moe.edu.sg</a>
+<p><a href="mailto:chua_jia_jin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_jia_jin@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -80,10 +80,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Imelda Tan</p>
+<p>Miss Lisa Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:imelda_tan_pek_thian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">imelda_tan_pek_thian@moe.edu.sg</a>
+<p><a href="mailto:lisa_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lisa_a@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
