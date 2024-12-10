@@ -31,10 +31,10 @@ variant: tiptap
 <p>P3 Daisy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Caroline Tan</p>
+<p>Mrs Antoinette Teo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_tsai_ling_caroline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_tsai_ling_caroline@moe.edu.sg</a>
+<p><a href="mailto:toh_siew_foong_antoinette@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_siew_foong_antoinette@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -43,10 +43,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Roxas Jhoanna Mari Imus</p>
+<p>Mdm Wang Guiyun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:roxas_jhoanna_mari_imus@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">roxas_jhoanna_mari_imus@moe.edu.sg</a>
+<p><a href="mailto:wang_guiyun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_guiyun@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -55,10 +55,21 @@ variant: tiptap
 <p>P3 Hibiscus</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Drusilla Yap</p>
+<p>Mrs Bernice Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yap_wan_hui_drusilla@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yap_wan_hui_drusilla@moe.edu.sg</a>
+<p>bernice_lim_xiang@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Gao Hewei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:gao_hewei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gao_hewei@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -67,11 +78,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Gan Yi</p>
+<p>Ms Mariam Ibrahim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gan_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gan_yi@moe.edu.sg</a>
-</p>
+<p>mariam_ibrahim@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
