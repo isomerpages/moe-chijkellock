@@ -133,11 +133,10 @@ variant: tiptap
 <p>P3 Rose</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Liu Shiwei</p>
+<p>Mrs Esther Chia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:liu_shiwei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_shiwei@moe.edu.sg</a>
-</p>
+<p>lye_swee_lin_esther@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -145,11 +144,21 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Karen Bay</p>
+<p>Ms Sherry Tai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:karen_bay@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">karen_bay@moe.edu.sg</a>
-</p>
+<p>sherry_tai@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chua Keng Wah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chua_keng_wah_a@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
