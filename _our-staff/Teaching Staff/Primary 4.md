@@ -75,18 +75,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Koh Wee Mong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:koh_wee_mong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_wee_mong@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>P4 Casuarina</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -106,18 +94,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mariam_ibrahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mariam_ibrahim@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Timothy Koh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:koh_boon_chye@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_boon_chye@moe.edu.sg</a>
 </p>
 </td>
 </tr>
