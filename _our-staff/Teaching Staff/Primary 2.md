@@ -154,7 +154,8 @@ variant: tiptap
 <p>Ms Lim Wei-Hing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lim_wei_hing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_wei_hing@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -174,10 +175,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ravathy d/o Ganasegaran</p>
+<p>Ms Roxas Jhoanna Mari Imus</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ravathy_ganasegaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ravathy_ganasegaran@moe.edu.sg</a>
+<p><a href="mailto:roxas_jhoanna_mari_imus@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">roxas_jhoanna_mari_imus@moe.edu.sg</a>
 </p>
 </td>
 </tr>
