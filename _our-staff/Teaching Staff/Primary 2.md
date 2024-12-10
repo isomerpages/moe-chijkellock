@@ -127,7 +127,7 @@ variant: tiptap
 <p>P2 Honolulu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chiok Xue Ting</p>
+<p>Ms Sandy Chiok</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chiok_xue_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chiok_xue_ting@moe.edu.sg</u></a>
@@ -139,11 +139,22 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Wei-Hing</p>
+<p>Mdm Tauled Tunisha</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_wei_hing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_wei_hing@moe.edu.sg</a>
+<p><a href="mailto:tauled_tunisha_mohd_paser@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tauled_tunisha_mohd_paser@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
