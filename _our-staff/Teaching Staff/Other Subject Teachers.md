@@ -72,11 +72,10 @@ variant: tiptap
 <p>Art</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Silk Goh</p>
+<p>Mdm Heryanty</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_silk@moe.edu.sg" rel="noopener noreferrer nofollow" target="">goh_silk@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -132,7 +131,7 @@ variant: tiptap
 <p>&nbsp;PE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Ms Lena Koh</p>
+<p>Ms Lena Koh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ang_siew_huay_lena@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ang_siew_huay_lena@moe.edu.sg</a>&nbsp;</p>
@@ -220,6 +219,39 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_jia_min_michelle@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_jia_min_michelle@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Eileen Ho</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pending update</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Alvin Poh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pending update</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Diana Ho</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pending update</p>
 </td>
 </tr>
 </tbody>
