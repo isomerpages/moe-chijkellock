@@ -75,7 +75,8 @@ variant: tiptap
 <p>Mdm Heryanty</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="heryanty_mohamed_yahaya@moe.edu.sg" rel="noopener nofollow" target="_blank">heryanty_mohamed_yahaya@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
