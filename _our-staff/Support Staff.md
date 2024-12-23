@@ -95,8 +95,9 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>ICT Support</strong></h4>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -107,6 +108,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>ICT Trainer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Desktop Engineers</strong>&nbsp;&nbsp;</p>
 </td>
 </tr>
@@ -114,6 +119,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:soundara_rajan_punitha_selvi@moe.edu.sg" rel="noopener noreferrer nofollow" target="">Ms Punitha</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Raudhah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ahmad</p>
