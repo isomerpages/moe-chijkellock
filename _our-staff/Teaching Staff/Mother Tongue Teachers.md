@@ -200,7 +200,8 @@ variant: tiptap
 <p>Mdm Ng Pei Yoong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ng_pei_yoong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_pei_yoong@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
