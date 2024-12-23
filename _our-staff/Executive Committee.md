@@ -311,20 +311,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>CCE (Covering)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Koh Wee Mong</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:koh_wee_mong@moe.edu.sg" rel="noopener noreferrer nofollow" target="">koh_wee_mong@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Ed Tech&nbsp;</strong>
 </p>
 </td>
@@ -535,19 +521,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Email</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Chinese</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Liu Shiwei</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:liu_shiwei@moe.edu.sg" rel="noopener noreferrer nofollow" target="">liu_shiwei@moe.edu.sg</a>
 </p>
 </td>
 </tr>
