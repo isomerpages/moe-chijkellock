@@ -83,8 +83,7 @@ variant: tiptap
 <p>Miss Lisa Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lisa_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lisa_a@moe.edu.sg</a>
-</p>
+<p>Pending update</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -143,7 +142,7 @@ variant: tiptap
 <p>Mdm Huang Wenjian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Pending update</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
