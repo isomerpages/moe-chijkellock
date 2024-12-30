@@ -106,7 +106,8 @@ variant: tiptap
 <p>Ms Diana Ho</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Pending update</p>
+<p><a href="diana_ho_bee_hong@moe.edu.sg" rel="noopener nofollow" target="_blank">diana_ho_bee_hong@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
