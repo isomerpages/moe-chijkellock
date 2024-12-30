@@ -4,8 +4,7 @@ title: Convent of the Holy Infant Jesus (Kellock)
 description: Brief site description here
 image: /images/2023/websitelogobanner2.png
 permalink: /
-notification: Click on the link in the Announcement page to read the 2024
-  Year-End Message from Chairperson/ IJ Board of Management.
+notification: ""
 sections:
   - hero:
       key_highlights:
