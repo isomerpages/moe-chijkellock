@@ -129,7 +129,8 @@ variant: tiptap
 <p>Miss Wang Mee Yeng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Pending update</p>
+<p><a href="wang_mee_yeng@moe.edu.sg" rel="noopener nofollow" target="_blank">wang_mee_yeng@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
