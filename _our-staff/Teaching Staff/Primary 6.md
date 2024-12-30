@@ -178,7 +178,8 @@ variant: tiptap
 <p>Ms Eileen Ho</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Pending update</p>
+<p><a href="ho_yen_qing_eileen@moe.edu.sg" rel="noopener nofollow" target="_blank">ho_yen_qing_eileen@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
