@@ -212,7 +212,8 @@ variant: tiptap
 <p>Ms Chen Shuang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Pending update</p>
+<p><a href="chen_shuang@moe.edu.sg" rel="noopener nofollow" target="_blank">chen_shuang@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -234,7 +235,8 @@ variant: tiptap
 <p>Ms Liong Wai Ping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Pending update</p>
+<p><a href="liong_wai_ping_a@moe.edu.sg" rel="noopener nofollow" target="_blank">liong_wai_ping_a@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -245,7 +247,8 @@ variant: tiptap
 <p>Ms Wang Mee Yeng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Pending update</p>
+<p><a href="wang_mee_yeng@moe.edu.sg" rel="noopener nofollow" target="_blank">wang_mee_yeng@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -281,7 +284,8 @@ variant: tiptap
 <p>Mdm Fatimah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Pending update</p>
+<p><a href="fatimah_isnin@moe.edu.sg" rel="noopener nofollow" target="_blank">fatimah_isnin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
