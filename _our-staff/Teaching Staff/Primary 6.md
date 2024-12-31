@@ -172,18 +172,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Eileen Ho</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="ho_yen_qing_eileen@moe.edu.sg" rel="noopener nofollow" target="_blank">ho_yen_qing_eileen@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>P6 Magenta</p>
 </td>
 <td rowspan="1" colspan="1">
