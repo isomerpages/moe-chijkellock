@@ -229,7 +229,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Liong Wai Ping</p>
@@ -241,7 +241,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Wang Mee Yeng</p>
