@@ -189,7 +189,8 @@ variant: tiptap
 <p>Mdm Huang Wenjian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Pending update</p>
+<p><a href="huang_wenjian@moe.edu.sg" rel="noopener nofollow" target="_blank">huang_wenjian@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
