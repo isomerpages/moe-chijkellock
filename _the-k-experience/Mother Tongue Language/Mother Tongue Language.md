@@ -41,10 +41,10 @@ hands-on tasks.</p>
 <p><strong>P5 Mother Tongue Enrichment Programme</strong>
 </p>
 <p>The programme is designed for P5 students taking standard CL, ML and TL
-respectively. This is a customized programme designed to introduce the
+respectively. This is a customised programme designed to introduce the
 various components of language learning in P5, along with department-specific
 strategies aimed at deepening students’ understanding. It follows a distinct
-SOW that is separate from the one used during curriculum time.</p>
+SOW that is different from the one used during curriculum time.</p>
 <h4>Highlights</h4>
 <p><strong>Parents can help in the following ways:</strong>
 <br>Encourage your child to speak to family members in both Mother Tongue
