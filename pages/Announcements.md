@@ -7,7 +7,8 @@ variant: tiptap
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Corporate Video</p>
+<p><strong><a href="https://chijkellock.moe.edu.sg/kellock-corporate-video/" rel="noopener nofollow" target="_blank">Kellock Corporate Video</a></strong>
+</p>
 </li>
 <li>
 <p><strong><a href="https://sites.google.com/moe.edu.sg/chijkellockvirtualtour2020/home" rel="noopener noreferrer nofollow" target="">Virtual Open House</a></strong>
