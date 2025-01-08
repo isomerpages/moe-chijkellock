@@ -49,6 +49,18 @@ variant: tiptap
 <p><a href="mailto:penny_tan_pin@moe.edu.sg" rel="noopener noreferrer nofollow" target="">penny_tan_pin@moe.edu.sg</a>&nbsp;&nbsp;</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Eleena Teo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="eleena_teo_xin_yi@moe.edu.sg" rel="noopener nofollow" target="_blank">eleena_teo_xin_yi@moe.edu.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
