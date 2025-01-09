@@ -8,7 +8,10 @@ variant: tiptap
 <p>
 <br>
 </p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -19,11 +22,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Japanese or Korean Stall - Available</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Snack and Drink Stall - Available</p>
 </td>
 </tr>
 </tbody>
@@ -82,7 +80,7 @@ consultation with the school.</p>
 <li>
 <p>Able to provide cooked food that meets the health / nutritional standards
 set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools
-Programme (HMSP)" guidelines <a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme</a> 
+Programme (HMSP)" guidelines <a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme</a>
 </p>
 </li>
 <li>
