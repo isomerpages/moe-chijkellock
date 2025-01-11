@@ -289,20 +289,16 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -328,52 +324,90 @@ description: ""
 <p>Netball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P2 Talent Development Programme</strong>
-</p>
-<p>Monday: 2.00 pm – 4.00 pm (selected dates <em>in Semester 2)</em>
-</p>
-<p>&nbsp;</p>
-<p><strong>P3 Talent Development Programme</strong>
-</p>
-<p>Friday: 7.30 am – 9.30 am</p>
-<p>
-<br><strong>P4 Talent Development Programme</strong>
-</p>
-<p>Monday Selected dates): 2.00 pm – 4.00 pm</p>
-<p>Friday: 7.30 am – 9.30 am</p>
-<p>&nbsp;</p>
-<p><strong>P5 School Team</strong>
-</p>
-<p>Monday: 2.00 pm – 4.00 pm</p>
-<p>Wednesday:</p>
-<p>2.00 pm – 3.30 pm (Sem1)</p>
-<p>2.00 pm – 4.00 pm (Sem2)</p>
-<p>Friday: 7.30 am – 9.30 am</p>
-<p>&nbsp;</p>
-<p><strong>P6 School Team (Sem 1 only)</strong>
-</p>
-<p>Monday: 3.30 pm – 5.30 pm</p>
-<p>Wednesday: 3.00 pm – 5.00 pm</p>
-<p>Friday: 7.30 am – 9.30 am</p>
-<p>&nbsp;</p>
 <p><strong>Recreational Team</strong>
 </p>
-<p>Friday: 7.30 am – 9.30 am&nbsp;</p>
+<p>Friday : 7.30 am – 9.30 am&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Bernice Ong</p>
 <p></p>
 <p>Ms Goi Hwei Kheng</p>
-<p>&nbsp;</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>P3 Talent Development Programme</strong>
+</p>
+<p>Friday : 7.30 am – 9.30 am</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms Charlotte Chin</p>
 <p></p>
 <p></p>
-<p>Ms Jhoanna&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
-<p>&nbsp;Ms Christine Kwong</p>
-<p>&nbsp;</p>
-<p>&nbsp;Ms Lena Ang</p>
-<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>P4 Talent Development Programme</strong>
+</p>
+<p>Monday Selected dates) : 2.00 pm – 4.00 pm</p>
+<p>Friday: 7.30 am – 9.30 am</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Jhoanna&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>P5 School Team</strong>
+</p>
+<p>Monday and Wednesday : 2.00 pm – 4.00 pm</p>
+<p></p>
+<p>Friday: 7.30 am – 9.30 am</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Christine Kwong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>P6 School Team (Sem 1 only)</strong>
+</p>
+<p>Monday and Wednesday : 3.00 pm – 5.00 pm</p>
+<p></p>
+<p>Friday: 7.30 am – 9.30 am</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lena Ang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -384,11 +418,30 @@ description: ""
 <p>Rhythmic Gym</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday: 2.15p–5.15pm
+<p><strong>Recreational Team</strong>
+</p>
+<p>Friday : 7.30 am – 9.30 am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms He Na</p>
+<p>Ms Chua Wei Ling</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>School Team</strong>
+</p>
+<p>Monday and Wednesday :</p>
+<p>2.15 pm–5.15 pm
 <br>
-<br>Wednesday: 2.15pm–5.15pm
-<br>
-<br>Friday: 7.30am–9.30am (Recreational Team and School Team)</p>
+<br>Friday: 7.30 am–9.30 am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Koh Wee Mong
