@@ -15,7 +15,8 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Clubs</strong>&nbsp;</p>
+<p><strong>Clubs&nbsp;&amp; Societies</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -47,21 +48,19 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Media, Broadcasting and
-<br>Photography (MBP)</p>
+<p>Art Club</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Friday
 <br>7.30am - 9.30am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Selvi</p>
-<p></p>
-<p>Mrs Antoinette Teo</p>
+<p>Mrs Belinda Lim</p>
+<p>&nbsp;</p>
+<p>Ms Maria Leah Fonseca</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -73,49 +72,12 @@ description: ""
 <br>7.30am - 9.30am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Rachael Pereira</p>
+<p>Mrs Antoinette Teo</p>
 <p></p>
-<p>Ms Mariam</p>
+<p>Ms Jemma</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sewing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Friday
-<br>7.30am - 9.30am</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Esther Tan</p>
 <p></p>
-<p>Mdm Wang Guiyun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Robotics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Friday
-<br>7.30am - 9.30am</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Amirinazeb</p>
-<p></p>
-<p>Ms Jiang Ming</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
 </td>
 </tr>
 <tr>
@@ -139,16 +101,34 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;Arts</strong>
-</p>
+<p>Media, Broadcasting and
+<br>Photography (MBP)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
+<p>Friday
+<br>7.30am - 9.30am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
+<p>Mdm Selvi</p>
+<p></p>
+<p>Ms Kavitha &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Robotics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday
+<br>7.30am - 9.30am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Amirinazeb</p>
+<p></p>
+<p>Ms Mariam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>&nbsp;</strong>
@@ -157,19 +137,70 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Art Club</p>
+<p>Pottery</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Friday
 <br>7.30am - 9.30am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Belinda Lim</p>
-<p>&nbsp;</p>
-<p>Ms Maria Leah Fonseca</p>
+<p>Mrs Esther Tan</p>
+<p></p>
+<p>Ms Zhang Linyue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>No new recruitment from 2025 as CCA is being phased out.</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sewing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday
+<br>7.30am - 9.30am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Rachael Pereira</p>
+<p></p>
+<p>Mdm Wang Guiyun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>No new recruitment from 2025 as CCA is being phased out.</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;Performing Arts</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -193,19 +224,39 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Pottery</p>
+<p>Dance Ensemble</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Friday
-<br>7.30am - 9.30am</p>
+<br>7.30am - 9.30am
+<br><em>*Additional practice on Wednesday afternoon when preparing for events</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Silk Goh</p>
+<p>Ms Lisa Lim</p>
 <p></p>
-<p>Ms Zhang Linyue</p>
+<p>Ms Pherlyn Ho</p>
+<p></p>
+<p>Mdm Huang Wenjian</p>
+<p></p>
+<p>Ms Mishal Lim</p>
+<p></p>
+<p>Ms Nabilah</p>
+<p></p>
+<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Students will be auditioned before obtaining a place in the Dance Ensemble.</em>
+</p>
+</li>
+<li>
+<p><em>For students to participate in events various performances, they must have at least 80% attendance and practice diligently.</em>
+</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -238,53 +289,16 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dance Ensemble</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Friday
-<br>7.30am - 9.30am
-<br><em>*Additional practice on Wednesday afternoon when preparing for events</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Mishal Lim</p>
 <p></p>
-<p>Mrs Dawn Tan</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
-<p>Ms Patricia Goh</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
-<p>Mdm Liu Shiwei</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p><em>Students will be auditioned before obtaining a place in the Dance Ensemble.</em>
-</p>
-</li>
-<li>
-<p><em>For students to participate in events various performances, they must have at least 80% attendance and practice diligently.</em>
-</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -310,108 +324,93 @@ description: ""
 <p>Netball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P2 Talent Development Programme</strong>
-</p>
-<p>Monday: 2.00 pm – 4.00 pm (selected dates <em>in Semester 2)</em>
-</p>
-<p>&nbsp;</p>
-<p><strong>P3 Talent Development Programme</strong>
-</p>
-<p>Friday: 7.30 am – 9.30 am</p>
-<p>
-<br><strong>P4 Talent Development Programme</strong>
-</p>
-<p>Monday Selected dates): 2.00 pm – 4.00 pm</p>
-<p>Friday: 7.30 am – 9.30 am</p>
-<p>&nbsp;</p>
-<p><strong>P5 School Team</strong>
-</p>
-<p>Monday: 2.00 pm – 4.00 pm</p>
-<p>Wednesday:</p>
-<p>2.00 pm – 3.30 pm (Sem1)</p>
-<p>2.00 pm – 4.00 pm (Sem2)</p>
-<p>Friday: 7.30 am – 9.30 am</p>
-<p>&nbsp;</p>
-<p><strong>P6 School Team</strong>
-</p>
-<p>Monday: 3.30 pm – 5.30 pm</p>
-<p>Wednesday: 3.00 pm – 5.00 pm</p>
-<p>Friday: 7.30 am – 9.30 am</p>
-<p>&nbsp;</p>
 <p><strong>Recreational Team</strong>
 </p>
-<p>Friday: 7.30 am – 9.30 am&nbsp;</p>
+<p>Friday : 7.30 am – 9.30 am&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Kavitha &nbsp;</p>
-<p>Ms Joyce Chy</p>
-<p>&nbsp;</p>
-<p>Ms Gladys Sim</p>
-<p>&nbsp;</p>
+<p>Mrs Bernice Ong</p>
+<p></p>
+<p>Ms Goi Hwei Kheng</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>P3 Talent Development Programme</strong>
+</p>
+<p>Friday : 7.30 am – 9.30 am</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms Charlotte Chin</p>
-<p>&nbsp;</p>
-<p>Mr Tan Wei Qiang</p>
-<p>&nbsp;</p>
-<p>Ms Lena Ang</p>
-<p>&nbsp;</p>
-<p>Ms Jhoanna</p>
-<p>&nbsp;</p>
-<p>Ms Christine Kwong</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>Sem 1 only</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>P4 Talent Development Programme</strong>
+</p>
+<p>Monday Selected dates) : 2.00 pm – 4.00 pm</p>
+<p>Friday: 7.30 am – 9.30 am</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Jhoanna&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>P5 School Team</strong>
+</p>
+<p>Monday and Wednesday : 2.00 pm – 4.00 pm</p>
+<p></p>
+<p>Friday: 7.30 am – 9.30 am</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Christine Kwong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>P6 School Team (Sem 1 only)</strong>
+</p>
+<p>Monday and Wednesday : 3.00 pm – 5.00 pm</p>
+<p></p>
+<p>Friday: 7.30 am – 9.30 am</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lena Ang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -419,28 +418,43 @@ description: ""
 <p>Rhythmic Gym</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday: 2.15p–5.15pm
+<p><strong>Recreational Team</strong>
+</p>
+<p>Friday : 7.30 am – 9.30 am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms He Na</p>
+<p>Ms Chua Wei Ling</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>School Team</strong>
+</p>
+<p>Monday and Wednesday :</p>
+<p>2.15 pm–5.15 pm
 <br>
-<br>Wednesday: 2.15pm–5.15pm
-<br>
-<br>Friday: 7.30am–9.30am (Recreational Team and School Team)</p>
+<br>Friday: 7.30 am–9.30 am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Koh Wee Mong
 <br>
 </p>
-<p>Ms Ng Yee Peng
-<br>
-</p>
-<p>Ms Pherlyn Ho
-<br>
-</p>
-<p>Ms He Na</p>
+<p>Mr Xavier Yong</p>
 <p></p>
-<p>Ms Gan Yi
+<p>Ms Patricia Goh
 <br>
 </p>
-<p>Ms Chua Wei Ling</p>
+<p>Ms Joyce Chy</p>
+<p></p>
+<p></p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -465,16 +479,53 @@ description: ""
 <br>7.30am - 9.30am</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Wang Mee Yeng</p>
+<p></p>
 <p>Ms Goh Sok Teng</p>
 <p>
-<br>Mr Xavier Yong</p>
-<p>
 <br>Ms Hewei</p>
+<p></p>
+<p></p>
 <p><strong>&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>&nbsp;</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Uniform Group</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Brownies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+<p>7.30 am - 9.30 am</p>
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ravathy d/o Ganasegaran</p>
+<p></p>
+<p>Mdm Hairunisa d/o Syed Ibrahim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>No new recruitment from 2025 as CCA is being phased out.</em>
 </p>
 </td>
 </tr>
