@@ -149,7 +149,7 @@ description: ""
 <p>Ms Zhang Linyue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>No new recruitment from 2025 as CCA is being phased out. </em>
+<p><em>No new recruitment from 2025 as CCA is being phased out.</em>
 </p>
 </td>
 </tr>
@@ -167,7 +167,7 @@ description: ""
 <p>Mdm Wang Guiyun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>No new recruitment from 2025 as CCA is being phased out. </em>
+<p><em>No new recruitment from 2025 as CCA is being phased out.</em>
 </p>
 </td>
 </tr>
@@ -472,7 +472,7 @@ description: ""
 <p>Mdm Hairunisa d/o Syed Ibrahim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>No new recruitment from 2025 as CCA is being phased out. </em>
+<p><em>No new recruitment from 2025 as CCA is being phased out.</em>
 </p>
 </td>
 </tr>
