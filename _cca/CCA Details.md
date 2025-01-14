@@ -149,7 +149,7 @@ description: ""
 <p>Ms Zhang Linyue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>No new recruitment from 2025 as CCA is being phased out.</em>
+<p><em>No new recruitment for P3 students as CCA is being phased out.</em>
 </p>
 </td>
 </tr>
@@ -167,7 +167,7 @@ description: ""
 <p>Mdm Wang Guiyun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>No new recruitment from 2025 as CCA is being phased out.</em>
+<p><em>No new recruitment for P3 students as CCA is being phased out.</em>
 </p>
 </td>
 </tr>
@@ -279,10 +279,12 @@ description: ""
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Students must be learners of Violin, Viola, Cello or Double Bass</p>
+<p><em>Students must be learners of Violin, Viola, Cello or Double Bass</em>
+</p>
 </li>
 <li>
-<p>Approx. $160 per semester</p>
+<p><em>Students will be charged instructor fee every semester. Amount will be confirmed through letters disseminated to students and will depend on prevailing rates.</em>
+</p>
 </li>
 </ul>
 </td>
@@ -460,7 +462,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><em>Approx. $180 per semester (School Team)</em>
+<p><em>Students will be charged instructor fee every semester. Amount will be confirmed through letters disseminated to students and will depend on prevailing rates.</em>
 </p>
 </li>
 <li>
@@ -525,7 +527,7 @@ description: ""
 <p>Mdm Hairunisa d/o Syed Ibrahim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>No new recruitment from 2025 as CCA is being phased out.</em>
+<p><em>No new recruitment for P3 students as CCA is being phased out.</em>
 </p>
 </td>
 </tr>
