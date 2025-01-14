@@ -14,18 +14,8 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Clubs&nbsp;&amp; Societies</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<td rowspan="1" colspan="4">
+<h4><strong>Clubs&nbsp;&amp; Societies</strong></h4>
 </td>
 </tr>
 <tr>
@@ -186,21 +176,8 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;Performing Arts</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
+<td rowspan="1" colspan="4">
+<h4><strong>&nbsp;Performing Arts</strong></h4>
 </td>
 </tr>
 <tr>
@@ -213,10 +190,11 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Marianne Woo</p>
+<p></p>
+<p>Mdm Tauled Tunisha</p>
 <p>&nbsp;</p>
 <p>Mrs Widjaja-Ong Yu Hui</p>
 <p></p>
-<p>Mdm Tauled Tunisha</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -304,21 +282,8 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Sports</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
+<td rowspan="1" colspan="4">
+<h4><strong>Sports</strong></h4>
 </td>
 </tr>
 <tr>
@@ -497,18 +462,8 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Uniform Group</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="4">
+<h4><strong>Uniform Group</strong></h4>
 </td>
 </tr>
 <tr>
