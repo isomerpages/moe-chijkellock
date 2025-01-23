@@ -41,7 +41,7 @@ before marriage is the best protection against STIs/HIV and unintended
 pregnancies. Casual sex can harm and hurt you and your loved ones.
 <br>
 </p>
-<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
+<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here</a>&nbsp;for
 more information on MOE Sexuality Education.&nbsp;</p>
 <p></p>
 <p><strong>OVERVIEW OF CHIJ KELLOCK’S SEXUALITY EDUCATION PROGRAMME FOR 2024</strong>
@@ -49,7 +49,7 @@ more information on MOE Sexuality Education.&nbsp;</p>
 <p>Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
-Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener nofollow" target="_blank">here</a> for
 more information on the scope of Sexuality Education in the school curriculum.</p>
 <p>The subjects that incorporate topics on sexuality include:</p>
 <p>a. Science
