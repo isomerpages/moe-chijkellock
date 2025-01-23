@@ -44,7 +44,7 @@ pregnancies. Casual sex can harm and hurt you and your loved ones.
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here</a>&nbsp;for
 more information on MOE Sexuality Education.&nbsp;</p>
 <p></p>
-<p><strong>OVERVIEW OF CHIJ KELLOCK’S SEXUALITY EDUCATION PROGRAMME FOR 2024</strong>
+<p><strong>OVERVIEW OF CHIJ KELLOCK’S SEXUALITY EDUCATION PROGRAMME FOR 2025</strong>
 </p>
 <p>Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
@@ -73,11 +73,13 @@ years. They learn to build healthy and rewarding relationships with others,
 including those with members of the opposite sex. Students are also guided
 to make wise, informed and responsible decisions to keep themselves safe
 from sexuality-related risks.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/P5_SED_2024.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/P5_SExuality_ed.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/P6_SED_2024.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/P6__SExuality_ed.png">
 </div>
 <p>
 <br>
@@ -89,9 +91,9 @@ supplementary Sexuality Education programmes by MOE-approved external providers.
 <p>
 <br>Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This hard copy form is downloadable
-<a href="https://drive.google.com/file/d/1ZoJ5-9KvC9AvuXW51frbNVJl8lyNEH17/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a>. Alternatively, parents can also complete the soft copy of the
-opt-out form via the link <a href="https://form.gov.sg/659cec13dc1a100011aeabfb" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed
-opt-out form is to be submitted by <strong>Friday, 9 February 2024</strong>.
+<a href="https://drive.google.com/file/d/1Ij5FPwNHp8aQ_0fEulP3ZCfDUOXXBkdO/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a>. Alternatively, parents can also complete the soft copy of the
+opt-out form via the link <a href="https://form.gov.sg/675ce81662bc2593506838b4" rel="noopener nofollow" target="_blank">here</a>.
+The completed opt-out form is to be submitted by <strong>Friday, 7 February 2025</strong>.
 Otherwise, your children are expected to attend the programme.</p>
 <p>Parents can email Mrs Hannah Yuen at <a href="ong_choon_wee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_choon_wee@moe.edu.sg</a> for a discussion
 or to seek clarification about the school’s Sexuality Education programme.</p>
