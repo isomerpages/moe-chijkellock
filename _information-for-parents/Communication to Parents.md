@@ -27,7 +27,70 @@ variant: tiptap
 </p>
 <p><strong><br></strong>
 </p>
+<h4><strong>2025</strong></h4>
+<p><strong>K-Bites</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/files/2025 files/PH_and_SH_CHIJ_Kellock_Sem_1_2025.pdf" rel="noopener nofollow" target="_blank">Public &amp; School Holidays Semester 1  2025</a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Term 1</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong><a href="/files/2025 files/KBytes_JAN_FEB_MAR_2025.pdf" rel="noopener nofollow" target="_blank">Jan, Feb, Mar 2025</a></strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Term 2</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Term 3</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Term 4</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <h4><strong>2024</strong></h4>
 <p><strong>K-Bites</strong>
@@ -115,96 +178,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4><strong>2023</strong></h4>
-<p><strong>K-Bites</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Term 1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/files/2023_Files/Kbites/Kbites%20Jan%202023.pdf" rel="noopener noreferrer nofollow" target="">January</a></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/files/2023_Files/Kbites/kbites%20feb%202023.pdf" rel="noopener" target="_blank">February</a></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/files/2023_Files/Kbites/kbites%20mar%202023.pdf" rel="noopener" target="_blank">March</a></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Term 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/files/2023_Files/Kbites/kbites%20apr%202023.pdf" rel="noopener noreferrer nofollow" target="">April</a></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/files/2023_Files/Kbites/kbites%20may%20&amp;%20june%202023_updated%20on%2027%20april.pdf" rel="noopener noreferrer nofollow" target="">May - June</a></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Term 3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/files/2023_Files/Kbites/kbites%20july%202023_updated%2030%20june.pdf" rel="noopener noreferrer nofollow" target="">July</a></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Term 4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/files/2023_Files/Kbites/kbites%20sep%202023_30%20august.pdf" rel="noopener noreferrer nofollow" target="">September</a></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/files/2023_Files/Kbites/kbites%20oct%202023%20updated%20on%2029%20sep.pdf" rel="noopener" target="_blank">October</a></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/files/2023_Files/Kbites/kbites%20nov&amp;dec%202023_updated%20on%202%20nov.pdf" rel="noopener" target="_blank">November - October</a></strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
+<h4></h4>
 <p></p>
