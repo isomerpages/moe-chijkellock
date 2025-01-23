@@ -41,7 +41,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/2025 files/PH_and_SH_CHIJ_Kellock_Sem_1_2025.pdf" rel="noopener nofollow" target="_blank">Public &amp; School Holidays Semester 1  2025</a></strong>
+<p><strong><a href="/files/2025 files/PH_and_SH_CHIJ_Kellock_Sem_1_2025.pdf" rel="noopener nofollow" target="_blank">Public &amp; School Holidays Semester 1 2025</a></strong>
 </p>
 </td>
 </tr>
@@ -53,41 +53,6 @@ variant: tiptap
 <p><strong><a href="/files/2025 files/KBytes_JAN_FEB_MAR_2025.pdf" rel="noopener nofollow" target="_blank">Jan, Feb, Mar 2025</a></strong>
 </p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Term 2</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Term 3</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Term 4</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 </tbody>
 </table>
