@@ -82,9 +82,8 @@ Day)</p>
 <p>Parent volunteers sign up to be a part of these events with the aim to
 contribute, nurture, guide and support the girls’ journey in CHIJ Kellock.</p>
 <p></p>
-<h4>PSG Exco</h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/PSG_Exco_120525.jpg">
+<h4>Gallery</h4>
+<div class="iframe-wrapper">
+<iframe height="549" width="760" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTZYleW3dpNupFf5t49-XXAamj9zxSC7qd-sCCjbcrXn9Mu6RCCwE4XcJgBgh6X7g/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
