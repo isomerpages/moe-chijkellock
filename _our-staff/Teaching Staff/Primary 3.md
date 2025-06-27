@@ -127,18 +127,6 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Alvin Poh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="alvin_poh_chye_khoon@moe.edu.sg" rel="noopener nofollow" target="_blank">alvin_poh_chye_khoon@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Ravathy d/o Ganasegaran</p>
 </td>
 <td rowspan="1" colspan="1">
