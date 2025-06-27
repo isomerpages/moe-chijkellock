@@ -28,18 +28,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior SEN Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Ms Jeannie Ho</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;<a href="mailto:ho_sook_har_jeannie@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ho_sook_har_jeannie@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -47,6 +35,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:penny_tan_pin@moe.edu.sg" rel="noopener noreferrer nofollow" target="">penny_tan_pin@moe.edu.sg</a>&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SEN Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tasneem</p>
+</td>
+<td rowspan="1" colspan="1">
+<p> <a href="mailto:tasneem_abdul_majeed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tasneem_abdul_majeed@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
