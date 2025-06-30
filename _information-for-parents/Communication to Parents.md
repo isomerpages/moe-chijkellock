@@ -64,6 +64,16 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Term 3</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/files/2025 files/KBytes_JUL_AUG_SEP_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Jul, Aug, Sept 2025</a></strong>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
