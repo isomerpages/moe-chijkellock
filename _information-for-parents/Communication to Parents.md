@@ -70,7 +70,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/files/2025 files/KBytes_JUL_AUG_SEP_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Jul, Aug, Sept 2025</a></strong>
+</p>
 </td>
 </tr>
 </tbody>
