@@ -19,7 +19,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong>Cozy IJ Koptiam invitation</strong>
+<p><strong><a href="https://chijkellock.moe.edu.sg/ij-kopitiam/" rel="noopener nofollow" target="_blank">Cozy IJ Kopitiam invitation</a></strong>
 </p>
 </li>
 <li>
