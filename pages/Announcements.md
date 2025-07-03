@@ -19,6 +19,10 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><strong>Cozy IJ Koptiam invitation</strong>
+</p>
+</li>
+<li>
 <p><strong><a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html" rel="noopener" target="_blank">My Skills Future</a></strong>
 </p>
 </li>
@@ -64,14 +68,6 @@ variant: tiptap
 </li>
 <li>
 <p><strong><a href="https://eresources.nlb.gov.sg/main/Help/Overdrive#libby_app" rel="noopener" target="_blank">A Step-by-Step Guide to borrow NLB E-books</a></strong>
-</p>
-</li>
-<li>
-<p><strong><a href="https://view.genial.ly/62951da156a41b0013669f7a/dossier-magazine-dossier" rel="noopener" target="_blank">S.N.@C.K Issue 1 (2022)</a></strong>
-</p>
-</li>
-<li>
-<p><strong><a href="https://view.genial.ly/63870c980bebe600195ba9dd/dossier-snack-issue-2-dec-2022" rel="noopener" target="_blank">S.N.@C.K Issue 2 (2022)</a></strong>
 </p>
 </li>
 <li>
