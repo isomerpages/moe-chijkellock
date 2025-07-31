@@ -23,6 +23,10 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><strong><a href="https://chijkellock.moe.edu.sg/we-love-you-teachers/" rel="noopener nofollow" target="_blank">We love you Teachers</a></strong>
+</p>
+</li>
+<li>
 <p><strong><a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html" rel="noopener" target="_blank">My Skills Future</a></strong>
 </p>
 </li>

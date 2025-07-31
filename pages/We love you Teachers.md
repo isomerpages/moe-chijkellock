@@ -1,5 +1,5 @@
 ---
-title: We love you teachers
+title: We love you Teachers
 permalink: /we-love-you-teachers/
 variant: tiptap
 description: ""
