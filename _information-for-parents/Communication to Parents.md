@@ -66,11 +66,30 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/files/2025 files/PH_and_SH_CHIJ_Kellock_Sem_2_2025_updated_AUG.pdf" rel="noopener noreferrer nofollow" target="_blank">Public &amp; School Holidays Semester 2 2025</a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Term 3</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/files/2025 files/KBytes_JUL_AUG_SEP_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Jul, Aug, Sept 2025</a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Term 4</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/files/2025 files/KBytes_OCT_NOV_DEC_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Oct, Nov, Dec 2025</a></strong>
 </p>
 </td>
 </tr>
