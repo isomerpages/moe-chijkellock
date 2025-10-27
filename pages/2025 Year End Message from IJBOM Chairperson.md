@@ -4,3 +4,4 @@ permalink: /2025-year-end-message-from-ijbom-chairperson/
 variant: tiptap
 description: ""
 ---
+<p></p>
