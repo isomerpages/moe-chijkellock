@@ -7,6 +7,9 @@ variant: tiptap
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
+<p>2025 Year End message from IJBOM Chairperson</p>
+</li>
+<li>
 <p><strong><a href="https://chijkellock.moe.edu.sg/kellock-corporate-video/" rel="noopener nofollow" target="_blank">Kellock Corporate Video</a></strong>
 </p>
 </li>
