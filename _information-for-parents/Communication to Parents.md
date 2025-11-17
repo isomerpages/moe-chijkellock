@@ -10,7 +10,21 @@ variant: tiptap
 <h4><strong>Booklist 2026</strong></h4>
 <p><strong><a href="/files/2026 Files/P1_BOOKLIST_2026.pdf" rel="noopener nofollow" target="_blank">P1 Booklist 2026</a></strong>
 </p>
+<p><strong><a href="/files/2026 Files/P2_2026.pdf" rel="noopener nofollow" target="_blank">P2 Booklist 2026</a></strong>
+</p>
+<p><strong><a href="/files/2026 Files/P3_2026_BOOKLIST.pdf" rel="noopener nofollow" target="_blank">P3 Booklist 2026</a></strong>
+</p>
+<p><strong><a href="/files/2026 Files/P4_2026_BOOKLIST.pdf" rel="noopener nofollow" target="_blank">P4 Booklist 2026</a></strong>
+</p>
+<p><strong><a href="/files/2026 Files/P5_2026_BOOKLIST.pdf" rel="noopener nofollow" target="_blank">P5 (Std) Booklist 2026</a></strong>
+</p>
+<p><strong><a href="/files/2026 Files/P6_2026_BOOKLIST.pdf" rel="noopener nofollow" target="_blank">P6 (Std) Booklist 2026</a></strong>
+</p>
 <p></p>
+<p><strong><a href="/files/2026 Files/P5__FDN__BOOKLIST.pdf" rel="noopener nofollow" target="_blank">P5 (Fnd) Booklist 2026</a></strong>
+</p>
+<p><strong><a href="/files/2026 Files/P6__FDN__2026_BOOKLIST.pdf" rel="noopener nofollow" target="_blank">P6 (Fnd) Booklist 2026</a></strong>
+</p>
 <p></p>
 <p><strong><br></strong>
 </p>
