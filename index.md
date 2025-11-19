@@ -4,8 +4,7 @@ title: Convent of the Holy Infant Jesus (Kellock)
 description: Brief site description here
 image: /images/2023/websitelogobanner2.png
 permalink: /
-notification: View Kellock Corporate Video and our Virtual Open House in the
-  Announcement page.
+notification: ""
 sections:
   - hero:
       key_highlights:
@@ -21,6 +20,6 @@ sections:
         - title: For Teachers
           description: ""
           url: /forteachers/
-      background: /images/2025/Proposed_Banners11.gif
+      background: /images/2025/Proposed_Banners12.gif
       url: https://www.facebook.com/100071389479078
 ---
