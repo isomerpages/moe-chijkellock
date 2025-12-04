@@ -17,11 +17,6 @@ variant: tiptap
 <p><strong><a href="/files/2026 Files/P4_2026_BOOKLIST.pdf" rel="noopener nofollow" target="_blank">P4 Booklist 2026</a></strong>
 </p>
 <p></p>
-<p><strong><a href="/files/2026 Files/P5_2026_BOOKLIST.pdf" rel="noopener nofollow" target="_blank">P5 (Std) Booklist 2026 </a></strong>
-</p>
-<p><strong><a href="/files/2026 Files/P5__FDN__BOOKLIST.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 (Fnd) Booklist 2026</a></strong>
-</p>
-<p></p>
 <p><strong><a href="/files/2026 Files/P6_2026_BOOKLIST.pdf" rel="noopener nofollow" target="_blank">P6 (Std) Booklist 2026</a></strong>
 </p>
 <p><strong><a href="/files/2026 Files/P6__FDN__2026_BOOKLIST.pdf" rel="noopener nofollow" target="_blank">P6 (Fnd) Booklist 2026</a></strong>
