@@ -10,7 +10,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://idp.mims.moe.gov.sg/nidp/app/login" rel="noopener noreferrer nofollow" target="_blank">Student iCON</a>
+<p><a href="https://chijkellock.moe.edu.sg/student-icon/" rel="noopener nofollow" target="_blank">Student iCON</a>
 </p>
 </li>
 </ul>
