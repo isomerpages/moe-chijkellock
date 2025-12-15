@@ -163,7 +163,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bhairavi</p>
+<p>Ms Bhairavi Lachimanan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Bhairavi_lachimanan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Bhairavi_lachimanan@moe.edu.sg</a>
