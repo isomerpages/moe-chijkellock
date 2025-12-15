@@ -9,10 +9,12 @@ learning and collaboration with others. These useful applications will
 be provided progressively throughout pupils’ learning journey from Primary
 School to Junior Colleges.</p>
 <p></p>
-<p>Student can login via MIMS Portal and choose iCON to access the Google
-apps.</p>
-<p></p>
-<p></p>
+<h4><strong>Login via MIMS portal</strong></h4>
+<p>Student can login via <a href="https://idp.mims.moe.gov.sg/nidp/app" rel="noopener nofollow" target="_blank">MIMS Portal</a> and
+choose iCON to access the Google apps.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2025/MIMS_login.png">
+</div>
 <h4><strong>Student iCON Onboarding Guide</strong></h4>
 <p>Click&nbsp;<a href="/files/2026 Files/Student_iCON_Onboarding_Guide.pdf" rel="noopener nofollow" target="_blank">here</a>&nbsp;to
 view the guide.</p>
