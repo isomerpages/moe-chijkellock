@@ -9,6 +9,10 @@ learning and collaboration with others. These useful applications will
 be provided progressively throughout pupils’ learning journey from Primary
 School to Junior Colleges.</p>
 <p></p>
+<p>Student can login via MIMS Portal and choose iCON to access the Google
+apps.</p>
+<p></p>
+<p></p>
 <h4><strong>Student iCON Onboarding Guide</strong></h4>
 <p>Click&nbsp;<a href="/files/2026 Files/Student_iCON_Onboarding_Guide.pdf" rel="noopener nofollow" target="_blank">here</a>&nbsp;to
 view the guide.</p>
