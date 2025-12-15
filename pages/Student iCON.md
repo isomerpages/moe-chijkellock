@@ -14,7 +14,12 @@ School to Junior Colleges.</p>
 <p>Click&nbsp;<a href="/files/2026 Files/Student_iCON_Onboarding_Guide.pdf" rel="noopener nofollow" target="_blank">here</a>&nbsp;to
 view the guide.</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/P1_to_P3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/P4_to_P6.png">
+</div>
 <h4>Frequently Asked Questions</h4>
 <p>1. <u>How can my child log in to Student iCON?</u>
 </p>
