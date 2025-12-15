@@ -22,4 +22,22 @@ sections:
           url: /forteachers/
       background: /images/2025/Proposed_Banners12.gif
       url: https://www.facebook.com/100071389479078
+  - textcards:
+      title: Announcement
+      subtitle: Add informational text
+      id: textcards
+      description: Text card description
+      cards:
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
