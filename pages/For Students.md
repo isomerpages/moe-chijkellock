@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a>
+<p><a href="https://chijkellock.moe.edu.sg/parents-portal/student-learning-space-sls/" rel="noopener nofollow" target="_blank">Student Learning Space (SLS)</a>
 </p>
 </li>
 <li>
