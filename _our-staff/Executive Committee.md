@@ -126,7 +126,7 @@ variant: tiptap
 <p>Ms Adeline Goh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<a href="mailto:goh_tung_li_adeline@moe.edu.sg" rel="noopener noreferrer nofollow" target="">goh_tung_li_adeline@moe.edu.sg</a>
+<p><a href="mailto:goh_tung_li_adeline@moe.edu.sg" rel="noopener noreferrer nofollow" target="">goh_tung_li_adeline@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -565,14 +565,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Science</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Goh Xinyi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:soh_xinyi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soh_xinyi@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Social Studies</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm</p>
+<p>Mdm Hairunisa d/o Syed Ibrahim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:hairunisa_syed_ibrahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hairunisa_syed_ibrahim@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
