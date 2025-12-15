@@ -179,18 +179,6 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Angela Loh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="loh_puiyin_angela@moe.edu.sg" rel="noopener nofollow" target="_blank">loh_puiyin_angela@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Pamela Zheng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -203,34 +191,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Charlotte Chin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chin_weini_charlotte_hofstetter_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chin_weini_charlotte_hofstetter_a@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Goi Hwei Kheng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:goi_hwei_kheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goi_hwei_kheng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Michelle Ng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_jia_min_michelle@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_jia_min_michelle@moe.edu.sg</a>
 </p>
 </td>
 </tr>
