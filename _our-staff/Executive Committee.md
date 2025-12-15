@@ -197,17 +197,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Student Management</strong>
 </p>
 </td>
@@ -313,10 +302,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Gladys Phua&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:gladys_sin_zhenlin@moe.edu.sg" rel="noopener noreferrer nofollow" target="">gladys_sin_zhenlin@moe.edu.sg&nbsp;</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -347,7 +337,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mathematics </strong>
+<p><strong>Mathematics</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -373,19 +363,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Music&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Cindy Tang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:cindy_quake@moe.edu.sg" rel="noopener noreferrer nofollow" target="">cindy_quake@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>PE and CCA</strong>
 </p>
 </td>
@@ -403,10 +380,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Gladys Phua&nbsp;</p>
+<p>Mrs Bernice Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gladys_sin_zhenlin@moe.edu.sg" rel="noopener noreferrer nofollow" target="">gladys_sin_zhenlin@moe.edu.sg&nbsp;</a>
+<p><a href="mailto:bernice_lim_xiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bernice_lim_xiang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -462,18 +439,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mathematics</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Science</strong>
 </p>
 </td>
@@ -511,6 +476,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Art</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Heryanty</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:heryanty_mohamed_yahaya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">heryanty_mohamed_yahaya@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Mathematics</strong>
 </p>
 </td>
@@ -519,19 +497,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:arif_hong_chu_sen@moe.edu.sg" rel="noopener noreferrer nofollow" target="">arif_hong_chu_sen@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Aesthetic</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Heryanty</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:heryanty_mohamed_yahaya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">heryanty_mohamed_yahaya@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -600,10 +565,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Social Studies</p>
+<p><strong>Social Studies</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
