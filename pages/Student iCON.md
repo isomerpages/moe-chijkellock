@@ -27,6 +27,9 @@ access Student iCON.</p>
 <p>You may refer to the following table for guidance on the Operating System/browser,
 which your child can use to log in.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/OS__Browsers.jpg">
+</div>
 <p>3.&nbsp;<u>What is the naming convention for the Student iCON email address?</u>
 </p>
 <p>• The student’s email address will be based on @students.edu.sg</p>
