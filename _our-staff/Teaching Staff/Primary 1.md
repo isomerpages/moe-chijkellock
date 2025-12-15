@@ -159,7 +159,7 @@ variant: tiptap
 <p>Ms Audrey Oh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:oh_chu_mei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">oh_chu_mei@moe.edu.sg</a> 
+<p><a href="mailto:oh_chu_mei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">oh_chu_mei@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
