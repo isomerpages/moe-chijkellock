@@ -79,10 +79,11 @@ variant: tiptap
 <p>P6 Ruby</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Goh Xinyi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:soh_xinyi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soh_xinyi@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
