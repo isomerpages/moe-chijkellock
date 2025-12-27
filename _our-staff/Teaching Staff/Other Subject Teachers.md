@@ -84,10 +84,10 @@ variant: tiptap
 <p>Art</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Maria Leah Fonseca</p>
+<p>Mrs Belinda Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<a href="mailto:maria_leah_fonseca@moe.edu.sg" rel="noopener noreferrer nofollow" target="">maria_leah_fonseca@moe.edu.sg&nbsp;</a>
+<p>&nbsp;<a href="mailto:teo_beng_choo_belinda@moe.edu.sg" rel="noopener noreferrer nofollow" target="">teo_beng_choo_belinda@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -96,11 +96,10 @@ variant: tiptap
 <p>Art</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Belinda Lim</p>
+<p>Ms Narimah Bte Mohamed Nasir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<a href="mailto:teo_beng_choo_belinda@moe.edu.sg" rel="noopener noreferrer nofollow" target="">teo_beng_choo_belinda@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
