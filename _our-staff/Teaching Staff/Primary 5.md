@@ -79,18 +79,6 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Maria Leah Fonseca</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:maria_leah_fonseca@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">maria_leah_fonseca@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Josephine Chan</p>
 </td>
 <td rowspan="1" colspan="1">
