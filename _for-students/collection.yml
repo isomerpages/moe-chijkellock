@@ -1,0 +1,7 @@
+collections:
+  for-students:
+    output: true
+    order:
+      - Student Learning Space (SLS).md
+      - Student iCON.md
+      - Acceptable Use Policy (AUP) for use of EdTech Resources.md
