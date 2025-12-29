@@ -173,30 +173,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Pamela Zheng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:zheng_dingxiu_pamela@moe.edu.sg" rel="noopener noreferrer nofollow" target="">zheng_dingxiu_pamela@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Goi Hwei Kheng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:goi_hwei_kheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goi_hwei_kheng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
