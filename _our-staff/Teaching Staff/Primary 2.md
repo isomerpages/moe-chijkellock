@@ -35,7 +35,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:oh_soo_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_soo_sheng@moe.edu.sg</a>
-<a href="mailto:wong_yin_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">&gt;</a>
 </p>
 </td>
 </tr>
