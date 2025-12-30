@@ -94,7 +94,7 @@ variant: tiptap
 <p>Mrs Gladys Puah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gladys_sin_zhenlin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gladys_sin_zhenlin@moe.edu.sg</a> 
+<p><a href="mailto:gladys_sin_zhenlin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gladys_sin_zhenlin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -151,7 +151,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Bhairavi Lachimanan</p>
+<p>Miss Bhairavi Lachimanan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Bhairavi_lachimanan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Bhairavi_lachimanan@moe.edu.sg</a>
