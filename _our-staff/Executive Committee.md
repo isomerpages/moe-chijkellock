@@ -305,7 +305,7 @@ variant: tiptap
 <p>Mrs Gladys Puah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gladys_sin_zhenlin@moe.edu.sg" rel="noopener noreferrer nofollow" target="">gladys_sin_zhenlin@moe.edu.sg&nbsp;</a>
+<p><a href="mailto:gladys_sin_zhenlin@moe.edu.sg" rel="noopener noreferrer nofollow" target="">gladys_sin_zhenlin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -318,7 +318,7 @@ variant: tiptap
 <p>Ms Amirinazeb</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:amirinazeb_aurangzeb@moe.edu.sg" rel="noopener noreferrer nofollow" target="">amirinazeb_aurangzeb@moe.edu.sg&nbsp;</a>
+<p><a href="mailto:amirinazeb_aurangzeb@moe.edu.sg" rel="noopener noreferrer nofollow" target="">amirinazeb_aurangzeb@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -341,7 +341,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ong Yu Hui&nbsp;</p>
+<p>Mrs Widjaja - Ong Yu Hui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_yu_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ong_yu_hui@moe.edu.sg</a>
