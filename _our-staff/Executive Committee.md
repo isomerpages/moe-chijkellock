@@ -569,7 +569,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Goh Xinyi</p>
+<p>Mrs Alicia Goh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:soh_xinyi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soh_xinyi@moe.edu.sg</a>
