@@ -16,7 +16,7 @@ sections:
           url: /moe-chijkellock/quick-links/
         - title: For Students
           description: ""
-          url: https://cms.isomer.gov.sg/sites/moe-chijkellock/folders/for-students
+          url: https://www.chijkellock.moe.edu.sg/parents-portal/student-learning-space-sls/
         - title: For Teachers
           description: ""
           url: /forteachers/
