@@ -34,7 +34,7 @@ variant: tiptap
 <p>Ms Jemma</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="jemma_decruz@moe.edu.sg" rel="noopener nofollow" target="_blank">jemma_decruz@moe.edu.sg</a>
+<p><a href="mailto:jemma_decruz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jemma_decruz@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -46,7 +46,7 @@ variant: tiptap
 <p>Ms Koh Wee Mong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="koh_wee_mong@moe.edu.sg" rel="noopener nofollow" target="_blank">koh_wee_mong@moe.edu.sg</a>
+<p><a href="mailto:koh_wee_mong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_wee_mong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -58,7 +58,7 @@ variant: tiptap
 <p>Mdm Helen Teo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="teo_hai_loon_helen@moe.edu.sg" rel="noopener nofollow" target="_blank">teo_hai_loon_helen@moe.edu.sg</a>
+<p><a href="mailto:teo_hai_loon_helen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_hai_loon_helen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -70,7 +70,7 @@ variant: tiptap
 <p>Ms Christine Kwong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="christine_kwong_pui_leng@moe.edu.sg" rel="noopener nofollow" target="_blank">christine_kwong_pui_leng@moe.edu.sg</a>
+<p><a href="mailto:christine_kwong_pui_leng@moe.edu.sg" rel="noopener nofollow" target="_blank">christine_kwong_pui_leng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -94,7 +94,7 @@ variant: tiptap
 <p>Miss Wang Mee Yeng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="wang_mee_yeng@moe.edu.sg" rel="noopener nofollow" target="_blank">wang_mee_yeng@moe.edu.sg</a>
+<p><a href="mailto:wang_mee_yeng@moe.edu.sg" rel="noopener nofollow" target="_blank">wang_mee_yeng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -106,7 +106,7 @@ variant: tiptap
 <p>Ms Mishal Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="lim_ern-_ai_mishal@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_ern-_ai_mishal@moe.edu.sg</a>
+<p><a href="mailto:lim_ern-_ai_mishal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_ern-_ai_mishal@moe.edu.sg</a> 
 </p>
 </td>
 </tr>
@@ -130,7 +130,7 @@ variant: tiptap
 <p>Mrs Belinda Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="teo_beng_choo_belinda@moe.edu.sg" rel="noopener nofollow" target="_blank">teo_beng_choo_belinda@moe.edu.sg</a>
+<p><a href="mailto:teo_beng_choo_belinda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_beng_choo_belinda@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -142,7 +142,7 @@ variant: tiptap
 <p>Ms Amirinazeb</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="amirinazeb_aurangzeb@moe.edu.sg" rel="noopener nofollow" target="_blank">amirinazeb_aurangzeb@moe.edu.sg</a>
+<p><a href="mailto:amirinazeb_aurangzeb@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amirinazeb_aurangzeb@moe.edu.sg</a> 
 </p>
 </td>
 </tr>
