@@ -118,7 +118,7 @@ variant: tiptap
 <p>Miss Rachael Pereira</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="pereira_elizabeth_rachael@moe.edu.sg" rel="noopener nofollow" target="_blank">pereira_elizabeth_rachael@moe.edu.sg</a>
+<p><a href="mailto:pereira_elizabeth_rachael@moe.edu.sg" rel="noopener nofollow" target="_blank">pereira_elizabeth_rachael@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -142,7 +142,7 @@ variant: tiptap
 <p>Mrs Esther Chia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="lye_swee_lin_esther@moe.edu.sg" rel="noopener nofollow" target="_blank">lye_swee_lin_esther@moe.edu.sg</a>
+<p><a href="mailto:lye_swee_lin_esther@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lye_swee_lin_esther@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -154,7 +154,7 @@ variant: tiptap
 <p>Ms Sherry Tai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="sherry_tai@moe.edu.sg" rel="noopener nofollow" target="_blank">sherry_tai@moe.edu.sg</a>
+<p><a href="mailto:sherry_tai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sherry_tai@moe.edu.sg</a>
 </p>
 </td>
 </tr>
