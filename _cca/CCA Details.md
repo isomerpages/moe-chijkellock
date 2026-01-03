@@ -46,8 +46,9 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Belinda Lim</p>
-<p>&nbsp;</p>
-<p>Ms Maria Leah Fonseca</p>
+<p>Ms Karen Foo</p>
+<p>Mdm Wang Lijuan</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -63,7 +64,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Antoinette Teo</p>
-<p></p>
 <p>Ms Jemma</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -79,9 +79,8 @@ description: ""
 <br>7.30am - 9.30am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr de Souza ChristopherJohn</p>
-<p>&nbsp;</p>
-<p>Mr Timothy Koh</p>
+<p>Mr de Souza Christopher John</p>
+<p>&nbsp;Mr Timothy Koh</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -99,12 +98,12 @@ description: ""
 <br>7.30am - 9.30am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Selvi</p>
-<p></p>
 <p>Ms Kavitha &nbsp;</p>
+<p>Ms Koh Wee Mong</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No new recruitment for P3 and P4 students as CCA is being phased out.</p>
 </td>
 </tr>
 <tr>
@@ -116,13 +115,29 @@ description: ""
 <br>7.30am - 9.30am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Amirinazeb</p>
-<p></p>
 <p>Ms Mariam</p>
+<p>Mrs Alicia Goh</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
+<p>No new recruitment for P3 and P4 students as CCA is being phased out.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Robotics and Media Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday
+<br>7.30am - 9.30am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Amirinazeb</p>
+<p>Mdm Selvi</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -135,12 +150,12 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Esther Tan</p>
-<p></p>
 <p>Ms Zhang Linyue</p>
+<p>Ms Narima</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>No new recruitment for P3 students as CCA is being phased out.</em>
-</p>
+<p>No new recruitment for P3 and P4 students as CCA is being phased out.</p>
 </td>
 </tr>
 <tr>
@@ -153,12 +168,10 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Rachael Pereira</p>
-<p></p>
 <p>Mdm Wang Guiyun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>No new recruitment for P3 students as CCA is being phased out.</em>
-</p>
+<p>No new recruitment for P3 and P4 students as CCA is being phased out.</p>
 </td>
 </tr>
 <tr>
@@ -189,11 +202,10 @@ description: ""
 <br>7.30am - 9.30am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Marianne Woo</p>
-<p></p>
 <p>Mdm Tauled Tunisha</p>
-<p>&nbsp;</p>
 <p>Mrs Widjaja-Ong Yu Hui</p>
+<p>Ms Gao Hewei</p>
+<p>Ms Shaheena</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -212,17 +224,10 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lisa Lim</p>
-<p></p>
 <p>Ms Pherlyn Ho</p>
-<p></p>
-<p>Mdm Huang Wenjian</p>
-<p></p>
 <p>Ms Mishal Lim</p>
+<p>Mdm Poh Ser Lee</p>
 <p></p>
-<p>Ms Nabilah</p>
-<p></p>
-<p></p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -297,7 +302,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Bernice Ong</p>
-<p></p>
 <p>Ms Goi Hwei Kheng</p>
 <p></p>
 </td>
@@ -316,9 +320,7 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Charlotte Chin</p>
-<p></p>
-<p></p>
+<p>Mrs Gladys Puah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -336,7 +338,8 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jhoanna&nbsp;</p>
+<p>Ms Lena Ang (Sem1)</p>
+<p>Ms Christine Kwong (Sem 2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -355,7 +358,7 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Christine Kwong</p>
+<p>Ms Roxas Jhoanna</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -368,13 +371,13 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>P6 School Team (Sem 1 only)</strong>
 </p>
-<p>Monday and Wednesday : 3.00 pm – 5.00 pm</p>
-<p></p>
+<p>Monday: 3.30pm - 5.30pm</p>
+<p>Wednesday : 3.00 pm – 5.00 pm</p>
 <p>Friday: 7.30 am – 9.30 am</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lena Ang</p>
+<p>Ms Christine Kwong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -390,7 +393,7 @@ description: ""
 <p>Friday : 7.30 am – 9.30 am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms He Na</p>
+<p>Ms Ang Lee Noi</p>
 <p>Ms Chua Wei Ling</p>
 <p></p>
 </td>
@@ -411,15 +414,11 @@ description: ""
 <br>Friday: 7.30 am–9.30 am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Koh Wee Mong
-<br>
-</p>
 <p>Mr Xavier Yong</p>
-<p></p>
-<p>Ms Patricia Goh
-<br>
-</p>
+<p>Ms Patricia Goh</p>
 <p>Ms Joyce Chy</p>
+<p>Ms Han Yan</p>
+<p></p>
 <p></p>
 <p></p>
 <p>&nbsp;</p>
@@ -428,10 +427,6 @@ description: ""
 <ul data-tight="true" class="tight">
 <li>
 <p><em>Students will be charged instructor fee every semester. Amount will be confirmed through letters disseminated to students and will depend on prevailing rates.</em>
-</p>
-</li>
-<li>
-<p><em>P1 &amp; P2 General Gymnastics Enrichment Programme is no longer offered by the school.</em>
 </p>
 </li>
 </ul>
@@ -446,15 +441,9 @@ description: ""
 <br>7.30am - 9.30am</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Goh Sok Teng</p>
 <p>Ms Wang Mee Yeng</p>
 <p></p>
-<p>Ms Goh Sok Teng</p>
-<p>
-<br>Ms Hewei</p>
-<p></p>
-<p></p>
-<p><strong>&nbsp;</strong>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>&nbsp;</strong>
@@ -478,12 +467,10 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ravathy d/o Ganasegaran</p>
-<p></p>
 <p>Mdm Hairunisa d/o Syed Ibrahim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>No new recruitment for P3 students as CCA is being phased out.</em>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>

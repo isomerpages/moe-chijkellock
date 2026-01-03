@@ -106,7 +106,7 @@ variant: tiptap
 <p>Mrs Michelle Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="ng_jia_min_michelle@moe.edu.sg" rel="noopener nofollow" target="_blank">ng_jia_min_michelle@moe.edu.sg</a>
+<p><a href="mailto:ng_jia_min_michelle@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_jia_min_michelle@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -118,7 +118,7 @@ variant: tiptap
 <p>Miss Mary Soh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="soh_chee_suan_mary@moe.edu.sg" rel="noopener nofollow" target="_blank">soh_chee_suan_mary@moe.edu.sg</a>
+<p><a href="mailto:soh_chee_suan_mary@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soh_chee_suan_mary@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -154,7 +154,7 @@ variant: tiptap
 <p>Mrs Tham Ee Kee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="lee_ee_kee@moe.edu.sg" rel="noopener nofollow" target="_blank">lee_ee_kee@moe.edu.sg</a>
+<p><a href="mailto:lee_ee_kee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_ee_kee@moe.edu.sg</a>
 </p>
 </td>
 </tr>

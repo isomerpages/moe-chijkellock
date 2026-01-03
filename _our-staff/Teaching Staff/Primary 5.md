@@ -46,7 +46,7 @@ variant: tiptap
 <p>Mdm Thanaselvi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="thanaselvi_krishnan@moe.edu.sg" rel="noopener nofollow" target="_blank">thanaselvi_krishnan@moe.edu.sg</a>
+<p><a href="mailto:thanaselvi_krishnan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">thanaselvi_krishnan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -103,7 +103,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Roxas Jhoanna Mari Imus</p>
+<p>Ms Roxas Jhoanna</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:roxas_jhoanna_mari_imus@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">roxas_jhoanna_mari_imus@moe.edu.sg</a>
