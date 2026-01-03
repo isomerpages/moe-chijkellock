@@ -103,7 +103,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Roxas Jhoanna Mari Imus</p>
+<p>Ms Roxas Jhoanna</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:roxas_jhoanna_mari_imus@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">roxas_jhoanna_mari_imus@moe.edu.sg</a>
