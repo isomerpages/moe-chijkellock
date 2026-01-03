@@ -75,7 +75,7 @@ variant: tiptap
 <p>Mdm Heryanty</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="heryanty_mohamed_yahaya@moe.edu.sg" rel="noopener nofollow" target="_blank">heryanty_mohamed_yahaya@moe.edu.sg</a>
+<p><a href="mailto:heryanty_mohamed_yahaya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">heryanty_mohamed_yahaya@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -87,7 +87,7 @@ variant: tiptap
 <p>Mrs Belinda Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<a href="mailto:teo_beng_choo_belinda@moe.edu.sg" rel="noopener noreferrer nofollow" target="">teo_beng_choo_belinda@moe.edu.sg</a>
+<p><a href="mailto:teo_beng_choo_belinda@moe.edu.sg" rel="noopener noreferrer nofollow" target="">teo_beng_choo_belinda@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -99,7 +99,8 @@ variant: tiptap
 <p>Ms Narimah Bte Mohamed Nasir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:narimah_mohamed_nasir@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">narimah_mohamed_nasir@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -154,7 +155,7 @@ variant: tiptap
 <p>&nbsp;PE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jhoanna</p>
+<p>Ms Roxas Jhoanna</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;<a href="mailto:roxas_jhoanna_mari_imus@moe.edu.sg" rel="noopener noreferrer nofollow" target="">roxas_jhoanna_mari_imus@moe.edu.sg</a>
