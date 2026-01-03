@@ -166,7 +166,7 @@ variant: tiptap
 <p>Ms Lisa Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="lisa_a@moe.edu.sg" rel="noopener nofollow" target="_blank">lisa_a@moe.edu.sg</a>
+<p><a href="mailto:lisa_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lisa_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -178,7 +178,7 @@ variant: tiptap
 <p>Ms Liong Wai Ping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="liong_wai_ping_a@moe.edu.sg" rel="noopener nofollow" target="_blank">liong_wai_ping_a@moe.edu.sg</a>
+<p><a href="mailto:liong_wai_ping_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liong_wai_ping_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -190,7 +190,7 @@ variant: tiptap
 <p>Ms Wang Mee Yeng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="wang_mee_yeng@moe.edu.sg" rel="noopener nofollow" target="_blank">wang_mee_yeng@moe.edu.sg</a>
+<p><a href="mailto:wang_mee_yeng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_mee_yeng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -267,6 +267,30 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Han Yan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:han_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">han_yan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Wang Lijuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wang_lijuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_lijuan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Malay</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -286,7 +310,7 @@ variant: tiptap
 <p>Mdm Fatimah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="fatimah_isnin@moe.edu.sg" rel="noopener nofollow" target="_blank">fatimah_isnin@moe.edu.sg</a>
+<p><a href="mailto:fatimah_isnin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fatimah_isnin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
