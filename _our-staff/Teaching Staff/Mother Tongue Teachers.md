@@ -291,6 +291,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Wei Hing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_wei_hing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_wei_hing@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Malay</p>
 </td>
 <td rowspan="1" colspan="1">
