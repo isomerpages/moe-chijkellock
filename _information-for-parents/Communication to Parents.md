@@ -41,7 +41,8 @@ variant: tiptap
 <p>Term 1</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2026 Files/KBytes_JAN_FEB_MAR_2026.pdf" rel="noopener nofollow" target="_blank">Jan, Feb, Mar 2026</a>
+</p>
 </th>
 </tr>
 <tr>
