@@ -28,8 +28,7 @@ variant: tiptap
 </p>
 <p></p>
 <h3><strong><br>2026</strong></h3>
-<p><strong>K-Bites</strong>
-</p>
+<h4><strong>K-Bites</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -56,10 +55,9 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<p><strong>2025</strong>
-</p>
-<p><strong>K-Bites</strong>
-</p>
+<p></p>
+<h4><strong>2025</strong></h4>
+<h4><strong>K-Bites</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
