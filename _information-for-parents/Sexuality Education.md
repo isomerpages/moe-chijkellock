@@ -91,8 +91,13 @@ Parents / Guardians can contact Mrs Hannah Yuen at <a href="mailto:ong_choon_wee
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
 <p>&nbsp;</p>
-<p>Thank you.<strong><br></strong>
-</p>
-<p>&nbsp;</p>
+<p>Thank you.<strong><br></strong>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Annex_A.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Annex_B.png">
+</div>
 <p>
 <br>Thank you.</p>
