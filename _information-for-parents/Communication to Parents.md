@@ -36,6 +36,15 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/files/2026 Files/PH_and_SH_CHIJ_Kellock_2026.pdf" rel="noopener nofollow" target="_blank">Public and School Holidays Semester 1 2026</a></strong>
+</p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <p>Term 1</p>
 </th>
