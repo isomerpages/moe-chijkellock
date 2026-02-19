@@ -20,7 +20,7 @@ sections:
         - title: For Teachers
           description: ""
           url: /forteachers/
-      background: /images/2026/Proposed_Banners13.gif
+      background: /images/2026/Proposed_Banners14.gif
       url: https://www.facebook.com/100071389479078
   - textcards:
       title: Announcement
