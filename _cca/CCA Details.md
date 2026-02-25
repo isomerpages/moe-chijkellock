@@ -226,7 +226,7 @@ description: ""
 <p>Ms Lisa Lim</p>
 <p>Ms Pherlyn Ho</p>
 <p>Ms Mishal Lim</p>
-<p>Mdm Poh Ser Lee</p>
+<p>Ms Zhuo Yue</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -415,7 +415,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Xavier Yong</p>
-<p>Ms Patricia Goh</p>
+<p>Mdm Poh Ser Lee</p>
 <p>Ms Joyce Chy</p>
 <p>Ms Han Yan</p>
 <p></p>
