@@ -55,10 +55,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Term 2</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/files/2026 Files/KBytes_APR_MAY_JUN_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Apr, May, Jun 2026</a></strong>
+</p>
 </td>
 </tr>
 </tbody>
