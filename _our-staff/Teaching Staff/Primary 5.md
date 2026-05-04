@@ -52,18 +52,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Rachelle Ching</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:rachelle_ching_lai_cheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rachelle_ching_lai_cheng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>P5 Angsana</p>
 </td>
 <td rowspan="1" colspan="1">
