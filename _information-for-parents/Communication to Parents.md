@@ -27,113 +27,11 @@ variant: tiptap
 <p><strong><a href="/files/2026 Files/P6__FDN__2026_BOOKLIST.pdf" rel="noopener nofollow" target="_blank">P6 (Fnd) Booklist 2026</a></strong>
 </p>
 <p></p>
-<h3><strong><br>2026</strong></h3>
-<h4><strong>K-Bites</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/files/2026 Files/PH_and_SH_CHIJ_Kellock_2026.pdf" rel="noopener nofollow" target="_blank">Public and School Holidays Semester 1 2026</a></strong>
-</p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Term 1</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><a href="/files/2026 Files/KBytes_JAN_FEB_MAR_2026.pdf" rel="noopener nofollow" target="_blank">Jan, Feb, Mar 2026</a>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Term 2</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/files/2026 Files/KBytes_APR_MAY_JUN_2026_updated_27_Mar.pdf" rel="noopener noreferrer nofollow" target="_blank">Apr, May, Jun 2026</a></strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
+<h3><strong><br></strong></h3>
 <p></p>
 <p></p>
-<h4><strong>2025</strong></h4>
-<h4><strong>K-Bites</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/files/2025 files/PH_and_SH_CHIJ_Kellock_Sem_1_2025.pdf" rel="noopener nofollow" target="_blank">Public &amp; School Holidays Semester 1 2025</a></strong>
-</p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Term 1</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong><a href="/files/2025 files/KBytes_JAN_FEB_MAR_2025.pdf" rel="noopener nofollow" target="_blank">Jan, Feb, Mar 2025</a></strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Term 2</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/files/2025 files/KBytes_APR_MAY_JUN_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Apr, May, Jun 2025</a></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/files/2025 files/PH_and_SH_CHIJ_Kellock_Sem_2_2025_updated_AUG.pdf" rel="noopener noreferrer nofollow" target="_blank">Public &amp; School Holidays Semester 2 2025</a></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Term 3</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/files/2025 files/KBytes_JUL_AUG_SEP_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Jul, Aug, Sept 2025</a></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Term 4</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/files/2025 files/KBytes_OCT_NOV_DEC_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Oct, Nov, Dec 2025</a></strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
+<h4></h4>
+<h4></h4>
 <p></p>
 <h4></h4>
 <p></p>
