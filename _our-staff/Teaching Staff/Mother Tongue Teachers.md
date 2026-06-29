@@ -319,11 +319,10 @@ variant: tiptap
 <p>Malay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Saripah</p>
+<p>Ms Nurul Khaulah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:saripah_mohamad_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">saripah_mohamad_b@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
