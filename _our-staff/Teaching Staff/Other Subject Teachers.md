@@ -69,6 +69,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Music</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Josephine Chan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chan_yu_ling_josephine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_yu_ling_josephine@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Art</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -113,17 +125,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:de_souza_christopher_john@moe.edu.sg" rel="noopener noreferrer nofollow" target="">de_souza_christopher_john@moe.edu.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;PE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Lena Koh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ang_siew_huay_lena@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ang_siew_huay_lena@moe.edu.sg</a>&nbsp;</p>
 </td>
 </tr>
 <tr>
