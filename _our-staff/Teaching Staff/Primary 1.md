@@ -156,21 +156,6 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Audrey Oh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:oh_chu_mei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">oh_chu_mei@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mrs Karen Wong</p>
 </td>
 <td rowspan="1" colspan="1">
