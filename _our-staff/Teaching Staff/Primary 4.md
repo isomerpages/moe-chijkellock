@@ -100,18 +100,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Zhang Linyue</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:zhang_linyue@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_linyue@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>P4 Orchid</p>
 </td>
 <td rowspan="1" colspan="1">
