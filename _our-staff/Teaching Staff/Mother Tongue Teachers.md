@@ -223,10 +223,11 @@ variant: tiptap
 <p>Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Tan Huey Ee Ester&nbsp;</p>
+<p>Ms Yue Zhuo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kua_huey_ee_esther@moe.edu.sg" rel="noopener noreferrer nofollow" target="">kua_huey_ee_esther@moe.edu.sg</a>&nbsp;</p>
+<p><a href="mailto:yue_zhuo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yue_zhuo@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
