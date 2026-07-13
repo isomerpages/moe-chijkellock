@@ -65,11 +65,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Angela Loh</p>
+<p>Mdm Siti Nurzaifah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:oh_puiyin_angela@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_puiyin_angela@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

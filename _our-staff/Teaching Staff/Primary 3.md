@@ -76,6 +76,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Yue Zhuo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yue_zhuo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yue_zhuo@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>P3 Congea</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -139,10 +151,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Michelle Peh</p>
+<p>Ms Angela Loh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:peh_tzu_fern_michelle_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peh_tzu_fern_michelle_a@moe.edu.sg</a>
+<p><a href="mailto:oh_puiyin_angela@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_puiyin_angela@moe.edu.sg</a>
 </p>
 </td>
 </tr>
